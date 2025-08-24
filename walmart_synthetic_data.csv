@@ -1,0 +1,1002 @@
+Name,Email,Age,Gender,Location,Item purchased,Purchased date,Category,Quantity,Price,Last purchase,Frequency of purchase,Preferred Brands,Discount sensitivity,Browsing history,Ratings
+Ashutosh ,khanna.ashutosh10@gmail.com,21,Male,North Robinside,Sofa,05-06-2024,Furniture,1,266.65,29-12-2023,14,DHP,High,"['Appliances', 'Toys']",3
+Juan Serrano,daniel54@example.net,59,Other,North Robinside,Doll,05-06-2024,Toys,3,297.72,29-12-2023,17,Disney,High,"['Furniture', 'Health & Wellness']",3
+Angela Scott,johnsonchristopher@example.net,45,Male,Brittanyville,Lawn Mower,28-06-2024,Home Improvement,4,410.74,02-01-2024,15,John Deere,High,"['Home Improvement', 'Groceries']",3
+Sara Shaw,mknox@example.com,61,Female,West Kimberlyberg,Drill,21-03-2024,Home Improvement,5,475.48,21-02-2024,13,Makita,High,"['Appliances', 'Toys']",4
+Kimberly James,pennywilcox@example.net,29,Female,Alanberg,Hair Care,23-02-2024,Beauty,5,317.54,02-03-2023,20,Garnier,High,"['Toys', 'Groceries', 'Health & Wellness']",3
+Tommy Parks,longpaul@example.org,57,Other,Lisahaven,Jacket,18-02-2024,Clothing,3,176.15,12-03-2023,4,Columbia,High,"['Clothing', 'Furniture', 'Clothing', 'Furniture', 'Beauty']",3
+Mary Kim,jacob90@example.net,35,Female,Port Ritastad,Jeans,18-05-2024,Clothing,3,288.75,15-10-2023,6,Levi's,Medium,['Electronics'],2
+Mrs. Leslie Gomez MD,tannerthompson@example.net,22,Male,East Lisamouth,Kayak,02-04-2024,Sports & Outdoors,3,245.9,20-06-2023,19,Old Town,High,"['Furniture', 'Toys', 'Home Improvement', 'Furniture', 'Electronics']",3
+Sarah Orozco,kristie54@example.org,42,Female,North Aaron,Supplements,14-07-2024,Health & Wellness,2,330.4,01-07-2024,5,Optimum Nutrition,High,"['Health & Wellness', 'Sports & Outdoors', 'Groceries', 'Appliances', 'Electronics']",4
+David Schwartz,morgansmith@example.org,50,Other,North Shannon,Skincare,30-04-2024,Beauty,3,393.43,05-08-2023,5,CeraVe,Medium,"['Home Improvement', 'Home Improvement']",2
+Joseph Mcmillan,jacobjohnson@example.org,58,Male,South Rebeccastad,Tool Set,21-01-2024,Home Improvement,5,107.47,26-12-2023,19,Craftsman,Low,"['Groceries', 'Clothing', 'Appliances', 'Electronics', 'Toys']",5
+Alexis Williams,yhiggins@example.org,38,Female,Clarkbury,Drill,19-01-2024,Home Improvement,5,242.44,30-03-2023,14,Makita,Medium,"['Furniture', 'Sports & Outdoors', 'Home Improvement', 'Sports & Outdoors']",3
+Wendy Anthony,jamie31@example.org,67,Male,Port Jessicamouth,Paint,20-02-2024,Home Improvement,5,155.67,22-06-2023,4,Valspar,High,"['Clothing', 'Clothing', 'Furniture', 'Health & Wellness', 'Electronics']",4
+Greg Tyler,paul82@example.com,38,Male,West Tiffanystad,Sofa,05-04-2024,Furniture,1,260.26,06-05-2023,15,DHP,High,"['Electronics', 'Electronics', 'Beauty', 'Sports & Outdoors', 'Appliances']",2
+Anthony Diaz,glenn83@example.org,28,Other,West Kathleen,Washer,08-06-2024,Appliances,1,282.34,14-11-2023,6,GE,Low,"['Appliances', 'Appliances', 'Beauty', 'Clothing']",4
+Traci Crawford,lopezcindy@example.org,19,Male,East Kevinland,Puzzle,17-02-2024,Toys,4,153.89,10-10-2023,9,Melissa & Doug,Low,"['Sports & Outdoors', 'Appliances', 'Electronics', 'Clothing']",4
+James Stewart,foxtimothy@example.net,62,Other,Anthonyport,Tent,11-01-2024,Sports & Outdoors,2,404.65,20-02-2023,9,ALPS Mountaineering,Medium,"['Home Improvement', 'Beauty', 'Electronics', 'Toys']",3
+Daniel Landry Jr.,jillmichael@example.org,58,Male,New Christopher,Car,11-02-2024,Toys,3,292.2,28-04-2023,11,Matchbox,Medium,"['Home Improvement', 'Clothing', 'Health & Wellness', 'Appliances']",3
+Erica Castillo,henryrebecca@example.org,60,Other,Williamland,TV,01-07-2024,Electronics,4,23.86,10-12-2023,11,Samsung,Low,['Home Improvement'],3
+Dawn Smith,hdunlap@example.com,69,Male,South Brian,Skincare,24-05-2024,Beauty,2,165.01,10-12-2023,11,Olay,Medium,['Electronics'],2
+Angela Roberts,miranda55@example.org,64,Female,New Brandonside,Paint,27-07-2024,Home Improvement,5,255.18,08-04-2024,17,Behr,High,"['Furniture', 'Toys']",5
+Paula Wright,amandathomas@example.com,67,Other,North Susanhaven,Bed,06-05-2024,Furniture,1,391.25,29-07-2023,3,Mainstays,High,"['Health & Wellness', 'Clothing']",3
+Amanda Marshall,andrewfry@example.org,46,Male,Port Richard,Tool Set,08-06-2024,Home Improvement,3,52.58,17-08-2023,5,Craftsman,High,"['Toys', 'Appliances']",3
+Kyle Lee,agregory@example.net,59,Female,Port Megantown,Car,20-04-2024,Toys,1,151.85,13-07-2023,8,Matchbox,Low,"['Home Improvement', 'Clothing', 'Electronics']",2
+Lisa Ashley,zimmermanheather@example.com,27,Female,East Herbert,Dryer,09-03-2024,Appliances,2,395.91,08-03-2024,20,Whirlpool,Low,"['Toys', 'Clothing', 'Furniture', 'Toys']",3
+Mrs. Angela Hernandez,marymayer@example.com,57,Male,Hernandezside,Paint,17-01-2024,Home Improvement,2,109.38,01-05-2023,5,Sherwin-Williams,High,"['Clothing', 'Groceries']",5
+Stacy Jackson,vshaffer@example.org,31,Female,Jaredville,Hair Care,08-06-2024,Beauty,4,116.11,07-06-2024,19,Garnier,Low,"['Health & Wellness', 'Beauty', 'Beauty', 'Toys', 'Appliances']",2
+Heather Wallace,johnpayne@example.com,53,Male,Wolfehaven,Washer,02-07-2024,Appliances,2,88.79,21-08-2023,3,LG,High,"['Groceries', 'Toys', 'Beauty', 'Groceries']",2
+Hannah King,danielle58@example.org,39,Other,North Seanton,Drill,29-04-2024,Home Improvement,1,432.37,25-01-2024,3,DeWalt,Low,"['Toys', 'Health & Wellness']",3
+Lawrence Nguyen,hardinsierra@example.com,28,Other,Walterberg,TV,29-03-2024,Electronics,1,306.65,31-08-2023,4,Samsung,High,"['Furniture', 'Home Improvement', 'Toys']",3
+Gregory Henry,yhart@example.org,59,Other,Ortizhaven,Puzzle,10-07-2024,Toys,4,366.52,03-01-2024,13,Ravensburger,High,"['Electronics', 'Groceries', 'Furniture', 'Appliances', 'Furniture']",4
+Kyle Gray,laceybutler@example.org,39,Other,North Rebecca,Kayak,13-04-2024,Sports & Outdoors,1,195.94,29-08-2023,9,Pelican,High,"['Toys', 'Groceries']",3
+Karen Farley,mccormickerin@example.org,65,Female,Port Isabelside,Tool Set,16-03-2024,Home Improvement,3,69.41,26-01-2024,4,Craftsman,Low,"['Appliances', 'Health & Wellness', 'Beauty']",1
+Emily Ballard MD,christine51@example.com,22,Male,Jamesville,TV,08-01-2024,Electronics,2,357.95,11-03-2023,3,LG,High,"['Health & Wellness', 'Appliances', 'Electronics', 'Health & Wellness']",5
+Joseph Foster,fanderson@example.com,57,Female,East Haleyview,Bike,15-07-2024,Sports & Outdoors,5,437.67,06-09-2023,12,Mongoose,Low,"['Groceries', 'Sports & Outdoors', 'Toys']",3
+Stephanie Johnson,george69@example.net,35,Male,Melissaton,First Aid,26-02-2024,Health & Wellness,2,407.42,23-03-2023,10,Johnson & Johnson,High,['Home Improvement'],2
+Matthew Johnson,dawn37@example.com,56,Female,East Kristen,Bread,16-02-2024,Groceries,1,48.62,03-02-2024,15,Sara Lee,High,"['Toys', 'Beauty']",4
+Theresa Johnson,careybob@example.com,46,Female,Port Jennatown,Car,07-03-2024,Toys,3,217.34,19-12-2023,7,Disney,High,"['Health & Wellness', 'Appliances', 'Health & Wellness', 'Groceries']",3
+Lauren Avila,annepierce@example.com,24,Female,Lake Sara,Milk,14-06-2024,Groceries,1,192.22,06-01-2024,3,Horizon,Low,['Home Improvement'],5
+David Harris,michaelmyers@example.com,69,Female,Johnsonchester,Laptop,11-05-2024,Electronics,4,31.98,23-06-2023,13,Lenovo,Medium,"['Furniture', 'Appliances', 'Sports & Outdoors', 'Furniture', 'Furniture']",3
+Jodi Gonzales,kristichambers@example.org,48,Male,Martinburgh,First Aid,29-02-2024,Health & Wellness,4,266.64,09-01-2024,11,Neosporin,High,['Beauty'],4
+Ana Black,huffmanolivia@example.net,65,Female,South Michaelmouth,Table,05-01-2024,Furniture,5,340.75,17-12-2023,19,Mainstays,High,"['Home Improvement', 'Electronics']",3
+Lori Meyers,shaun67@example.org,24,Female,Port Mary,Bread,10-05-2024,Groceries,2,30.23,10-09-2023,11,Wonder,Medium,"['Home Improvement', 'Furniture', 'Health & Wellness']",2
+Suzanne Carter,angelaclark@example.com,31,Other,North Emily,Butter,16-02-2024,Groceries,5,16.69,02-10-2023,20,Kerrygold,Low,['Furniture'],2
+Deborah Kirk,adriana02@example.com,58,Female,Jonesborough,Pain Relief,04-01-2024,Health & Wellness,1,358.78,21-07-2023,17,Tylenol,High,"['Toys', 'Beauty', 'Home Improvement']",2
+Dawn Arias,sreeves@example.com,58,Male,North Allisonmouth,Bed,24-01-2024,Furniture,4,148.64,18-06-2023,19,Serta,Low,"['Electronics', 'Groceries', 'Appliances']",4
+Kathleen Costa,robertcook@example.net,25,Female,Gallaghermouth,Jacket,09-03-2024,Clothing,5,66.03,22-06-2023,18,Columbia,Low,"['Toys', 'Appliances', 'Beauty', 'Health & Wellness', 'Health & Wellness']",4
+Michael Johnson,grantallison@example.com,31,Male,Cherylstad,Tent,18-07-2024,Sports & Outdoors,1,236,03-12-2023,5,Ozark Trail,Low,"['Sports & Outdoors', 'Electronics', 'Electronics']",2
+Jeremiah Decker,qmiller@example.com,54,Male,Lake Ashley,Milk,24-02-2024,Groceries,5,234.68,23-06-2023,1,Fairlife,Medium,['Groceries'],3
+Cassidy Blake,edward69@example.net,39,Other,Robinsonfort,Smartphone,05-01-2024,Electronics,3,79.38,24-01-2023,19,Google,High,"['Beauty', 'Health & Wellness', 'Electronics', 'Appliances', 'Beauty']",2
+Abigail Lewis,mcgeeyvette@example.com,40,Other,North Mariashire,Hair Care,17-06-2024,Beauty,5,444.41,26-10-2023,8,Pantene,High,"['Appliances', 'Groceries', 'Beauty', 'Furniture', 'Beauty']",3
+Dawn Le,egreen@example.com,52,Other,Zacharyshire,Jacket,17-02-2024,Clothing,4,453.72,13-11-2023,14,Carhartt,Medium,"['Appliances', 'Appliances', 'Health & Wellness', 'Clothing', 'Sports & Outdoors']",2
+Eric Collins,wgordon@example.com,19,Other,Ferrellberg,Supplements,29-05-2024,Health & Wellness,2,482.97,16-08-2023,1,Nature Made,Medium,"['Health & Wellness', 'Health & Wellness']",2
+Sherri Ramirez,woodthomas@example.net,52,Male,Lake Dianeland,Makeup,21-06-2024,Beauty,3,467.27,07-11-2023,10,CoverGirl,Low,"['Appliances', 'Home Improvement']",4
+Jerry Ellis,emilytaylor@example.com,69,Male,Lake Juanmouth,Refrigerator,08-03-2024,Appliances,5,255.35,05-09-2023,15,Samsung,High,"['Appliances', 'Sports & Outdoors', 'Toys', 'Clothing', 'Sports & Outdoors']",4
+Lori Kent,garciajoshua@example.org,43,Male,Port Jenniferville,Shoes,04-04-2024,Clothing,4,490.77,01-09-2023,10,Adidas,High,"['Electronics', 'Sports & Outdoors', 'Home Improvement', 'Toys']",3
+Michelle Thompson,paula48@example.net,58,Other,New Sarahberg,Paint,15-04-2024,Home Improvement,3,297.39,14-07-2023,15,Sherwin-Williams,Medium,"['Beauty', 'Health & Wellness', 'Toys']",2
+Jennifer Ramirez,mistymunoz@example.org,23,Other,Burchton,Lego,03-03-2024,Toys,4,346.6,13-11-2023,3,Lego,High,"['Health & Wellness', 'Furniture']",3
+Eric Campbell,phamilton@example.org,19,Male,Lake Vickieside,Smartphone,27-07-2024,Electronics,3,54.52,02-09-2023,12,Samsung,High,"['Groceries', 'Beauty', 'Health & Wellness']",2
+Karen Wright,rachelbrown@example.org,35,Female,New Jeremy,Washer,16-05-2024,Appliances,5,82.46,16-11-2023,16,LG,Low,"['Appliances', 'Clothing']",4
+Jonathan Willis,jacobsdeborah@example.net,67,Male,Port Alexandra,Butter,26-06-2024,Groceries,2,89.67,18-05-2024,2,Great Value,High,"['Furniture', 'Furniture', 'Health & Wellness']",4
+Evelyn Cook,silvajulie@example.net,41,Other,New Krystal,Fishing Rod,23-05-2024,Sports & Outdoors,3,34.64,26-12-2023,1,Shakespeare,Low,['Toys'],3
+Shawn James,anthony63@example.com,36,Male,Jenniferberg,Makeup,08-01-2024,Beauty,5,283.14,29-10-2023,8,CoverGirl,Low,['Sports & Outdoors'],2
+Samantha Ramirez,elizabeth99@example.org,37,Female,Craigview,Lego,20-04-2024,Toys,3,62.97,15-08-2023,8,Lego,Medium,"['Groceries', 'Clothing', 'Toys']",2
+Kevin Stokes,bonilladebra@example.com,67,Other,Josefurt,Fragrances,17-04-2024,Beauty,4,89.04,16-01-2024,11,Calvin Klein,High,"['Toys', 'Groceries']",2
+Jonathan Jackson,johnmartinez@example.com,37,Male,Matthewsport,TV,28-04-2024,Electronics,3,33.54,24-12-2023,6,Sony,High,"['Furniture', 'Beauty', 'Home Improvement', 'Toys']",2
+Robert Collins,mannkathryn@example.org,65,Other,West Jason,Table,24-05-2024,Furniture,5,369.38,31-12-2023,3,Sauder,High,"['Beauty', 'Home Improvement', 'Appliances', 'Home Improvement']",2
+Teresa Rivas,justinpeters@example.org,37,Female,North Paul,Makeup,28-04-2024,Beauty,5,124.28,25-10-2023,12,CoverGirl,Low,['Health & Wellness'],4
+Andrea Miller,jessicaroberts@example.com,27,Other,Garnerville,Laptop,02-03-2024,Electronics,3,450.04,14-10-2023,20,Dell,High,"['Home Improvement', 'Clothing']",5
+Brian Campos,ryan79@example.net,32,Female,South Biancaburgh,Laptop,28-05-2024,Electronics,2,458.64,03-04-2024,5,Dell,Low,"['Groceries', 'Home Improvement']",2
+Tyler Bullock,mgarcia@example.net,49,Other,Lindatown,Microwave,17-02-2024,Appliances,5,126.85,05-10-2023,9,GE,High,"['Toys', 'Electronics', 'Electronics', 'Sports & Outdoors', 'Electronics']",4
+Kathleen Castillo,katherine90@example.com,18,Other,North Erica,Paint,09-01-2024,Home Improvement,4,61.76,15-07-2023,6,Rust-Oleum,Medium,"['Electronics', 'Sports & Outdoors']",3
+Stanley Miranda,barbara31@example.org,44,Other,Lake Scott,Skincare,23-02-2024,Beauty,4,200.13,22-01-2024,16,Olay,High,"['Clothing', 'Sports & Outdoors', 'Home Improvement', 'Clothing']",3
+Michele Thompson,zacharynorman@example.net,36,Male,New Mitchellland,Doll,08-05-2024,Toys,5,422.67,20-04-2024,6,Barbie,Low,"['Health & Wellness', 'Groceries']",5
+Luis Anderson,judygonzalez@example.net,21,Female,Patricialand,Butter,06-06-2024,Groceries,1,224.19,21-12-2023,6,Kerrygold,High,"['Groceries', 'Beauty']",3
+Ethan Morris,johnsongary@example.org,40,Other,Kristopherstad,Doll,13-06-2024,Toys,1,198.86,05-02-2024,2,Disney,High,"['Beauty', 'Groceries', 'Furniture', 'Furniture']",3
+Joseph Mccarthy,xburton@example.org,54,Female,New Hannah,Refrigerator,07-04-2024,Appliances,3,119.42,04-01-2024,19,Whirlpool,Low,['Home Improvement'],5
+Alyssa Sutton,kevinlee@example.org,22,Female,Natalieland,Refrigerator,12-05-2024,Appliances,1,267.45,22-01-2024,4,Samsung,High,"['Home Improvement', 'Electronics', 'Clothing', 'Health & Wellness']",1
+Jennifer Hall,benitezrobert@example.com,53,Male,Port Mark,Refrigerator,16-06-2024,Appliances,5,436.89,11-12-2023,5,LG,Medium,"['Home Improvement', 'Toys', 'Beauty', 'Electronics', 'Health & Wellness']",5
+Brian Snyder,carrie35@example.net,70,Other,Amandaburgh,Headphones,13-03-2024,Electronics,2,183.19,21-01-2024,19,Sony,Medium,"['Clothing', 'Sports & Outdoors', 'Clothing', 'Clothing']",2
+Sherri Wilson,eugene55@example.com,47,Female,Lake Andrew,Jacket,04-01-2024,Clothing,5,37.17,24-09-2023,12,Patagonia,Medium,"['Beauty', 'Sports & Outdoors']",2
+Jordan May,guzmanrichard@example.net,69,Other,New Stevenport,Butter,14-03-2024,Groceries,3,173.15,24-02-2024,15,Kerrygold,Medium,"['Appliances', 'Furniture', 'Beauty']",4
+Heather Williams,lgillespie@example.com,57,Other,Mistymouth,TV,22-07-2024,Electronics,5,302.6,03-05-2024,3,Samsung,High,"['Beauty', 'Electronics', 'Clothing', 'Toys', 'Sports & Outdoors']",2
+William Salinas,jayrobertson@example.com,40,Other,Port Brandon,Smartphone,04-06-2024,Electronics,5,251.21,09-09-2023,15,OnePlus,High,['Beauty'],4
+Cheryl Whitney,bmartinez@example.net,19,Other,Scottport,Puzzle,21-04-2024,Toys,4,21.78,18-09-2023,15,Melissa & Doug,High,"['Sports & Outdoors', 'Appliances', 'Electronics']",2
+Julie Brown,sandra02@example.org,19,Other,East Amberville,Shirt,06-05-2024,Clothing,5,65.89,06-01-2024,13,Fruit of the Loom,Low,['Furniture'],3
+Jade Thomas,xrandall@example.net,34,Other,Hardymouth,Fragrances,09-02-2024,Beauty,1,268.11,12-05-2023,6,Calvin Klein,Medium,"['Sports & Outdoors', 'Sports & Outdoors', 'Furniture', 'Home Improvement', 'Beauty']",5
+Samantha Miller,samantha96@example.net,25,Female,New Susan,Headphones,06-07-2024,Electronics,3,499.13,22-07-2023,9,Bose,High,"['Electronics', 'Furniture']",3
+Robin Rowe,lclark@example.com,58,Other,New Robert,Fishing Rod,10-06-2024,Sports & Outdoors,5,18.45,01-12-2023,19,Ugly Stik,High,"['Appliances', 'Beauty']",5
+Matthew Larsen,pstafford@example.org,65,Female,Rachelmouth,Supplements,05-07-2024,Health & Wellness,4,8.04,22-05-2024,8,Optimum Nutrition,Low,"['Health & Wellness', 'Health & Wellness', 'Home Improvement', 'Groceries', 'Appliances']",2
+Timothy Gonzalez,frank79@example.com,59,Male,North Robert,Kayak,11-07-2024,Sports & Outdoors,5,33.88,20-07-2023,16,Pelican,Low,['Furniture'],3
+Jill Bailey,glennkatherine@example.org,18,Other,West Johnhaven,Sofa,12-03-2024,Furniture,3,244.13,20-11-2023,12,Serta,High,"['Appliances', 'Furniture', 'Home Improvement']",4
+Harold Stewart,fisherfrank@example.net,46,Male,Taylorport,Skincare,04-07-2024,Beauty,1,134.46,14-05-2024,6,CeraVe,Medium,"['Appliances', 'Health & Wellness']",3
+James Duffy,barreraashley@example.org,19,Female,Lowerymouth,Laptop,31-05-2024,Electronics,4,70.74,18-02-2024,19,Apple,Low,"['Appliances', 'Beauty', 'Furniture', 'Sports & Outdoors', 'Appliances']",4
+Stephanie Green,deborahdavis@example.com,28,Female,Smithfurt,Microwave,05-06-2024,Appliances,4,458.25,28-03-2024,11,LG,Medium,"['Clothing', 'Electronics', 'Furniture', 'Furniture', 'Groceries']",5
+John Wilkinson,pamela68@example.org,54,Other,New Vicki,Fishing Rod,01-03-2024,Sports & Outdoors,4,25.05,04-11-2023,17,Penn,Medium,"['Health & Wellness', 'Groceries', 'Health & Wellness', 'Clothing']",3
+Kevin Beck,martin16@example.net,37,Other,Mullinsfurt,Headphones,29-07-2024,Electronics,3,54.96,01-03-2024,8,JBL,Low,"['Beauty', 'Groceries', 'Health & Wellness']",3
+Anthony Benton,spotter@example.com,58,Other,Bonnieton,Tool Set,13-02-2024,Home Improvement,5,299.28,05-10-2023,5,Craftsman,Medium,"['Furniture', 'Sports & Outdoors', 'Appliances', 'Toys']",5
+Michael Higgins,robert18@example.net,46,Female,Williamsview,Smartphone,26-04-2024,Electronics,2,123.35,17-02-2024,7,Apple,High,"['Health & Wellness', 'Health & Wellness', 'Appliances', 'Groceries']",3
+Steven Lane,ychavez@example.com,31,Other,Staceyfurt,Lego,21-03-2024,Toys,4,374.3,22-09-2023,9,Lego,High,"['Home Improvement', 'Appliances']",2
+Guy Hughes,msmith@example.net,60,Other,West Debbie,Washer,10-02-2024,Appliances,4,384.5,13-12-2023,4,Whirlpool,Medium,"['Home Improvement', 'Furniture', 'Furniture']",2
+David Thomas,amymcconnell@example.com,62,Female,Chapmanville,Car,04-07-2024,Toys,1,383.58,29-11-2023,13,Disney,Medium,"['Electronics', 'Health & Wellness', 'Furniture', 'Health & Wellness']",1
+Kelly Patterson,robertssusan@example.org,42,Male,Franciscostad,Drill,25-02-2024,Home Improvement,1,107.3,19-09-2023,8,Makita,Medium,"['Furniture', 'Appliances', 'Groceries', 'Toys']",4
+Lisa Collins,jessicaruiz@example.net,61,Male,East Diana,First Aid,01-07-2024,Health & Wellness,5,386.13,12-10-2023,14,Neosporin,Low,['Electronics'],3
+Rebecca Heath,hannahjohnson@example.net,33,Male,Lake Toddside,Kayak,26-02-2024,Sports & Outdoors,4,151.37,25-09-2023,16,Intex,Low,"['Toys', 'Home Improvement', 'Home Improvement']",5
+Alan Mitchell,jgraves@example.org,56,Male,West Olivia,Makeup,10-07-2024,Beauty,5,38.23,19-10-2023,12,Revlon,Medium,"['Appliances', 'Sports & Outdoors', 'Sports & Outdoors', 'Groceries']",4
+Gina Aguilar,hernandezandrea@example.com,30,Other,West Matthew,Tent,14-03-2024,Sports & Outdoors,3,227.19,20-10-2023,19,ALPS Mountaineering,High,"['Home Improvement', 'Toys', 'Appliances']",5
+Jacob Fowler,steeledanielle@example.org,28,Male,South Savannah,Butter,15-01-2024,Groceries,5,334.18,04-05-2023,20,Great Value,Medium,"['Appliances', 'Toys', 'Clothing', 'Sports & Outdoors']",4
+Dustin Wallace,brittany98@example.net,48,Other,North Christopherside,Puzzle,11-06-2024,Toys,5,485.53,05-04-2024,3,Melissa & Doug,Medium,"['Clothing', 'Electronics', 'Appliances']",3
+Stephanie Anderson,henry03@example.org,39,Male,Allenmouth,Pain Relief,20-07-2024,Health & Wellness,3,235.19,25-04-2024,20,Bayer,High,"['Furniture', 'Toys', 'Beauty', 'Appliances']",3
+Megan Martin,barnettheather@example.org,69,Other,Stephanieville,Chair,31-05-2024,Furniture,3,28.66,16-11-2023,19,Better Homes & Gardens,Low,"['Health & Wellness', 'Groceries', 'Appliances', 'Clothing', 'Toys']",4
+Kari Duncan,fernandoholt@example.com,67,Male,Duranmouth,Sofa,09-07-2024,Furniture,5,244.67,03-05-2024,14,Serta,Low,"['Electronics', 'Home Improvement']",2
+Andrea Marsh,briannamills@example.com,59,Female,Josephmouth,Drill,16-03-2024,Home Improvement,1,54.92,01-07-2023,15,Makita,Medium,"['Toys', 'Toys', 'Health & Wellness']",4
+Pamela Norton,qmorgan@example.com,49,Male,North Darlenefort,Laptop,12-04-2024,Electronics,5,182.32,28-08-2023,13,Apple,High,"['Clothing', 'Clothing']",2
+Ryan Young,smorales@example.org,51,Female,East Charlesview,Tent,27-05-2024,Sports & Outdoors,2,493.76,06-01-2024,1,ALPS Mountaineering,Low,"['Clothing', 'Furniture', 'Toys']",3
+Tanya Smith,dadams@example.net,68,Other,Hannaborough,Smartphone,04-03-2024,Electronics,4,461.09,18-09-2023,3,OnePlus,Medium,"['Health & Wellness', 'Groceries', 'Clothing', 'Health & Wellness']",2
+Veronica Patterson,russelldalton@example.org,40,Other,Lake Amy,Lego,05-07-2024,Toys,5,118.16,05-12-2023,8,Lego,High,"['Appliances', 'Groceries', 'Groceries', 'Home Improvement', 'Health & Wellness']",5
+Philip Owen,grace17@example.net,49,Male,Davidport,Hair Care,01-05-2024,Beauty,4,92.85,21-03-2024,3,Garnier,Medium,"['Furniture', 'Beauty', 'Appliances']",4
+Zachary Perez,matthewmadden@example.net,45,Female,Port Amy,Pain Relief,01-07-2024,Health & Wellness,4,132.05,24-08-2023,4,Tylenol,Low,"['Toys', 'Toys']",5
+Joe Scott,oconnoranna@example.com,45,Female,Kennethside,Drill,21-01-2024,Home Improvement,3,66.16,05-06-2023,15,Makita,High,"['Electronics', 'Sports & Outdoors']",5
+James Steele,yevans@example.net,54,Female,East Randy,Shirt,12-07-2024,Clothing,4,151.92,13-06-2024,16,Wrangler,High,"['Toys', 'Home Improvement', 'Home Improvement']",2
+Jose Fletcher,hwilliams@example.com,33,Other,New Charles,Bed,27-07-2024,Furniture,1,113.7,18-10-2023,6,Serta,Medium,"['Appliances', 'Groceries', 'Sports & Outdoors', 'Sports & Outdoors', 'Beauty']",4
+Robert Schmidt,mclaughlinbrian@example.com,59,Female,New Tonya,Eggs,04-01-2024,Groceries,1,386.24,01-07-2023,5,Great Value,Low,"['Health & Wellness', 'Groceries', 'Appliances', 'Beauty']",4
+Zachary Stephens,ashleyarmstrong@example.com,42,Female,Baldwinside,Tool Set,22-01-2024,Home Improvement,3,390.77,12-09-2023,6,Stanley,Medium,['Clothing'],2
+Michael Wilson,osborneeric@example.com,43,Female,Lake Alexander,Bike,21-06-2024,Sports & Outdoors,4,395.09,20-06-2024,1,Huffy,Low,"['Health & Wellness', 'Sports & Outdoors', 'Furniture', 'Groceries']",3
+Natalie Stewart,ucrawford@example.net,62,Male,Port Gregoryland,Tool Set,01-01-2024,Home Improvement,1,43.91,18-11-2023,20,Stanley,Low,"['Clothing', 'Groceries', 'Groceries']",2
+Timothy Leach,ncarney@example.com,44,Male,Willistown,Skincare,13-01-2024,Beauty,1,85.58,29-07-2023,15,Neutrogena,High,"['Home Improvement', 'Furniture', 'Furniture', 'Sports & Outdoors', 'Groceries']",5
+Dillon Castillo,wendyroman@example.org,20,Female,Marissaville,Bread,09-04-2024,Groceries,1,73.74,07-08-2023,19,Sara Lee,High,"['Electronics', 'Furniture']",5
+Joshua Frye,sanchezchristopher@example.org,24,Female,North Julie,Shirt,20-07-2024,Clothing,3,411.3,18-12-2023,17,Fruit of the Loom,High,"['Home Improvement', 'Furniture', 'Clothing', 'Toys']",2
+Breanna Henderson,emoore@example.org,68,Female,Harrisshire,Supplements,21-03-2024,Health & Wellness,5,8.65,14-09-2023,15,Nature Made,Low,"['Toys', 'Beauty', 'Sports & Outdoors', 'Sports & Outdoors', 'Electronics']",4
+Michael Neal,lindasullivan@example.net,44,Female,South Bryan,Headphones,23-06-2024,Electronics,1,317.99,17-12-2023,20,Bose,High,"['Beauty', 'Beauty', 'Furniture', 'Home Improvement', 'Toys']",2
+Ann Lee,erikrodriguez@example.net,68,Female,Lake Emilyland,Drill,08-03-2024,Home Improvement,3,486.49,09-06-2023,9,DeWalt,Medium,"['Groceries', 'Clothing', 'Sports & Outdoors']",1
+Candice Stanley,lori87@example.org,65,Other,Paulborough,Drill,19-02-2024,Home Improvement,2,32.02,08-10-2023,13,Makita,High,"['Sports & Outdoors', 'Groceries']",3
+Becky Fisher,nholloway@example.org,27,Male,Millertown,Sofa,07-02-2024,Furniture,4,82.49,14-08-2023,1,Mainstays,High,"['Beauty', 'Clothing', 'Electronics', 'Groceries']",3
+Tyler Mcneil,chenwayne@example.org,20,Male,Lake James,Eggs,29-01-2024,Groceries,1,343.76,11-01-2024,19,Great Value,Medium,"['Home Improvement', 'Health & Wellness', 'Beauty', 'Furniture']",4
+John Potts,ryan93@example.com,33,Other,Paynechester,Car,13-04-2024,Toys,4,295.56,14-04-2023,9,Matchbox,Low,"['Furniture', 'Electronics', 'Clothing', 'Health & Wellness', 'Groceries']",2
+Jordan Rodriguez,whoffman@example.org,49,Other,New Melissatown,Paint,19-04-2024,Home Improvement,3,166.32,30-05-2023,13,Behr,Medium,"['Beauty', 'Furniture']",2
+Taylor Cooke,rogerselizabeth@example.org,18,Other,Mayoville,Bread,08-07-2024,Groceries,4,212.59,01-06-2024,4,Sara Lee,High,"['Toys', 'Sports & Outdoors', 'Sports & Outdoors']",3
+Elizabeth Fitzpatrick,millernathan@example.net,58,Male,Lambertland,Skincare,11-02-2024,Beauty,1,237,30-11-2023,2,Aveeno,Medium,"['Toys', 'Health & Wellness', 'Appliances', 'Clothing']",3
+Richard Oliver,lowejeffrey@example.com,26,Other,New Kevin,Drill,14-07-2024,Home Improvement,2,17.69,14-04-2024,17,Black+Decker,High,"['Appliances', 'Toys', 'Health & Wellness']",3
+Cindy Malone,aellis@example.net,49,Female,Marcusview,Shoes,10-05-2024,Clothing,2,324.54,27-12-2023,10,Adidas,Medium,['Home Improvement'],4
+Erik Moore,jeremydavis@example.com,51,Other,East James,Sofa,30-01-2024,Furniture,1,465.72,08-04-2023,12,Serta,Medium,"['Sports & Outdoors', 'Home Improvement', 'Groceries', 'Groceries']",3
+Zachary White,leahmoreno@example.org,64,Other,Delacruzton,Fishing Rod,10-01-2024,Sports & Outdoors,5,227.88,14-06-2023,6,Ugly Stik,High,"['Electronics', 'Electronics', 'Beauty', 'Appliances', 'Health & Wellness']",5
+Todd Sims,scottsara@example.com,62,Other,Byrdstad,Washer,19-01-2024,Appliances,4,339.26,14-07-2023,15,Samsung,Medium,"['Home Improvement', 'Electronics']",2
+Kimberly Hunt,ronald70@example.com,66,Female,West Katherine,Butter,04-06-2024,Groceries,4,216.42,03-04-2024,9,Great Value,Medium,"['Health & Wellness', 'Electronics', 'Beauty']",4
+Paul Carr,cameronclark@example.org,57,Female,South Luis,Bed,22-02-2024,Furniture,3,154.07,28-08-2023,9,Mainstays,Medium,"['Toys', 'Sports & Outdoors', 'Toys']",2
+Deborah Anderson,heiditaylor@example.net,41,Male,Ashleychester,Pain Relief,04-06-2024,Health & Wellness,4,190.19,11-01-2024,5,Advil,Medium,"['Home Improvement', 'Clothing', 'Home Improvement', 'Appliances']",3
+James Smith,patricia47@example.org,21,Male,New Richard,Car,11-01-2024,Toys,4,152.87,27-07-2023,13,Disney,High,"['Groceries', 'Electronics']",4
+Timothy Ward,christopher18@example.org,34,Female,North Lisa,Doll,15-06-2024,Toys,4,477.32,10-06-2024,18,Barbie,High,"['Sports & Outdoors', 'Home Improvement', 'Toys', 'Sports & Outdoors']",3
+Emily Fowler,perezjoe@example.com,62,Other,Josephport,Tool Set,15-05-2024,Home Improvement,4,285.03,14-01-2024,17,Kobalt,Low,"['Appliances', 'Appliances', 'Groceries', 'Beauty', 'Home Improvement']",4
+Erin Clarke,yrodriguez@example.com,67,Female,Morrisonshire,Drill,02-08-2024,Home Improvement,5,351.18,11-02-2024,11,Makita,High,"['Sports & Outdoors', 'Toys', 'Sports & Outdoors']",3
+Gabriella Bauer,youngevelyn@example.net,46,Other,South Henrymouth,Washer,12-02-2024,Appliances,2,413.07,10-03-2023,16,Whirlpool,High,"['Sports & Outdoors', 'Electronics', 'Toys', 'Beauty', 'Furniture']",4
+Michael Wilson,sarahmoses@example.net,68,Other,New Chadberg,Bike,18-03-2024,Sports & Outdoors,3,54.42,26-09-2023,18,Mongoose,High,['Sports & Outdoors'],1
+Eric Gonzalez,paul23@example.org,45,Male,Obrienport,Laptop,29-03-2024,Electronics,2,314.76,07-12-2023,6,HP,High,"['Health & Wellness', 'Appliances']",4
+Daniel Brown,iyoung@example.net,42,Other,Port Aaron,Jacket,10-04-2024,Clothing,1,89.07,04-01-2024,18,Carhartt,Low,['Beauty'],5
+Joshua Knight,cindylindsey@example.com,69,Female,Maryfort,Drill,08-04-2024,Home Improvement,2,112.43,28-11-2023,8,Black+Decker,High,"['Health & Wellness', 'Toys', 'Electronics', 'Home Improvement', 'Appliances']",3
+Alicia Garner,gwelch@example.com,26,Other,Harrisonshire,Washer,16-02-2024,Appliances,4,241.74,10-03-2023,1,GE,Medium,"['Groceries', 'Home Improvement']",4
+Anthony Hawkins,allenryan@example.net,36,Other,West Robynshire,Shirt,20-02-2024,Clothing,3,252.25,12-06-2023,4,Hanes,Low,"['Health & Wellness', 'Groceries']",3
+Anna James,nguyenryan@example.net,28,Female,South Spencershire,Headphones,05-02-2024,Electronics,5,37.73,08-09-2023,10,Beats,High,"['Electronics', 'Beauty', 'Home Improvement']",2
+Cheryl Porter,daviskevin@example.net,60,Other,Lake Kenneth,Pain Relief,27-04-2024,Health & Wellness,1,189.92,25-09-2023,20,Bayer,High,"['Groceries', 'Toys', 'Sports & Outdoors', 'Health & Wellness', 'Appliances']",3
+Robert Shelton,sharon09@example.org,28,Male,West Glenn,Milk,15-04-2024,Groceries,1,326.94,16-06-2023,8,Horizon,High,['Beauty'],4
+David Higgins,katie34@example.net,53,Other,Lake Susan,Drill,16-04-2024,Home Improvement,4,270.84,27-02-2024,5,Bosch,High,"['Clothing', 'Clothing', 'Health & Wellness', 'Electronics', 'Health & Wellness']",2
+Andrew Green,brownsandra@example.com,42,Female,Lake Katherineville,Paint,18-07-2024,Home Improvement,1,260.68,07-12-2023,10,Sherwin-Williams,Low,"['Groceries', 'Toys', 'Furniture', 'Sports & Outdoors']",2
+Kathleen Hamilton,noblelinda@example.net,66,Female,South Eugene,Fishing Rod,01-01-2024,Sports & Outdoors,5,300.01,07-11-2023,16,Shakespeare,Medium,"['Electronics', 'Sports & Outdoors']",4
+Daniel Parrish,annettelopez@example.org,41,Female,Aprilburgh,Butter,25-01-2024,Groceries,5,421.9,03-12-2023,3,Kerrygold,High,"['Clothing', 'Sports & Outdoors', 'Electronics', 'Clothing', 'Furniture']",3
+Julia Clark,schroederjoseph@example.net,36,Male,East Christopher,Hair Care,27-02-2024,Beauty,5,367.19,29-06-2023,2,Tresemme,High,['Beauty'],4
+Jeremy Wells,kholmes@example.com,35,Other,Port Barbaraview,Lego,04-04-2024,Toys,3,177.12,28-06-2023,2,Lego,Medium,['Appliances'],2
+Elizabeth Gardner,hwhite@example.org,48,Other,South Crystalville,Dryer,08-01-2024,Appliances,3,87.06,11-02-2023,6,LG,Low,"['Home Improvement', 'Toys', 'Toys', 'Beauty', 'Appliances']",2
+Elizabeth Hopkins,jennifer18@example.org,54,Female,Gonzalezfort,Laptop,27-07-2024,Electronics,3,474.42,06-06-2024,10,HP,High,"['Electronics', 'Furniture', 'Groceries', 'Clothing', 'Toys']",3
+Robert Adams,phamtiffany@example.org,67,Male,North Samuel,Butter,15-01-2024,Groceries,4,147.91,03-02-2023,11,Great Value,Medium,"['Beauty', 'Electronics', 'Clothing', 'Toys']",3
+Jeremiah Esparza,kathleentran@example.org,56,Male,New Georgemouth,Eggs,15-03-2024,Groceries,1,58.17,13-05-2023,2,Vital Farms,Low,['Furniture'],4
+Sarah Mcguire,thomasjones@example.net,28,Female,Lake Tonyaburgh,Laptop,19-05-2024,Electronics,3,444.98,08-12-2023,6,Dell,High,"['Appliances', 'Clothing', 'Beauty']",2
+Ashley George,suarezcynthia@example.net,35,Male,Lake Valerie,Skincare,14-04-2024,Beauty,4,74.39,07-08-2023,10,CeraVe,Medium,['Beauty'],3
+Connie Velazquez,williamsashley@example.net,18,Female,Scottfort,Makeup,23-02-2024,Beauty,5,309.3,15-08-2023,6,L'Oreal,Low,['Beauty'],4
+Amanda Lopez,richardstraci@example.org,67,Other,Schneidermouth,Tent,02-08-2024,Sports & Outdoors,3,55.13,07-12-2023,11,Wenzel,Medium,"['Sports & Outdoors', 'Electronics', 'Toys']",2
+Jessica Stephenson,hmartinez@example.org,50,Other,East Michaelland,Bike,18-04-2024,Sports & Outdoors,3,137.61,09-12-2023,2,Trek,Low,['Beauty'],4
+Jasmin Nguyen,tmills@example.com,49,Male,East Becky,Table,04-04-2024,Furniture,3,436.16,06-04-2023,6,Better Homes & Gardens,Medium,"['Furniture', 'Toys', 'Beauty', 'Furniture', 'Electronics']",1
+Jesse Powell,hbuck@example.net,35,Male,Port Jenniferfurt,Makeup,05-08-2024,Beauty,3,332.3,03-04-2024,16,Revlon,Low,"['Furniture', 'Electronics', 'Electronics', 'Toys', 'Health & Wellness']",4
+Daniel Sims,aaronholmes@example.com,55,Female,South Mike,Puzzle,02-03-2024,Toys,5,41.44,04-07-2023,1,Ravensburger,High,['Sports & Outdoors'],2
+Connor Ellis,gclark@example.net,55,Female,West Stephenborough,Shirt,18-05-2024,Clothing,2,56.97,14-03-2024,6,Hanes,Medium,"['Electronics', 'Electronics', 'Health & Wellness']",3
+Carolyn Cabrera,amullen@example.org,67,Male,Lisatown,Tool Set,24-04-2024,Home Improvement,4,466.85,21-06-2023,17,Kobalt,Medium,['Toys'],3
+Walter Smith,lovejames@example.com,40,Female,Sheriville,Eggs,11-06-2024,Groceries,2,324.71,23-12-2023,18,Great Value,Medium,"['Home Improvement', 'Appliances', 'Electronics', 'Health & Wellness']",2
+Timothy Ross,patrickhawkins@example.net,48,Female,Ethanville,First Aid,05-05-2024,Health & Wellness,4,28.8,27-06-2023,11,Neosporin,Low,"['Appliances', 'Toys', 'Appliances', 'Health & Wellness', 'Beauty']",2
+Jason Williams,tracy12@example.org,45,Female,New Andrewberg,Bed,22-03-2024,Furniture,2,409.25,14-01-2024,4,Better Homes & Gardens,Low,"['Sports & Outdoors', 'Toys', 'Groceries', 'Furniture', 'Sports & Outdoors']",4
+Karen Johnson,brendajohnson@example.com,22,Female,North Robertside,Bike,15-01-2024,Sports & Outdoors,1,216.55,24-05-2023,7,Mongoose,Medium,"['Clothing', 'Clothing', 'Electronics', 'Clothing', 'Health & Wellness']",3
+Loretta Miller,pcline@example.net,40,Female,Samanthatown,Jacket,06-04-2024,Clothing,1,87.62,24-01-2024,16,North Face,High,"['Sports & Outdoors', 'Health & Wellness', 'Toys']",4
+Don Adams,bradley46@example.com,42,Female,Lake Francis,Pain Relief,17-04-2024,Health & Wellness,4,278.38,08-06-2023,14,Bayer,High,"['Sports & Outdoors', 'Home Improvement']",3
+Patricia Long,lindagonzales@example.org,49,Female,Shermantown,Fragrances,27-04-2024,Beauty,5,150.84,25-11-2023,3,Chanel,Medium,"['Beauty', 'Home Improvement']",3
+Ashley Cole,phillipsdanielle@example.com,48,Other,Lake Michelle,Kayak,04-06-2024,Sports & Outdoors,2,250.09,27-04-2024,18,Lifetime,High,"['Beauty', 'Electronics', 'Furniture']",3
+Logan Jones,lewisfelicia@example.org,64,Male,Davidmouth,Tent,23-07-2024,Sports & Outdoors,5,495.71,26-11-2023,12,Wenzel,High,"['Sports & Outdoors', 'Furniture', 'Electronics', 'Beauty']",2
+Christopher Walker,obrown@example.com,56,Female,Michaelburgh,Washer,21-05-2024,Appliances,2,202.59,13-06-2023,10,LG,Medium,"['Home Improvement', 'Home Improvement']",4
+Sarah Giles,christopher88@example.org,28,Female,Port Cheryl,Dryer,18-06-2024,Appliances,1,299.27,24-04-2024,19,GE,Medium,"['Sports & Outdoors', 'Beauty', 'Beauty', 'Furniture', 'Health & Wellness']",3
+Stephen Berry,roymegan@example.com,58,Other,Derrickview,Smartphone,29-02-2024,Electronics,5,388.7,10-09-2023,19,Samsung,Low,['Health & Wellness'],2
+Curtis Snyder,megan70@example.com,47,Female,Lake Courtneyhaven,Washer,01-04-2024,Appliances,2,365.32,28-03-2024,15,Samsung,Medium,"['Home Improvement', 'Groceries']",1
+Melissa Williams,zthompson@example.com,22,Other,East Karen,Milk,18-05-2024,Groceries,3,471.74,26-11-2023,20,Horizon,Low,"['Beauty', 'Furniture', 'Beauty']",3
+Preston Kelly,frank49@example.org,19,Female,West Tonyland,Doll,19-06-2024,Toys,4,283.49,30-06-2023,6,Disney,Low,"['Home Improvement', 'Toys', 'Home Improvement', 'Electronics', 'Beauty']",3
+Kenneth Salazar,dfreeman@example.com,33,Other,Lake Samanthashire,Bread,15-02-2024,Groceries,3,197.32,05-12-2023,17,Nature's Own,Medium,"['Groceries', 'Health & Wellness']",3
+Marco Duncan,umartinez@example.com,48,Female,Hunterside,Bike,29-05-2024,Sports & Outdoors,5,421.82,16-04-2024,2,Trek,Low,"['Toys', 'Clothing', 'Appliances']",4
+Jason Reyes,catherinewilson@example.net,19,Male,South Carriemouth,TV,13-02-2024,Electronics,2,341.66,28-11-2023,2,Samsung,High,"['Sports & Outdoors', 'Groceries', 'Beauty', 'Sports & Outdoors']",2
+Heidi Harmon,piercemelissa@example.net,56,Male,Lake Joel,Table,19-07-2024,Furniture,5,78.6,29-04-2024,19,Sauder,Low,"['Furniture', 'Electronics']",1
+Kayla Sullivan,marcuscraig@example.org,28,Female,Justinland,Laptop,09-02-2024,Electronics,3,271.79,19-02-2023,15,Lenovo,Medium,['Health & Wellness'],2
+John Sullivan,mariahmoore@example.net,26,Male,Susanland,Jacket,27-05-2024,Clothing,5,494.03,10-01-2024,18,Carhartt,Medium,"['Appliances', 'Sports & Outdoors', 'Groceries', 'Sports & Outdoors']",2
+Paul Smith,acollins@example.com,41,Female,Lake Claudiahaven,Tool Set,09-06-2024,Home Improvement,4,487.85,02-05-2024,18,Stanley,Medium,"['Health & Wellness', 'Health & Wellness']",2
+Megan Martin,cynthia11@example.com,48,Other,New Travis,Skincare,30-04-2024,Beauty,5,43.62,02-08-2023,20,Aveeno,High,"['Toys', 'Appliances', 'Beauty']",2
+Benjamin Gomez,scottthompson@example.org,18,Other,Amandaland,Bed,13-05-2024,Furniture,2,424.24,11-01-2024,16,Mainstays,High,"['Toys', 'Appliances']",4
+Traci Bush,darrellramirez@example.net,67,Male,Kristymouth,Paint,10-05-2024,Home Improvement,1,329.87,02-03-2024,8,Valspar,Medium,"['Beauty', 'Clothing', 'Furniture', 'Sports & Outdoors', 'Electronics']",4
+Donald Morgan,mtravis@example.org,30,Other,South Margaretshire,Puzzle,20-03-2024,Toys,1,345.21,18-10-2023,4,Ravensburger,Low,"['Electronics', 'Groceries', 'Electronics', 'Beauty', 'Sports & Outdoors']",2
+Stephanie Barker,robertmerritt@example.org,47,Other,Foleyshire,Eggs,20-04-2024,Groceries,4,467.52,12-05-2023,14,Vital Farms,Medium,['Electronics'],4
+Robert Williams,laurengriffin@example.org,62,Other,Lake Bruceburgh,Bed,22-04-2024,Furniture,5,331.8,30-09-2023,11,Mainstays,Medium,['Groceries'],4
+Michael Rodriguez,sescobar@example.org,50,Other,New Meredithberg,Smartphone,17-02-2024,Electronics,4,418.87,27-02-2023,6,Samsung,High,"['Electronics', 'Clothing', 'Furniture']",2
+Raymond Miller,ashley02@example.org,37,Female,West Debra,Refrigerator,19-01-2024,Appliances,2,102.48,30-07-2023,8,GE,High,"['Appliances', 'Home Improvement', 'Groceries']",4
+Jessica Brewer,sean85@example.net,18,Female,South Sydneymouth,Jeans,13-04-2024,Clothing,3,77.16,15-02-2024,16,Levi's,High,"['Appliances', 'Clothing', 'Clothing', 'Toys', 'Groceries']",3
+Deborah Miranda,mwang@example.com,54,Female,Lake Danielland,Makeup,20-02-2024,Beauty,5,214.75,28-12-2023,6,Maybelline,High,"['Health & Wellness', 'Groceries', 'Sports & Outdoors', 'Furniture']",1
+Kelli Sullivan,tracyturner@example.net,62,Other,North Megan,Sofa,16-06-2024,Furniture,2,220.01,25-08-2023,19,DHP,High,"['Home Improvement', 'Clothing']",2
+Patricia Harding,lauriesmith@example.com,25,Other,Port Brenda,Kayak,15-02-2024,Sports & Outdoors,4,375.24,22-04-2023,7,Pelican,High,"['Health & Wellness', 'Beauty', 'Groceries']",2
+Joseph Jones,carol68@example.org,43,Other,Stephanieberg,Car,02-07-2024,Toys,1,464.35,30-01-2024,12,Matchbox,High,"['Clothing', 'Home Improvement', 'Sports & Outdoors', 'Groceries', 'Toys']",2
+David Parker,jeffreygomez@example.org,49,Male,North Elizabeth,Drill,08-03-2024,Home Improvement,2,107.81,10-05-2023,17,Black+Decker,High,"['Health & Wellness', 'Sports & Outdoors', 'Sports & Outdoors', 'Health & Wellness', 'Beauty']",4
+Leroy Bailey,russellrobinson@example.com,42,Male,Brittneyborough,Smartphone,13-01-2024,Electronics,4,401.7,14-05-2023,8,Apple,Medium,"['Health & Wellness', 'Electronics', 'Toys', 'Furniture']",4
+Jamie Michael,ericodom@example.org,28,Other,Lisaside,Car,17-01-2024,Toys,3,121.64,31-01-2023,12,Matchbox,Low,"['Clothing', 'Appliances']",1
+Sandra Harrison,ruizamy@example.com,53,Other,Port Robin,Skincare,05-07-2024,Beauty,1,302.58,09-12-2023,13,Olay,High,"['Sports & Outdoors', 'Beauty', 'Health & Wellness', 'Home Improvement']",2
+Robert Lewis,davidmaria@example.com,45,Other,Brandonbury,Chair,24-03-2024,Furniture,4,438.7,08-01-2024,2,Better Homes & Gardens,Low,"['Appliances', 'Home Improvement']",2
+Jane Griffin,martinezbrooke@example.com,35,Male,Brownborough,Shoes,07-02-2024,Clothing,3,234.45,14-05-2023,14,Puma,High,"['Sports & Outdoors', 'Electronics', 'Furniture']",2
+Zachary King,lisa19@example.net,25,Female,Boyleberg,Butter,04-08-2024,Groceries,5,458.33,03-12-2023,3,Great Value,Medium,"['Health & Wellness', 'Beauty', 'Home Improvement']",4
+Elizabeth Hughes,bradley44@example.net,62,Male,Fowlerport,Fragrances,22-07-2024,Beauty,1,50.65,24-11-2023,9,Versace,High,['Beauty'],3
+Sheila Hernandez,russellshelby@example.org,24,Other,Brianberg,Bread,26-06-2024,Groceries,1,458.07,16-01-2024,2,Wonder,Low,"['Toys', 'Sports & Outdoors']",2
+Kathryn Torres,kimberly31@example.net,30,Other,Port Natalie,Jacket,08-03-2024,Clothing,5,154.24,30-04-2023,17,Columbia,High,"['Groceries', 'Beauty', 'Groceries', 'Groceries', 'Sports & Outdoors']",3
+Michael Eaton,lewistanya@example.org,58,Other,South Christopher,Microwave,03-07-2024,Appliances,5,140.5,02-09-2023,7,GE,High,"['Groceries', 'Groceries', 'Sports & Outdoors', 'Furniture']",3
+Veronica Gould MD,ugilbert@example.net,41,Other,Leestad,Fishing Rod,07-07-2024,Sports & Outdoors,4,180.34,29-12-2023,17,Ugly Stik,Low,"['Furniture', 'Appliances', 'Toys']",3
+Erica Perez,mmitchell@example.net,24,Other,Christinebury,Tool Set,07-03-2024,Home Improvement,2,187.41,04-06-2023,15,Husky,Medium,"['Health & Wellness', 'Toys']",4
+Brandi Vargas,denisedean@example.org,27,Other,Mariaside,Paint,16-04-2024,Home Improvement,4,230.26,28-12-2023,3,Behr,High,"['Clothing', 'Toys', 'Appliances', 'Toys', 'Groceries']",2
+John Lopez,pvega@example.net,55,Female,Parkerfort,Bed,02-06-2024,Furniture,1,478.16,29-12-2023,1,Serta,Medium,"['Beauty', 'Groceries', 'Appliances', 'Appliances', 'Clothing']",4
+Matthew Hoover,dixonpaul@example.com,49,Male,East Stacyton,Jeans,16-06-2024,Clothing,5,245.23,15-03-2024,2,Levi's,Medium,"['Sports & Outdoors', 'Electronics', 'Health & Wellness', 'Electronics']",3
+David Lawson,alexandrawhite@example.net,59,Male,East Christina,Headphones,06-08-2024,Electronics,5,210.15,13-06-2024,11,Bose,Medium,"['Health & Wellness', 'Groceries']",5
+Jacob Roman,cwashington@example.org,33,Male,Port Jacquelinetown,Jeans,23-01-2024,Clothing,2,110.76,25-09-2023,15,Lee,Medium,"['Health & Wellness', 'Furniture']",4
+Marcus Morse,dwaynegonzalez@example.org,48,Male,North Robinbury,Chair,13-06-2024,Furniture,3,468.88,20-09-2023,1,Better Homes & Gardens,Medium,"['Beauty', 'Toys', 'Health & Wellness']",4
+Jacqueline Dougherty,ufriedman@example.net,67,Female,Janicemouth,Jeans,28-02-2024,Clothing,4,142.51,13-01-2024,12,Wrangler,High,"['Furniture', 'Groceries', 'Groceries', 'Groceries', 'Groceries']",5
+Melissa Thomas,samuel14@example.com,51,Female,South Caitlin,Eggs,12-07-2024,Groceries,3,19.32,26-07-2023,8,Great Value,Low,"['Health & Wellness', 'Furniture', 'Toys', 'Clothing']",1
+Jessica Schneider,ytyler@example.com,40,Male,Danielstad,Smartphone,17-01-2024,Electronics,3,301.63,28-12-2023,5,Apple,High,"['Electronics', 'Sports & Outdoors']",1
+Johnny Hendricks,abell@example.org,27,Other,West Michaelmouth,Pain Relief,15-01-2024,Health & Wellness,3,257.57,20-02-2023,18,Advil,High,"['Electronics', 'Health & Wellness']",5
+Jody Petersen,rosstravis@example.com,38,Male,Stephanieshire,Jacket,04-07-2024,Clothing,4,497.81,08-09-2023,18,North Face,High,"['Sports & Outdoors', 'Home Improvement', 'Electronics', 'Clothing', 'Toys']",4
+Joanna Jones,christina59@example.org,24,Male,Currychester,Sofa,24-06-2024,Furniture,2,343.33,06-08-2023,8,DHP,Medium,['Health & Wellness'],3
+Nicole Nguyen,tpugh@example.org,34,Male,Port Malloryfurt,Vitamins,06-05-2024,Health & Wellness,5,416.41,16-06-2023,1,Nature Made,Low,"['Sports & Outdoors', 'Toys', 'Clothing']",4
+Darryl Pitts,brenda68@example.org,49,Female,New Jamietown,Fragrances,12-03-2024,Beauty,2,65.1,17-04-2023,1,Versace,High,['Health & Wellness'],3
+Mark Gomez,justin21@example.com,25,Other,Gillespieborough,Bike,06-02-2024,Sports & Outdoors,1,80.3,12-09-2023,10,Schwinn,Low,"['Groceries', 'Health & Wellness', 'Groceries', 'Furniture', 'Electronics']",3
+Tyler Hill,schaeferdanielle@example.com,46,Other,North Tyler,Shoes,24-03-2024,Clothing,1,327.28,10-10-2023,13,Puma,High,"['Groceries', 'Groceries', 'Appliances', 'Sports & Outdoors']",1
+Timothy Bennett,cathy34@example.com,29,Other,East Ronnieport,Fishing Rod,05-01-2024,Sports & Outdoors,5,74.74,14-03-2023,8,Shakespeare,High,"['Toys', 'Clothing']",4
+Kristin Mcgee,ibrown@example.com,42,Female,Nelsonville,Tool Set,25-07-2024,Home Improvement,5,389.88,29-12-2023,3,Stanley,Medium,"['Electronics', 'Sports & Outdoors', 'Toys', 'Groceries']",1
+Nicholas Richardson,richardyates@example.org,26,Female,Fischermouth,Makeup,06-06-2024,Beauty,4,30.17,26-07-2023,18,L'Oreal,High,['Groceries'],2
+Arthur Lee,williamsonmark@example.org,27,Other,Georgeview,Doll,07-03-2024,Toys,4,202.91,18-08-2023,11,American Girl,High,"['Health & Wellness', 'Home Improvement', 'Toys']",1
+Terry Walker,matthewelliott@example.com,30,Male,Huangview,TV,11-04-2024,Electronics,3,474.19,04-07-2023,2,Vizio,Medium,"['Home Improvement', 'Appliances']",3
+Mark Ayala,shelbysutton@example.com,23,Other,West Ryanstad,Kayak,19-02-2024,Sports & Outdoors,1,383.69,15-07-2023,9,Old Town,Medium,"['Appliances', 'Furniture']",2
+Jesse Morris,awilliams@example.org,43,Other,Port Melissa,Smartphone,03-04-2024,Electronics,4,272.96,13-06-2023,4,Google,Low,"['Beauty', 'Sports & Outdoors', 'Clothing', 'Health & Wellness', 'Clothing']",5
+Molly Evans,myerslori@example.net,51,Male,Mclaughlinville,Headphones,13-02-2024,Electronics,3,161.27,31-03-2023,10,Bose,High,"['Home Improvement', 'Electronics', 'Beauty', 'Toys']",3
+John Baker,dwaynejenkins@example.com,36,Male,Amandaport,Smartphone,09-05-2024,Electronics,2,400.51,25-06-2023,9,OnePlus,High,"['Groceries', 'Furniture', 'Groceries']",1
+Andrea Moore,brianadams@example.org,49,Female,North Davidbury,Chair,22-07-2024,Furniture,2,148.58,20-10-2023,3,DHP,High,['Home Improvement'],5
+Isaiah Krause,cfuentes@example.net,65,Female,Conniefort,Bread,14-04-2024,Groceries,5,278.81,22-09-2023,9,Sara Lee,Medium,"['Furniture', 'Sports & Outdoors', 'Clothing', 'Furniture', 'Appliances']",1
+Mary Pearson,elizabeth52@example.net,52,Other,East Carrie,Chair,16-03-2024,Furniture,5,228.19,25-08-2023,15,Serta,Medium,['Sports & Outdoors'],2
+Mark Simon,nbrown@example.net,30,Female,Johnmouth,Tool Set,05-03-2024,Home Improvement,1,41.33,08-01-2024,19,Craftsman,Low,"['Sports & Outdoors', 'Home Improvement', 'Clothing', 'Home Improvement']",3
+Mary Sanchez,lisamooney@example.org,28,Male,Richardsbury,Paint,10-01-2024,Home Improvement,2,462.26,22-06-2023,19,Sherwin-Williams,Low,['Health & Wellness'],5
+Dustin Williams,lauraflynn@example.org,31,Male,Valeriefort,Lawn Mower,07-01-2024,Home Improvement,5,166.43,28-10-2023,9,Toro,Medium,"['Electronics', 'Sports & Outdoors', 'Groceries']",2
+Nicole Brown,coreysanchez@example.org,56,Other,Michaelbury,Butter,22-04-2024,Groceries,1,197.25,19-03-2024,4,Great Value,High,"['Appliances', 'Sports & Outdoors', 'Groceries', 'Home Improvement', 'Health & Wellness']",1
+Sabrina Carney,holly58@example.com,55,Other,East Jenniferhaven,Bed,26-06-2024,Furniture,1,480.24,17-09-2023,4,Mainstays,Low,"['Furniture', 'Furniture', 'Home Improvement', 'Home Improvement']",5
+Kathryn Schroeder,stephanie39@example.com,55,Male,Rebeccatown,Bike,25-01-2024,Sports & Outdoors,3,319.06,05-06-2023,10,Schwinn,High,"['Health & Wellness', 'Health & Wellness', 'Beauty', 'Sports & Outdoors', 'Clothing']",4
+David Mitchell,ycollier@example.net,32,Male,Daviston,First Aid,15-03-2024,Health & Wellness,3,374.88,13-10-2023,13,Neosporin,Medium,"['Clothing', 'Home Improvement', 'Sports & Outdoors', 'Electronics', 'Clothing']",2
+Ronald Butler,mark09@example.org,60,Other,Lake Amy,Dryer,24-07-2024,Appliances,1,171.72,06-10-2023,1,LG,Medium,"['Appliances', 'Electronics']",4
+Kevin Parrish,bradley46@example.org,34,Other,East Adrianmouth,Washer,27-01-2024,Appliances,5,404.69,05-12-2023,6,LG,Medium,"['Beauty', 'Electronics', 'Groceries']",5
+Tracey Lee,middletonrobert@example.com,22,Male,Lake Alexanderside,Fishing Rod,01-01-2024,Sports & Outdoors,2,420.19,01-10-2023,19,Penn,Low,"['Appliances', 'Beauty']",2
+Dawn Mendez,johnlopez@example.net,25,Other,Lake Ruthshire,Doll,13-03-2024,Toys,4,406.44,25-06-2023,18,Disney,Medium,['Electronics'],4
+Paul Arellano,cory63@example.net,37,Female,Huberside,Bed,17-05-2024,Furniture,4,183.05,21-07-2023,18,Mainstays,High,"['Furniture', 'Furniture', 'Electronics']",2
+Cheryl Ibarra,jwood@example.net,49,Other,Jonesside,First Aid,05-08-2024,Health & Wellness,4,440.18,21-06-2024,19,Johnson & Johnson,High,"['Toys', 'Appliances', 'Clothing', 'Groceries']",3
+Patricia Myers,alexis54@example.com,48,Male,New Christinaton,Washer,23-02-2024,Appliances,4,276.05,13-08-2023,1,Samsung,High,"['Beauty', 'Groceries']",2
+Kevin Little,tim44@example.org,20,Other,North Wendy,Butter,31-07-2024,Groceries,4,114.46,09-09-2023,4,Kerrygold,High,"['Clothing', 'Clothing', 'Sports & Outdoors']",3
+Nichole Miller,luisbell@example.org,43,Other,Prattborough,Tool Set,01-08-2024,Home Improvement,5,41.16,11-02-2024,10,Stanley,High,"['Groceries', 'Beauty', 'Sports & Outdoors', 'Furniture']",3
+Pamela White,sandrawagner@example.com,49,Other,South Davidmouth,Jeans,14-02-2024,Clothing,2,314.14,12-11-2023,13,Dickies,Medium,"['Sports & Outdoors', 'Electronics', 'Electronics', 'Toys', 'Furniture']",5
+Susan Levine,victorcollins@example.com,27,Male,West Timothy,Chair,29-07-2024,Furniture,4,243.87,04-10-2023,17,Serta,Medium,"['Health & Wellness', 'Appliances', 'Home Improvement']",5
+Nicholas Jackson,patriciahuang@example.net,48,Male,East Jacob,Dryer,28-04-2024,Appliances,4,391.08,27-10-2023,11,Samsung,Low,"['Beauty', 'Toys', 'Appliances']",1
+Travis Mcintyre,stephanie25@example.net,39,Other,Harrisshire,Chair,05-08-2024,Furniture,2,258.96,14-01-2024,7,Mainstays,Medium,"['Toys', 'Clothing', 'Electronics', 'Home Improvement']",4
+Kirk Smith,bishopkyle@example.com,49,Male,Lake Rebeccafort,Skincare,28-07-2024,Beauty,2,105.18,17-09-2023,9,Neutrogena,Medium,"['Electronics', 'Clothing', 'Furniture', 'Beauty', 'Electronics']",3
+Joseph Anderson,vbuchanan@example.net,22,Male,West Nicoleland,Makeup,24-04-2024,Beauty,2,496,25-08-2023,5,Revlon,Medium,['Toys'],2
+Jonathan Johnson,stewartmary@example.com,36,Female,Port Darrell,Bed,17-06-2024,Furniture,2,180.38,26-07-2023,11,Serta,Low,"['Home Improvement', 'Home Improvement', 'Appliances', 'Groceries', 'Clothing']",5
+Abigail James,leslie26@example.org,49,Other,Lake Jenna,Washer,15-02-2024,Appliances,2,277.88,28-12-2023,10,Samsung,Low,['Appliances'],4
+Mackenzie Miller,shawn86@example.com,49,Other,North Karenhaven,Table,17-01-2024,Furniture,4,118.96,20-03-2023,1,Better Homes & Gardens,Low,"['Beauty', 'Toys', 'Home Improvement']",3
+Richard Lewis,watsontricia@example.org,40,Female,Kaylaville,Jeans,02-02-2024,Clothing,1,454.07,16-12-2023,12,Dickies,Medium,"['Groceries', 'Health & Wellness']",5
+Shannon Kim,jamesgail@example.net,42,Other,Alexandermouth,Doll,01-07-2024,Toys,3,133.62,28-10-2023,16,American Girl,Low,"['Appliances', 'Beauty']",4
+Barbara Mitchell,timothy66@example.org,51,Other,Wallville,Table,04-03-2024,Furniture,1,338.11,15-01-2024,17,Better Homes & Gardens,High,"['Beauty', 'Health & Wellness', 'Beauty']",4
+Courtney Zimmerman,cdaniels@example.com,41,Female,Drewland,Lawn Mower,07-02-2024,Home Improvement,4,255.83,19-08-2023,11,John Deere,Low,"['Beauty', 'Electronics', 'Clothing', 'Clothing']",1
+Jill Weber,brenda43@example.org,69,Male,Davidchester,Supplements,13-03-2024,Health & Wellness,1,186.36,07-09-2023,15,Garden of Life,Low,"['Beauty', 'Furniture', 'Home Improvement', 'Groceries']",4
+Kevin Oliver,palmerjacob@example.net,63,Female,Port Bonniefort,Supplements,02-02-2024,Health & Wellness,3,238.23,25-02-2023,3,Garden of Life,High,"['Clothing', 'Toys', 'Groceries', 'Clothing']",2
+Ronald Macdonald,christineeaton@example.com,20,Female,Billyville,Kayak,20-02-2024,Sports & Outdoors,5,89.96,13-03-2023,15,Intex,High,"['Furniture', 'Appliances']",1
+Daniel Murray,jacksonsavannah@example.net,40,Male,Smithberg,Tool Set,31-03-2024,Home Improvement,3,180.2,20-03-2024,7,Husky,High,"['Beauty', 'Toys', 'Toys', 'Appliances', 'Appliances']",2
+Amanda Bowman,fcampbell@example.net,49,Other,North Christopher,Pain Relief,18-04-2024,Health & Wellness,5,424.94,19-12-2023,19,Tylenol,High,"['Beauty', 'Groceries']",2
+Connie Pollard,amanda72@example.com,54,Other,Clarkemouth,Shoes,15-02-2024,Clothing,1,395.36,14-03-2023,16,Adidas,Low,"['Furniture', 'Beauty']",3
+Lori Harvey,marcus60@example.net,51,Male,South Michelle,Dryer,29-02-2024,Appliances,5,20.41,18-04-2023,7,GE,High,"['Clothing', 'Clothing']",3
+Lindsey Johnson,timothyjones@example.org,36,Other,Michaelchester,Eggs,01-02-2024,Groceries,3,337.77,26-04-2023,9,Great Value,Medium,['Furniture'],4
+Nancy Rivera,patrickjimenez@example.net,49,Male,Port Lori,Eggs,27-05-2024,Groceries,2,123.34,10-01-2024,8,Vital Farms,Medium,"['Appliances', 'Toys']",4
+Michael Rogers,danielperez@example.net,31,Male,North Christy,First Aid,03-05-2024,Health & Wellness,5,371.99,02-04-2024,9,Neosporin,High,['Toys'],4
+John Armstrong,smithjennifer@example.org,70,Male,Kennethfort,Washer,22-03-2024,Appliances,5,413.73,17-12-2023,11,Whirlpool,Low,['Home Improvement'],1
+Nicholas Robbins,cjefferson@example.net,19,Other,Christopherberg,Butter,18-05-2024,Groceries,4,148.26,17-01-2024,3,Great Value,Medium,"['Toys', 'Sports & Outdoors', 'Electronics', 'Furniture']",3
+Isaac Brown,todd99@example.com,36,Other,Johnsonfurt,Jeans,27-06-2024,Clothing,2,57.04,06-11-2023,6,Dickies,Medium,"['Electronics', 'Clothing', 'Toys', 'Beauty', 'Beauty']",3
+Kelly Cole,martintiffany@example.com,49,Other,Johnnychester,Chair,10-01-2024,Furniture,5,188.16,26-12-2023,13,Serta,Low,"['Home Improvement', 'Health & Wellness', 'Appliances', 'Health & Wellness', 'Furniture']",4
+Brianna Brown,priscillaellis@example.net,22,Male,Ortegaville,Washer,06-05-2024,Appliances,1,336.94,16-03-2024,9,LG,High,['Furniture'],1
+Tracie Blair,ferrellkathleen@example.com,57,Male,West Amberton,Car,02-08-2024,Toys,5,6.14,16-03-2024,9,Disney,Medium,"['Toys', 'Electronics', 'Electronics', 'Furniture', 'Sports & Outdoors']",2
+Andrea Miranda,freemanandrea@example.org,51,Other,West Kimton,Drill,21-05-2024,Home Improvement,4,136.38,05-10-2023,19,Black+Decker,Low,"['Home Improvement', 'Home Improvement', 'Electronics', 'Sports & Outdoors']",4
+Michael Jenkins,meganoneill@example.net,41,Other,South Olivia,Bread,01-08-2024,Groceries,3,143.13,30-03-2024,8,Sara Lee,High,"['Groceries', 'Appliances']",2
+Wendy Vang,thomasdavis@example.com,69,Other,Kellyton,Hair Care,28-05-2024,Beauty,2,322.07,14-07-2023,1,Herbal Essences,Low,"['Toys', 'Sports & Outdoors', 'Beauty', 'Furniture', 'Clothing']",4
+Hannah Robertson,rrose@example.net,40,Female,Andrewschester,Makeup,07-02-2024,Beauty,1,19.59,03-12-2023,18,CoverGirl,High,"['Health & Wellness', 'Home Improvement', 'Health & Wellness', 'Furniture']",3
+Kyle Shepard,joshua11@example.net,24,Other,South Jeromeberg,Car,08-06-2024,Toys,5,442.4,09-12-2023,13,Matchbox,Medium,"['Beauty', 'Clothing', 'Home Improvement', 'Home Improvement', 'Health & Wellness']",3
+Daniel Martin,robertmarsh@example.com,64,Other,Holmesborough,Washer,07-05-2024,Appliances,2,78.11,05-01-2024,14,Samsung,Low,"['Furniture', 'Beauty', 'Electronics', 'Sports & Outdoors']",2
+Christopher Stanley,davisbridget@example.net,61,Other,Wilsonport,Drill,12-01-2024,Home Improvement,5,299.39,11-09-2023,1,Black+Decker,Low,"['Furniture', 'Furniture', 'Clothing']",5
+Alison Freeman,lincody@example.net,26,Other,Delgadofort,Smartphone,08-06-2024,Electronics,1,15.5,18-09-2023,14,OnePlus,Low,['Electronics'],1
+Michelle Stewart,newmansamantha@example.net,62,Male,New James,TV,31-07-2024,Electronics,5,303.32,29-07-2024,7,Sony,High,"['Sports & Outdoors', 'Electronics', 'Health & Wellness', 'Electronics', 'Sports & Outdoors']",3
+Charles Downs,lopezsabrina@example.net,30,Female,Kelleyburgh,Eggs,14-02-2024,Groceries,4,77.56,28-11-2023,7,Vital Farms,Medium,['Home Improvement'],2
+Joyce Rollins,beckerjill@example.net,42,Male,Port Meghan,Skincare,21-01-2024,Beauty,3,59.41,22-06-2023,3,Olay,High,"['Furniture', 'Toys', 'Electronics', 'Home Improvement', 'Home Improvement']",4
+Michael Adams,arthur29@example.net,62,Male,Dorseychester,Dryer,04-07-2024,Appliances,5,92.96,21-07-2023,3,LG,High,['Clothing'],3
+Garrett Dudley,andreagriffith@example.net,33,Male,Danamouth,Skincare,24-04-2024,Beauty,5,210.91,27-03-2024,14,Neutrogena,Medium,"['Health & Wellness', 'Health & Wellness', 'Sports & Outdoors', 'Clothing', 'Electronics']",4
+Edward Miranda,zcarroll@example.org,27,Female,East Crystalside,Fragrances,10-01-2024,Beauty,5,269.08,12-08-2023,17,Chanel,High,"['Appliances', 'Health & Wellness', 'Sports & Outdoors', 'Appliances']",4
+Laura Hurst,regina12@example.org,58,Female,Jeromestad,Car,04-04-2024,Toys,4,140.26,21-11-2023,14,Disney,Medium,"['Toys', 'Electronics', 'Toys']",5
+Margaret Griffin,hernandezscott@example.net,51,Other,Dakotamouth,Bike,12-02-2024,Sports & Outdoors,1,485.48,30-01-2024,1,Huffy,High,"['Toys', 'Home Improvement']",2
+Crystal Griffith,bradley73@example.net,49,Other,Hillshire,Fragrances,08-07-2024,Beauty,2,205.2,26-02-2024,15,Versace,Low,"['Beauty', 'Electronics', 'Toys']",3
+Derek Werner,laurie07@example.org,46,Female,Michaeltown,Laptop,30-06-2024,Electronics,3,57.6,01-05-2024,16,Dell,High,"['Beauty', 'Furniture', 'Appliances', 'Appliances']",4
+Eric Jones,shanenelson@example.org,31,Female,West Beverlyhaven,Bread,14-06-2024,Groceries,2,498.42,29-05-2024,3,Wonder,High,"['Clothing', 'Beauty', 'Health & Wellness']",2
+Janice Bailey,marierodriguez@example.com,60,Female,Lake Erin,Dryer,12-07-2024,Appliances,2,392.79,08-09-2023,9,Whirlpool,Low,"['Health & Wellness', 'Clothing', 'Appliances', 'Sports & Outdoors']",4
+Melinda Byrd,jennifer25@example.com,18,Male,Lake Scott,Fragrances,13-03-2024,Beauty,2,431.28,01-08-2023,20,Calvin Klein,Low,"['Sports & Outdoors', 'Health & Wellness', 'Furniture', 'Health & Wellness', 'Electronics']",2
+Michael Wilkinson,brownvalerie@example.org,35,Other,East Wesley,Milk,28-05-2024,Groceries,1,76.62,08-06-2023,2,Great Value,High,"['Health & Wellness', 'Furniture', 'Clothing', 'Furniture']",2
+Keith Brady,terrymaria@example.org,23,Other,Andreamouth,Drill,21-06-2024,Home Improvement,3,249.13,02-01-2024,10,Bosch,High,"['Sports & Outdoors', 'Toys', 'Sports & Outdoors', 'Toys', 'Sports & Outdoors']",3
+Gary Robinson,tammyvazquez@example.net,29,Other,New Craigport,Washer,25-05-2024,Appliances,5,109.64,07-04-2024,5,Whirlpool,High,"['Groceries', 'Health & Wellness', 'Groceries']",3
+Ana Scott,michaelmarshall@example.org,59,Male,East Jeffrey,Car,13-05-2024,Toys,2,301.6,17-07-2023,11,Hot Wheels,High,['Appliances'],4
+Abigail Turner,cassandra59@example.org,64,Female,Erikaside,Bed,07-06-2024,Furniture,3,202.36,04-11-2023,20,DHP,Medium,"['Furniture', 'Electronics', 'Groceries', 'Sports & Outdoors', 'Home Improvement']",3
+Miguel Wyatt,amymay@example.com,37,Female,South Erik,Jacket,11-03-2024,Clothing,1,40.34,09-09-2023,14,North Face,High,"['Electronics', 'Furniture']",1
+Mr. Brandon Bailey,rhodesmary@example.net,53,Female,Allisonburgh,Tent,24-01-2024,Sports & Outdoors,3,465.83,20-02-2023,12,Ozark Trail,Medium,['Appliances'],2
+Jamie Wheeler,ruizhannah@example.net,59,Male,Kellieton,Fragrances,01-02-2024,Beauty,3,415.8,14-11-2023,16,Dolce & Gabbana,High,"['Beauty', 'Toys', 'Furniture', 'Groceries', 'Home Improvement']",3
+Philip Perez,watersdavid@example.com,34,Male,Ashleyland,First Aid,10-01-2024,Health & Wellness,3,468.45,30-01-2023,5,Neosporin,High,"['Groceries', 'Clothing']",3
+David West,brian58@example.net,51,Male,West Michelle,Shirt,08-05-2024,Clothing,4,147.11,21-03-2024,17,Levi's,Low,"['Toys', 'Groceries']",4
+Caitlin Johnson,adkinsdonald@example.com,31,Other,Jonesville,Drill,29-06-2024,Home Improvement,2,323.97,20-10-2023,17,DeWalt,Low,"['Home Improvement', 'Sports & Outdoors', 'Appliances', 'Groceries', 'Clothing']",2
+Amy Estrada,mraymond@example.net,20,Other,Laurafurt,Car,08-04-2024,Toys,2,132.74,31-05-2023,3,Hot Wheels,High,['Toys'],5
+Cathy Wood,michaelbass@example.org,49,Male,Maddoxfort,Doll,01-03-2024,Toys,1,401.16,26-10-2023,20,Disney,Low,"['Furniture', 'Appliances', 'Furniture', 'Groceries', 'Furniture']",2
+Dale Kelly,williamvelazquez@example.net,20,Male,Floresberg,Paint,17-06-2024,Home Improvement,2,229.65,10-12-2023,5,Sherwin-Williams,Low,"['Health & Wellness', 'Home Improvement', 'Furniture']",4
+Sandra Harper,qrobinson@example.org,32,Male,West Lindaside,Supplements,01-08-2024,Health & Wellness,3,476.3,17-11-2023,12,NOW Foods,High,"['Sports & Outdoors', 'Health & Wellness', 'Electronics', 'Clothing', 'Furniture']",3
+Alyssa Ward,cmcclure@example.net,47,Male,Stephenside,Tent,19-01-2024,Sports & Outdoors,2,59.43,21-04-2023,15,Coleman,Low,"['Sports & Outdoors', 'Home Improvement']",3
+Dustin Nguyen,andrewkim@example.org,67,Male,Jonathantown,Bed,18-03-2024,Furniture,3,104.89,17-01-2024,20,Better Homes & Gardens,High,"['Groceries', 'Electronics']",1
+Dr. Jennifer King MD,michael31@example.org,63,Female,Gonzalezton,Vitamins,15-04-2024,Health & Wellness,1,370.99,02-10-2023,15,Nature Made,High,['Beauty'],3
+Courtney Galvan,tuckerlaura@example.com,43,Other,Lake Johnview,Milk,09-02-2024,Groceries,2,66.84,07-07-2023,20,Great Value,Low,"['Home Improvement', 'Groceries', 'Health & Wellness', 'Toys', 'Toys']",1
+William Smith,robertsbradley@example.org,60,Female,South Brian,Microwave,19-02-2024,Appliances,1,75.31,21-08-2023,10,Panasonic,Low,['Appliances'],2
+Kenneth Brown,craigchristina@example.com,46,Male,Woodsborough,Smartphone,17-03-2024,Electronics,1,376.72,21-09-2023,3,Google,Low,"['Health & Wellness', 'Groceries', 'Furniture']",3
+Zachary Mccoy,david67@example.com,33,Male,Jeremyville,Lawn Mower,06-08-2024,Home Improvement,3,124.89,10-06-2024,7,John Deere,High,"['Groceries', 'Clothing', 'Beauty', 'Groceries', 'Beauty']",2
+Andrea Scott,fosterjames@example.org,58,Other,North Jason,Supplements,13-05-2024,Health & Wellness,5,423.9,05-11-2023,12,NOW Foods,Low,['Electronics'],2
+Stanley Eaton,wendy24@example.net,52,Other,Andersonshire,Shirt,09-06-2024,Clothing,2,173.94,05-08-2023,12,Hanes,Medium,['Furniture'],5
+Jeffrey Myers,sandersmatthew@example.com,49,Male,North Sharon,Washer,02-04-2024,Appliances,3,184.56,28-10-2023,6,LG,Low,"['Electronics', 'Electronics', 'Beauty', 'Groceries', 'Appliances']",5
+Adam Lawrence,curtis24@example.net,22,Female,Port Holly,TV,15-03-2024,Electronics,4,338.51,06-08-2023,2,Sony,Low,"['Clothing', 'Furniture', 'Home Improvement']",4
+Amy Taylor,david10@example.net,27,Female,Ericfurt,Washer,24-05-2024,Appliances,4,496.34,06-11-2023,3,LG,Medium,['Clothing'],3
+Brandon Spencer,moorecolleen@example.org,59,Male,Port Henry,Makeup,25-01-2024,Beauty,1,452.84,27-08-2023,18,Revlon,Medium,"['Health & Wellness', 'Appliances']",5
+James Rivas,robinglass@example.org,34,Other,Kelseyfort,Kayak,15-07-2024,Sports & Outdoors,1,441.38,03-02-2024,14,Old Town,Low,"['Furniture', 'Electronics', 'Home Improvement', 'Appliances', 'Clothing']",2
+Cindy Johnson,richardmontoya@example.net,36,Male,Jenniferfurt,Makeup,24-03-2024,Beauty,1,461.23,21-09-2023,15,L'Oreal,High,['Furniture'],3
+Brianna Byrd,kelsey56@example.net,26,Male,Collinsstad,Milk,18-06-2024,Groceries,5,314.92,03-01-2024,2,Great Value,Medium,['Sports & Outdoors'],4
+Gregory Gallagher,timothy49@example.org,60,Male,South Williambury,Chair,28-03-2024,Furniture,3,437.33,19-06-2023,5,Better Homes & Gardens,Low,"['Home Improvement', 'Clothing', 'Home Improvement', 'Furniture']",5
+Lauren Vargas,sara26@example.com,24,Other,Hooverfurt,Hair Care,05-08-2024,Beauty,4,324.98,05-10-2023,12,Garnier,Medium,"['Toys', 'Toys']",2
+Timothy Johnson,christopher85@example.com,33,Female,West Amber,Makeup,01-07-2024,Beauty,3,401.25,18-12-2023,3,L'Oreal,High,"['Toys', 'Appliances']",2
+Keith Nelson,vreyes@example.net,25,Female,East Theresaberg,Chair,15-03-2024,Furniture,4,402.14,18-02-2024,7,DHP,High,['Sports & Outdoors'],3
+Mr. William Arnold MD,wesleyrodriguez@example.net,60,Female,Rosarioshire,Tent,29-01-2024,Sports & Outdoors,5,255.51,23-02-2023,8,Wenzel,High,"['Furniture', 'Home Improvement', 'Health & Wellness']",2
+Christine Hendrix,kimberlysims@example.com,49,Male,East Lesliemouth,Headphones,21-03-2024,Electronics,2,281.77,22-09-2023,2,JBL,High,"['Sports & Outdoors', 'Health & Wellness', 'Furniture']",3
+Kimberly Watkins,andrew94@example.net,44,Female,North Betty,Doll,23-06-2024,Toys,1,259.89,05-03-2024,5,American Girl,Medium,"['Toys', 'Furniture', 'Toys', 'Furniture']",4
+Christine Munoz,gordonlee@example.net,49,Female,East Frank,Bread,17-07-2024,Groceries,5,291.49,21-07-2023,17,Sara Lee,Low,['Groceries'],5
+Nicholas Jacobs,timothydickson@example.org,37,Male,Ruizville,Makeup,15-05-2024,Beauty,1,15.31,27-03-2024,3,L'Oreal,Medium,"['Home Improvement', 'Groceries', 'Clothing', 'Health & Wellness']",2
+Martha Taylor,ericksonstephen@example.com,33,Female,Port Brian,Bike,16-06-2024,Sports & Outdoors,1,363.9,12-09-2023,16,Trek,High,['Groceries'],2
+Gregory Stevenson,justinvargas@example.net,27,Other,New Dawnside,Washer,02-06-2024,Appliances,1,343.69,22-11-2023,14,GE,Low,"['Health & Wellness', 'Clothing', 'Electronics']",3
+Michelle Mann,ahenderson@example.com,64,Female,Gallegosview,Butter,31-01-2024,Groceries,1,492.85,06-08-2023,2,Great Value,Low,"['Groceries', 'Electronics', 'Furniture', 'Toys', 'Appliances']",1
+Kayla Hicks,kelseyhamilton@example.com,65,Female,Port Cameronport,TV,07-04-2024,Electronics,4,466.66,27-09-2023,9,Sony,Medium,"['Sports & Outdoors', 'Appliances', 'Toys', 'Beauty', 'Toys']",2
+Jacqueline Davis,heidi02@example.net,60,Other,New Barbara,Drill,05-03-2024,Home Improvement,4,391.49,09-07-2023,3,Bosch,Low,"['Groceries', 'Furniture', 'Electronics']",1
+Don Garcia,michael46@example.com,57,Female,Bruceside,Washer,18-05-2024,Appliances,3,295.03,15-07-2023,17,Samsung,Medium,"['Beauty', 'Appliances', 'Electronics', 'Health & Wellness']",4
+Kathy Molina,christina77@example.com,36,Male,Bryanfort,Lego,29-06-2024,Toys,3,153.61,31-10-2023,11,Lego,High,"['Appliances', 'Clothing', 'Toys', 'Furniture', 'Groceries']",5
+Michael Mann,davidpetty@example.net,66,Other,Lake Rebecca,Sofa,06-05-2024,Furniture,4,84.99,16-06-2023,6,Serta,Low,"['Health & Wellness', 'Furniture', 'Home Improvement', 'Health & Wellness', 'Home Improvement']",4
+George Herrera,luke98@example.net,57,Male,Stewartview,Sofa,22-05-2024,Furniture,1,55.1,09-04-2024,1,Better Homes & Gardens,High,"['Appliances', 'Sports & Outdoors']",3
+Ethan Lopez,iherring@example.org,29,Other,Port Kristin,Dryer,29-04-2024,Appliances,4,425.73,18-02-2024,4,Samsung,High,"['Toys', 'Furniture', 'Appliances']",3
+James Leonard,hperez@example.org,60,Other,West Cynthia,Eggs,18-03-2024,Groceries,2,300.31,11-06-2023,8,Great Value,Medium,"['Appliances', 'Furniture']",3
+Christopher Woods,joshuatate@example.com,55,Female,Lake Thomas,Drill,15-03-2024,Home Improvement,5,404.54,19-08-2023,12,DeWalt,Low,"['Furniture', 'Health & Wellness', 'Electronics', 'Health & Wellness', 'Toys']",3
+Luis Lynn,whitehannah@example.org,42,Female,North Michelleview,Microwave,04-06-2024,Appliances,2,408.43,27-03-2024,5,Samsung,Low,"['Electronics', 'Health & Wellness']",3
+Jerome Ellis,redwards@example.com,46,Male,Jacquelinestad,Car,28-05-2024,Toys,2,426.19,29-11-2023,18,Hot Wheels,Medium,['Appliances'],5
+Jade Smith,michael11@example.net,45,Other,North Peter,Eggs,06-08-2024,Groceries,3,464.54,01-08-2024,13,Vital Farms,Low,['Furniture'],2
+Calvin Bowers,matthewjohnson@example.net,57,Male,Bakerhaven,Tool Set,18-03-2024,Home Improvement,5,478.42,08-05-2023,10,Husky,Low,"['Health & Wellness', 'Home Improvement', 'Home Improvement']",3
+Brett Ray,leonardamy@example.com,69,Other,Nealburgh,Paint,15-04-2024,Home Improvement,4,106.46,14-11-2023,4,Rust-Oleum,High,"['Beauty', 'Toys', 'Clothing', 'Groceries']",5
+Kenneth Wilcox,vschmidt@example.org,59,Male,New Madisonberg,Laptop,14-04-2024,Electronics,5,19.46,20-07-2023,1,HP,Low,['Groceries'],5
+Juan Thomas,jason00@example.net,49,Other,West Todd,Doll,28-04-2024,Toys,1,58.98,25-12-2023,7,Disney,Medium,"['Clothing', 'Health & Wellness']",4
+Martin Carlson,tina59@example.net,49,Male,South Heidiville,Smartphone,07-07-2024,Electronics,5,190.94,30-09-2023,1,OnePlus,High,"['Electronics', 'Health & Wellness', 'Home Improvement', 'Groceries']",4
+Caleb Lopez MD,qlewis@example.com,49,Female,Nicholasstad,Headphones,22-05-2024,Electronics,3,101.85,05-09-2023,16,Sony,High,"['Home Improvement', 'Appliances']",1
+Nicole Martinez,colehannah@example.com,64,Male,Denisestad,Drill,04-02-2024,Home Improvement,5,200.79,18-10-2023,2,Makita,Low,['Home Improvement'],1
+Ana Hall,ronaldbowman@example.org,40,Other,West Patrickbury,Refrigerator,01-05-2024,Appliances,4,98.86,27-05-2023,6,Samsung,Low,"['Health & Wellness', 'Sports & Outdoors', 'Clothing', 'Toys', 'Home Improvement']",5
+Dr. Denise Cruz,uramirez@example.com,54,Female,Port Laurieberg,Fishing Rod,14-04-2024,Sports & Outdoors,1,57.43,27-05-2023,19,Ugly Stik,High,"['Sports & Outdoors', 'Furniture', 'Health & Wellness', 'Clothing']",1
+Christopher Rollins,cheryl93@example.com,24,Male,Lake Melissa,Dryer,16-02-2024,Appliances,3,244.14,04-01-2024,7,Whirlpool,High,"['Furniture', 'Beauty', 'Groceries', 'Appliances', 'Sports & Outdoors']",4
+Megan Davis,mcleanadam@example.net,19,Other,Lake Richardmouth,Milk,15-03-2024,Groceries,5,192.99,10-10-2023,16,Great Value,Medium,"['Sports & Outdoors', 'Health & Wellness', 'Home Improvement', 'Toys']",2
+Amanda Cisneros,gabrielsmith@example.com,55,Male,Port Michaela,Vitamins,05-01-2024,Health & Wellness,3,193.27,17-06-2023,7,Nature Made,Medium,"['Furniture', 'Electronics', 'Home Improvement', 'Furniture', 'Sports & Outdoors']",4
+Brian Martin,adamschristopher@example.org,47,Female,Michelebury,Microwave,01-06-2024,Appliances,4,60.11,04-05-2024,9,Panasonic,Medium,"['Electronics', 'Furniture', 'Appliances', 'Clothing', 'Furniture']",1
+Kathleen Davis,padams@example.org,33,Female,West Jesus,Vitamins,29-01-2024,Health & Wellness,1,23.3,01-09-2023,17,Nature Made,Low,"['Health & Wellness', 'Groceries', 'Clothing', 'Toys', 'Appliances']",1
+Megan Hernandez,garrisonmatthew@example.net,24,Other,Lisaside,Fragrances,16-05-2024,Beauty,1,480.94,12-02-2024,2,Versace,High,"['Health & Wellness', 'Clothing']",4
+Christina Torres,briancarter@example.org,56,Other,East Timothyfurt,Table,17-02-2024,Furniture,5,17.35,21-05-2023,16,DHP,High,"['Beauty', 'Sports & Outdoors', 'Electronics', 'Sports & Outdoors']",2
+Micheal Jenkins,andrew11@example.net,52,Female,Fieldsside,Shirt,10-06-2024,Clothing,1,462.32,20-11-2023,12,Wrangler,Low,"['Health & Wellness', 'Health & Wellness', 'Electronics']",1
+James Martin,handerson@example.com,49,Other,Port Brandonfurt,Bike,16-02-2024,Sports & Outdoors,2,21.68,21-11-2023,17,Mongoose,Medium,"['Furniture', 'Electronics', 'Health & Wellness']",3
+Diana James,traciwilson@example.org,41,Other,Lake Daltonland,Makeup,10-01-2024,Beauty,1,191.43,14-04-2023,11,CoverGirl,Medium,"['Groceries', 'Toys', 'Toys']",2
+Joshua Price,smithchristine@example.org,42,Male,Rollinshaven,Bed,04-08-2024,Furniture,3,456.14,04-06-2024,2,Mainstays,Low,"['Health & Wellness', 'Beauty', 'Groceries', 'Home Improvement']",1
+Peter Humphrey,zdavis@example.org,18,Female,South Kayla,Sofa,01-05-2024,Furniture,1,94.98,19-04-2024,11,Mainstays,High,"['Sports & Outdoors', 'Groceries', 'Groceries']",1
+Mrs. Evelyn Bowers DVM,jenniferdaniel@example.com,23,Male,South Jerometon,Table,02-06-2024,Furniture,2,333.79,30-01-2024,5,DHP,Low,"['Home Improvement', 'Appliances']",3
+Terri Lawson,pwright@example.org,21,Female,New Brittney,Bread,07-02-2024,Groceries,4,127.22,27-11-2023,8,Wonder,High,"['Home Improvement', 'Appliances', 'Sports & Outdoors']",2
+Gregory Caldwell,christophermartin@example.net,49,Male,North Johnstad,Hair Care,26-07-2024,Beauty,1,386.97,11-08-2023,8,Herbal Essences,Low,"['Sports & Outdoors', 'Home Improvement', 'Toys', 'Furniture']",1
+Rodney Adams,mary41@example.com,54,Other,Kevinshire,Dryer,28-06-2024,Appliances,1,338.16,07-11-2023,3,Samsung,Medium,['Sports & Outdoors'],3
+Amy Bowman,thomasbrittany@example.org,22,Other,Williamshaven,Fishing Rod,20-07-2024,Sports & Outdoors,3,167,04-03-2024,19,Shakespeare,Low,"['Groceries', 'Toys', 'Appliances', 'Toys', 'Appliances']",1
+Steven Coffey,wmendoza@example.com,49,Female,Michaelchester,Eggs,11-07-2024,Groceries,3,187.45,06-06-2024,15,Vital Farms,Medium,"['Home Improvement', 'Groceries', 'Groceries', 'Appliances', 'Clothing']",2
+Theresa Mcmillan,evanking@example.net,69,Male,Brownport,Bread,26-01-2024,Groceries,1,375.97,25-12-2023,10,Sara Lee,Low,['Furniture'],5
+Kyle Hobbs,danielrobinson@example.net,35,Other,Samanthaberg,Fishing Rod,06-01-2024,Sports & Outdoors,4,158.48,10-10-2023,9,Ugly Stik,High,"['Electronics', 'Electronics']",2
+Paul Armstrong,maria65@example.org,54,Male,New Michaelville,Puzzle,12-06-2024,Toys,3,120.38,04-07-2023,5,Melissa & Doug,Medium,"['Health & Wellness', 'Health & Wellness', 'Toys']",1
+Anna Anderson,michael46@example.net,31,Female,South Williamburgh,Tool Set,19-02-2024,Home Improvement,1,308.58,21-05-2023,1,Husky,Low,['Groceries'],2
+Jay Brown,sullivanamanda@example.org,31,Other,Bryceshire,Lego,07-04-2024,Toys,3,103.56,19-01-2024,8,Lego,Low,"['Sports & Outdoors', 'Appliances', 'Sports & Outdoors', 'Toys', 'Groceries']",3
+Shannon Hall,john02@example.net,51,Other,Leeton,Smartphone,07-06-2024,Electronics,5,456.89,29-01-2024,15,Google,High,"['Groceries', 'Beauty', 'Beauty']",1
+Megan Hodge,simpsonthomas@example.org,28,Female,New Jacob,Makeup,13-02-2024,Beauty,4,318.56,20-12-2023,5,Maybelline,Medium,"['Appliances', 'Furniture', 'Home Improvement', 'Furniture', 'Health & Wellness']",4
+Courtney Vasquez,uwelch@example.com,33,Male,Rogerston,Milk,06-02-2024,Groceries,4,136.98,28-02-2023,18,Great Value,High,"['Health & Wellness', 'Electronics', 'Electronics', 'Home Improvement', 'Furniture']",3
+Wendy Obrien DVM,evansamanda@example.org,66,Other,Port Marissamouth,Supplements,10-03-2024,Health & Wellness,2,378.9,06-08-2023,6,Nature Made,Low,"['Health & Wellness', 'Appliances', 'Groceries', 'Clothing']",4
+Linda Robertson,bishopchristine@example.org,45,Male,East Chrischester,Table,05-02-2024,Furniture,4,198.27,29-07-2023,7,DHP,Low,"['Electronics', 'Electronics', 'Appliances', 'Electronics', 'Health & Wellness']",4
+Roger Gross,donald40@example.net,30,Male,South Patrickview,Eggs,18-01-2024,Groceries,4,452.19,07-10-2023,18,Eggland's Best,Low,"['Groceries', 'Groceries']",1
+John Owens,gcamacho@example.net,25,Female,North Coryfort,Sofa,08-04-2024,Furniture,1,229.16,05-05-2023,6,Mainstays,Low,['Toys'],5
+William Olsen,akelley@example.org,31,Male,Wilsonville,TV,20-04-2024,Electronics,3,388.93,21-12-2023,4,Vizio,High,['Clothing'],4
+William Dixon,eddie01@example.com,39,Female,Port Robin,Butter,15-03-2024,Groceries,5,460.75,24-12-2023,8,Great Value,Low,"['Furniture', 'Health & Wellness', 'Appliances']",2
+Courtney Garcia,jbuchanan@example.org,57,Male,North Breannaport,Paint,07-04-2024,Home Improvement,3,53.87,06-05-2023,2,Rust-Oleum,High,"['Health & Wellness', 'Furniture']",2
+Eric Schwartz,matthewwhite@example.net,24,Other,New Calebberg,Butter,13-04-2024,Groceries,5,432.54,27-12-2023,7,Great Value,Medium,"['Clothing', 'Home Improvement', 'Home Improvement', 'Home Improvement']",1
+Kimberly Le,victoria59@example.com,27,Female,Jacksontown,Vitamins,25-07-2024,Health & Wellness,2,248.97,23-03-2024,7,Nature Made,Medium,"['Toys', 'Appliances', 'Groceries', 'Groceries', 'Sports & Outdoors']",2
+Angelica Smith,pgraham@example.org,67,Female,Parksborough,Puzzle,20-07-2024,Toys,3,272.53,01-08-2023,8,Buffalo Games,Medium,"['Home Improvement', 'Electronics']",3
+John Reilly,greenhunter@example.net,52,Female,West Nathan,Jacket,17-05-2024,Clothing,1,446.88,03-08-2023,4,Carhartt,High,['Electronics'],4
+Jeffery Rush,amyford@example.net,28,Female,Port Christopherhaven,Dryer,29-03-2024,Appliances,3,58.4,18-10-2023,6,Samsung,Medium,"['Groceries', 'Home Improvement', 'Furniture', 'Beauty', 'Furniture']",2
+Mary Patel,lewismichael@example.com,29,Female,Williamsfort,Jeans,19-03-2024,Clothing,2,187.33,25-03-2023,20,Wrangler,Low,"['Toys', 'Beauty', 'Appliances', 'Groceries', 'Furniture']",3
+Victoria Washington,donnaherrera@example.net,67,Male,South Andrew,First Aid,24-06-2024,Health & Wellness,2,475.03,06-10-2023,9,Band-Aid,Medium,"['Toys', 'Electronics', 'Appliances', 'Home Improvement', 'Health & Wellness']",2
+Nathan Fuller,jeffrey69@example.com,23,Female,Lake Reneeville,Lawn Mower,04-07-2024,Home Improvement,5,306.68,25-12-2023,15,John Deere,Low,"['Clothing', 'Electronics', 'Electronics', 'Furniture']",4
+Tammy Hawkins,torresmelinda@example.org,22,Other,Shirleyside,Butter,14-07-2024,Groceries,3,15.17,27-05-2024,5,Kerrygold,High,"['Home Improvement', 'Appliances']",1
+John Johnson DVM,jacquelinemason@example.com,42,Other,North Chelseyland,Pain Relief,24-03-2024,Health & Wellness,1,345.3,28-10-2023,2,Aleve,Low,"['Groceries', 'Beauty', 'Health & Wellness']",3
+Heather Lopez,stevenssheri@example.net,65,Female,West Kathleenborough,Laptop,20-03-2024,Electronics,1,471.44,13-02-2024,9,Apple,Low,"['Sports & Outdoors', 'Sports & Outdoors', 'Beauty', 'Clothing', 'Beauty']",1
+Jessica Torres,johnsonshawn@example.com,47,Female,North Melanie,TV,12-07-2024,Electronics,4,102.23,02-07-2024,7,Sony,Medium,"['Home Improvement', 'Appliances']",4
+Robert Smith,sara13@example.org,65,Other,East Christophertown,Lawn Mower,23-02-2024,Home Improvement,4,249.6,26-01-2024,16,Toro,Medium,"['Clothing', 'Beauty']",3
+James Klein,mitchellanthony@example.org,61,Female,Nelsonbury,Makeup,08-03-2024,Beauty,2,316.9,11-07-2023,17,L'Oreal,Medium,"['Toys', 'Furniture', 'Appliances', 'Sports & Outdoors', 'Health & Wellness']",1
+Judith Adams,josephflores@example.com,53,Female,Munozport,First Aid,11-03-2024,Health & Wellness,1,432.2,18-09-2023,5,Johnson & Johnson,Medium,"['Clothing', 'Furniture', 'Toys', 'Electronics']",3
+William Newton,shanemorgan@example.com,53,Other,North Johnhaven,Vitamins,29-01-2024,Health & Wellness,1,59.3,30-07-2023,10,Centrum,High,"['Home Improvement', 'Sports & Outdoors', 'Furniture', 'Electronics']",4
+Benjamin Salazar,harrisonryan@example.net,69,Other,Wesleyfort,Sofa,11-03-2024,Furniture,4,418.03,06-02-2024,20,Mainstays,Low,"['Clothing', 'Electronics']",2
+Kenneth Harris,patricia10@example.net,39,Other,South Michael,Shirt,21-06-2024,Clothing,2,381.99,24-03-2024,4,Wrangler,Low,"['Health & Wellness', 'Groceries', 'Appliances']",4
+Tanya Peters,timothy70@example.com,24,Other,West Robertmouth,Skincare,25-07-2024,Beauty,3,164.63,13-06-2024,4,CeraVe,High,"['Electronics', 'Health & Wellness', 'Toys', 'Health & Wellness', 'Health & Wellness']",5
+Juan Gibbs,lopezlinda@example.org,68,Female,Jasonberg,Eggs,20-01-2024,Groceries,1,86.45,21-04-2023,8,Vital Farms,High,"['Furniture', 'Health & Wellness', 'Toys']",3
+Monica Mayer,sporter@example.net,18,Other,Craigfurt,Bed,01-08-2024,Furniture,5,17.45,26-03-2024,3,Mainstays,Low,"['Home Improvement', 'Electronics']",4
+John Richards,ismith@example.org,66,Female,North Daniel,Fragrances,28-06-2024,Beauty,4,42.15,28-08-2023,18,Calvin Klein,High,"['Sports & Outdoors', 'Beauty', 'Furniture']",4
+Diane Hull,hectorwilkins@example.com,32,Male,East James,Table,06-03-2024,Furniture,5,494.55,26-03-2023,11,Better Homes & Gardens,Medium,"['Health & Wellness', 'Toys', 'Clothing', 'Furniture', 'Furniture']",3
+Danny Brown,gregoryflores@example.org,27,Female,West Alejandro,Doll,01-07-2024,Toys,1,33.04,31-08-2023,2,Barbie,Medium,"['Electronics', 'Electronics']",4
+Victor Tanner,nancyhiggins@example.com,46,Other,Port Joystad,Chair,25-03-2024,Furniture,4,106.36,21-12-2023,18,Better Homes & Gardens,Low,"['Electronics', 'Health & Wellness', 'Furniture']",4
+Susan Brown,glen81@example.org,38,Female,Mendezberg,Skincare,04-07-2024,Beauty,2,376.44,20-03-2024,3,CeraVe,High,"['Toys', 'Electronics']",3
+Carlos Ochoa,juliamcdonald@example.com,34,Male,Kellyside,Shirt,07-06-2024,Clothing,2,88.7,07-09-2023,9,Fruit of the Loom,Low,"['Home Improvement', 'Clothing', 'Electronics', 'Beauty', 'Toys']",4
+David Sanchez,brucehoward@example.net,55,Other,Josephberg,Butter,11-04-2024,Groceries,5,346.59,28-12-2023,19,Kerrygold,High,"['Sports & Outdoors', 'Furniture']",2
+Sarah Wilson,udiaz@example.com,34,Female,Raymondport,Makeup,10-06-2024,Beauty,1,207.03,01-02-2024,9,Revlon,Low,"['Beauty', 'Groceries']",4
+Haley Stephenson,fred80@example.org,42,Female,New Robert,Bike,08-01-2024,Sports & Outdoors,1,338.87,06-02-2023,4,Trek,High,"['Electronics', 'Electronics']",4
+William Glass,npacheco@example.org,18,Female,Rodriguezland,Bed,06-06-2024,Furniture,3,258.72,07-08-2023,5,Serta,Medium,"['Clothing', 'Beauty']",4
+Andrew Thompson,caroldixon@example.org,55,Other,Christinashire,Tool Set,20-03-2024,Home Improvement,4,429.33,29-03-2023,3,Husky,High,['Sports & Outdoors'],3
+Stacey Adams,ryan85@example.org,59,Male,Henryville,Drill,27-06-2024,Home Improvement,1,36.26,14-01-2024,14,DeWalt,High,"['Appliances', 'Health & Wellness']",3
+Danielle Reynolds,ortizjulie@example.net,19,Other,Nelsonport,Pain Relief,04-06-2024,Health & Wellness,1,224.49,23-02-2024,8,Tylenol,Low,"['Sports & Outdoors', 'Electronics', 'Home Improvement', 'Furniture']",1
+Vicki Willis,elizabethalvarez@example.net,51,Female,East Carl,First Aid,24-01-2024,Health & Wellness,5,485.61,14-06-2023,2,Curad,Low,"['Clothing', 'Sports & Outdoors', 'Groceries', 'Electronics', 'Toys']",1
+Jessica Kramer,steven11@example.com,30,Male,Port Ethan,Puzzle,10-07-2024,Toys,2,62.11,31-10-2023,15,Melissa & Doug,Medium,"['Electronics', 'Toys', 'Home Improvement', 'Beauty']",3
+Christopher Oneill,whitetroy@example.net,40,Male,Harrisonfurt,Tool Set,25-01-2024,Home Improvement,3,421.05,21-02-2023,2,Craftsman,Low,"['Home Improvement', 'Clothing', 'Clothing', 'Electronics']",5
+Molly Stokes,harrischeryl@example.net,42,Female,Port Annview,Puzzle,18-07-2024,Toys,4,374.99,03-08-2023,15,Ravensburger,Low,"['Beauty', 'Electronics', 'Appliances']",4
+Debra Campbell,christina63@example.org,58,Male,Lauramouth,Microwave,08-03-2024,Appliances,2,476.64,09-07-2023,1,LG,Low,"['Furniture', 'Sports & Outdoors', 'Groceries', 'Electronics', 'Groceries']",1
+Jacob Ramirez,gordongregory@example.org,62,Male,Jeffersonborough,Chair,13-07-2024,Furniture,4,136.84,31-10-2023,16,Better Homes & Gardens,Low,"['Beauty', 'Toys', 'Electronics', 'Appliances']",5
+Mr. Jerome Porter MD,bowencatherine@example.net,67,Other,Daniellemouth,Bed,25-07-2024,Furniture,2,153.43,15-05-2024,4,Better Homes & Gardens,Medium,"['Clothing', 'Sports & Outdoors', 'Toys', 'Toys', 'Groceries']",1
+Cheryl Palmer,portiz@example.org,56,Female,Justinside,Shirt,11-07-2024,Clothing,4,26.44,14-11-2023,12,Hanes,Medium,"['Furniture', 'Groceries', 'Beauty']",1
+Virginia Barrett,stefaniejohnson@example.org,30,Other,North Kellystad,Shirt,17-06-2024,Clothing,5,454.13,15-07-2023,6,Levi's,High,"['Sports & Outdoors', 'Beauty', 'Beauty']",5
+Cynthia Simmons,oscott@example.net,33,Other,South Brianna,Laptop,22-03-2024,Electronics,2,113.93,22-06-2023,16,Lenovo,Medium,"['Sports & Outdoors', 'Clothing', 'Home Improvement']",4
+Kenneth Holt,ycoleman@example.org,21,Male,Port Aaronhaven,Smartphone,27-06-2024,Electronics,4,497.39,16-07-2023,7,Google,Medium,"['Clothing', 'Appliances', 'Health & Wellness', 'Electronics']",3
+Nicole Holland,annayoung@example.net,21,Male,Robertview,Drill,02-01-2024,Home Improvement,3,134.98,25-03-2023,19,DeWalt,High,"['Clothing', 'Clothing', 'Health & Wellness', 'Toys', 'Sports & Outdoors']",3
+Laura Perez,yjones@example.com,69,Female,West Valerie,Bed,10-02-2024,Furniture,3,277.12,08-09-2023,14,DHP,Low,"['Groceries', 'Furniture', 'Appliances']",4
+Michael Ramirez,jenniferrose@example.org,41,Male,Lopezstad,Kayak,26-07-2024,Sports & Outdoors,1,149.01,10-02-2024,17,Old Town,Medium,['Sports & Outdoors'],1
+Kelly Hardy,xromero@example.org,25,Other,Port Kristinaport,Fragrances,25-01-2024,Beauty,2,304.49,06-09-2023,15,Calvin Klein,High,"['Clothing', 'Appliances', 'Appliances', 'Beauty']",3
+Tiffany Garcia,amandasullivan@example.org,49,Other,Lake Carlos,Lawn Mower,09-05-2024,Home Improvement,1,438.61,19-09-2023,9,John Deere,Medium,"['Groceries', 'Appliances', 'Clothing', 'Home Improvement', 'Beauty']",5
+Douglas Herman,luisthompson@example.com,32,Female,West Adrianton,Microwave,20-01-2024,Appliances,5,225.77,22-11-2023,19,GE,High,"['Electronics', 'Sports & Outdoors', 'Sports & Outdoors', 'Electronics']",3
+Tonya Thompson,stanleyvicki@example.com,33,Other,Ronaldfurt,Jacket,28-07-2024,Clothing,5,82.87,20-08-2023,1,Carhartt,High,['Clothing'],5
+Scott Mathis,mendezmaria@example.com,61,Female,East Michele,Shoes,16-05-2024,Clothing,2,167.99,26-03-2024,10,Puma,Low,['Appliances'],2
+Denise Cardenas,amber78@example.com,68,Male,Neilfort,Shirt,18-05-2024,Clothing,5,416.78,08-03-2024,18,Levi's,High,"['Health & Wellness', 'Sports & Outdoors']",5
+Anthony Stewart,cynthialove@example.com,64,Other,New Kevinfort,Pain Relief,30-04-2024,Health & Wellness,3,83.92,02-11-2023,18,Bayer,Low,['Groceries'],2
+Betty Campbell,marksedward@example.org,44,Female,Samuelberg,Puzzle,25-01-2024,Toys,1,150.35,25-09-2023,6,Buffalo Games,Medium,"['Groceries', 'Clothing']",5
+Ashley Arnold,whiteheadanthony@example.org,67,Other,Erinfurt,Sofa,19-07-2024,Furniture,5,337.01,07-05-2024,19,Better Homes & Gardens,High,"['Electronics', 'Health & Wellness', 'Groceries']",3
+Vanessa Kennedy,dcarr@example.com,20,Other,Port Yolanda,Drill,15-04-2024,Home Improvement,3,68.53,22-01-2024,14,Makita,Low,"['Groceries', 'Beauty', 'Furniture', 'Home Improvement', 'Sports & Outdoors']",2
+Connor Santiago,bestjacob@example.com,59,Male,Livingstonbury,Smartphone,03-02-2024,Electronics,4,405.9,08-11-2023,7,Apple,Medium,['Electronics'],5
+Vicki Mills,tyler37@example.net,49,Female,Mitchellmouth,Hair Care,25-05-2024,Beauty,1,193.89,15-12-2023,2,Tresemme,High,"['Home Improvement', 'Furniture', 'Clothing']",1
+Raymond Lynn,dominique00@example.com,52,Other,Millerstad,Skincare,22-04-2024,Beauty,5,384.36,19-05-2023,6,CeraVe,Medium,"['Clothing', 'Clothing', 'Toys', 'Groceries']",5
+Robert Johnson,wileysergio@example.org,18,Other,East Diana,Kayak,27-04-2024,Sports & Outdoors,4,207.4,09-03-2024,4,Lifetime,High,"['Groceries', 'Furniture', 'Home Improvement', 'Clothing', 'Furniture']",3
+Anna Gomez,richardwilson@example.org,39,Female,West Coreybury,Eggs,17-06-2024,Groceries,3,174.64,25-06-2023,18,Eggland's Best,High,"['Groceries', 'Groceries', 'Appliances', 'Toys']",4
+Melanie Miller,nhernandez@example.org,34,Male,Caitlinland,Washer,18-03-2024,Appliances,2,146.27,07-11-2023,12,LG,Medium,"['Beauty', 'Furniture', 'Sports & Outdoors', 'Sports & Outdoors', 'Appliances']",3
+Joseph Nunez,monica85@example.org,56,Other,Rodriguezstad,Shoes,20-04-2024,Clothing,2,480.21,01-10-2023,6,Under Armour,High,"['Appliances', 'Sports & Outdoors', 'Health & Wellness', 'Groceries', 'Furniture']",3
+Natasha Edwards,masonthomas@example.net,26,Other,Carlchester,Skincare,23-02-2024,Beauty,4,171.63,25-10-2023,7,Neutrogena,High,"['Furniture', 'Toys', 'Electronics', 'Beauty']",3
+Kari Smith,whoward@example.org,65,Other,East Jessica,Dryer,07-06-2024,Appliances,5,444.61,31-01-2024,10,Whirlpool,High,"['Beauty', 'Appliances', 'Beauty']",4
+Mark Walsh,samuel74@example.org,25,Other,West Randyland,Jeans,27-06-2024,Clothing,5,155.24,16-02-2024,4,Wrangler,Low,"['Electronics', 'Health & Wellness', 'Groceries', 'Health & Wellness']",5
+Sherry Whitney,shannon89@example.net,46,Female,Mendozamouth,Skincare,06-06-2024,Beauty,2,24.5,25-04-2024,7,Aveeno,Medium,"['Health & Wellness', 'Toys', 'Beauty', 'Sports & Outdoors']",1
+Steve Miles,cameron28@example.com,42,Other,Reginaland,Shoes,16-06-2024,Clothing,4,379.03,29-12-2023,4,Adidas,High,"['Sports & Outdoors', 'Groceries', 'Clothing']",5
+Michael Alvarez,davislisa@example.org,46,Other,Jonathanville,TV,29-02-2024,Electronics,3,144.46,02-12-2023,20,Samsung,High,"['Sports & Outdoors', 'Appliances', 'Home Improvement', 'Beauty', 'Home Improvement']",1
+Emily Huffman,benjamin61@example.org,66,Female,New Vickibury,Microwave,07-07-2024,Appliances,2,447.66,19-07-2023,20,LG,Medium,"['Health & Wellness', 'Home Improvement', 'Beauty', 'Toys']",2
+Gregory Raymond,wrighttracy@example.org,33,Female,East Andreview,Sofa,25-04-2024,Furniture,3,278.13,15-09-2023,14,Mainstays,Low,"['Toys', 'Electronics', 'Appliances', 'Sports & Outdoors', 'Clothing']",1
+William Cole,duranalbert@example.net,20,Other,East Emily,Tent,06-01-2024,Sports & Outdoors,2,210.84,17-09-2023,13,Wenzel,Low,"['Clothing', 'Health & Wellness', 'Clothing']",2
+Scott Ramirez,bgardner@example.com,66,Other,Elizabethborough,Microwave,03-01-2024,Appliances,2,315.4,09-12-2023,2,Panasonic,Low,"['Furniture', 'Home Improvement', 'Appliances', 'Home Improvement']",4
+Michael Conway,kellyangela@example.net,42,Male,New Kathryn,Bike,12-02-2024,Sports & Outdoors,1,186.41,10-11-2023,5,Mongoose,Medium,['Home Improvement'],4
+James Diaz,sarabarker@example.org,25,Male,Port Dale,Laptop,12-07-2024,Electronics,5,31.72,29-11-2023,15,Lenovo,High,"['Clothing', 'Appliances', 'Clothing', 'Toys']",5
+Amanda Coffey,jjohnson@example.net,36,Other,South Kim,Tool Set,19-06-2024,Home Improvement,5,352.42,28-07-2023,15,Stanley,High,['Groceries'],1
+Jennifer Rojas,taylorgregory@example.com,68,Other,New David,Puzzle,04-02-2024,Toys,4,400.48,17-02-2023,1,Ravensburger,Medium,"['Electronics', 'Health & Wellness', 'Appliances', 'Sports & Outdoors', 'Electronics']",3
+Keith Mayer,ashleytaylor@example.com,44,Female,North Danieltown,Dryer,09-03-2024,Appliances,1,392.3,10-01-2024,18,GE,Medium,['Electronics'],4
+Chris Fernandez,stephenthornton@example.com,40,Male,North Daniel,Paint,03-08-2024,Home Improvement,3,491.9,29-10-2023,4,Rust-Oleum,Low,"['Beauty', 'Sports & Outdoors']",1
+Jenna Adams,nancy52@example.net,62,Male,Dustinview,Vitamins,21-01-2024,Health & Wellness,3,315.54,25-06-2023,4,Nature's Bounty,High,['Appliances'],1
+Rebecca Webb,owilliams@example.com,62,Other,Port Terri,Bike,19-03-2024,Sports & Outdoors,1,275.88,29-10-2023,6,Huffy,High,"['Sports & Outdoors', 'Health & Wellness', 'Toys', 'Groceries', 'Appliances']",2
+Danny Collins,ashleyreyes@example.com,23,Male,North Devinport,Doll,08-05-2024,Toys,1,348.88,15-05-2023,9,Disney,Low,"['Home Improvement', 'Groceries', 'Electronics', 'Home Improvement', 'Clothing']",1
+David Lin,blee@example.org,49,Male,Gomezport,Lego,26-01-2024,Toys,5,344.12,02-10-2023,5,Lego,High,"['Toys', 'Electronics', 'Clothing', 'Electronics', 'Sports & Outdoors']",4
+Gerald Bauer,brettwalsh@example.org,37,Other,South Karenland,Smartphone,06-07-2024,Electronics,4,140.33,24-03-2024,15,OnePlus,Medium,"['Furniture', 'Health & Wellness', 'Groceries', 'Toys']",5
+Laura Sparks,julie20@example.net,28,Male,South Alexanderberg,Hair Care,16-03-2024,Beauty,4,116.97,04-07-2023,15,Tresemme,Medium,"['Home Improvement', 'Electronics', 'Clothing', 'Clothing', 'Toys']",1
+Thomas Wilson,lisatran@example.com,66,Female,Andreamouth,Jeans,26-06-2024,Clothing,1,224.65,12-02-2024,9,Levi's,Medium,"['Electronics', 'Sports & Outdoors']",2
+Sheila Becker,jwilson@example.com,64,Female,Jamesborough,Milk,29-07-2024,Groceries,2,255.51,01-03-2024,14,Fairlife,Low,"['Health & Wellness', 'Health & Wellness']",1
+Dawn Robinson,jameshaley@example.org,22,Other,Lake Linda,Puzzle,05-04-2024,Toys,3,475.75,15-07-2023,2,Ravensburger,High,['Toys'],5
+Cynthia Clark,erikagiles@example.com,52,Female,Port Brittanystad,Doll,19-05-2024,Toys,3,65.66,29-09-2023,6,Disney,Medium,"['Health & Wellness', 'Appliances', 'Appliances']",4
+Randy Lopez,patriciamitchell@example.com,39,Male,West Kimberly,Smartphone,24-04-2024,Electronics,5,130.03,26-09-2023,7,Google,High,"['Home Improvement', 'Beauty', 'Electronics', 'Furniture', 'Health & Wellness']",1
+Mrs. Sheena Smith,briannacochran@example.net,63,Male,North Heidi,TV,02-06-2024,Electronics,4,412.6,04-10-2023,1,Samsung,High,"['Electronics', 'Clothing', 'Appliances', 'Furniture']",1
+Nancy Shepard PhD,moyermichael@example.net,51,Other,South Andrea,Lego,29-03-2024,Toys,5,266.47,30-04-2023,18,Lego,High,"['Sports & Outdoors', 'Appliances']",4
+Stephanie Campbell,reedjohn@example.com,28,Other,Dennisside,Milk,27-05-2024,Groceries,2,380.39,01-07-2023,8,Great Value,Medium,"['Appliances', 'Beauty', 'Sports & Outdoors', 'Health & Wellness']",5
+Thomas Garcia,dhall@example.net,59,Female,South Dustin,Hair Care,17-07-2024,Beauty,5,14.09,19-06-2024,18,Garnier,High,"['Furniture', 'Clothing', 'Furniture']",4
+Brittany Patterson,darrell47@example.org,68,Other,Port Lori,Jacket,13-06-2024,Clothing,5,278.72,20-10-2023,5,Columbia,Low,"['Furniture', 'Beauty', 'Toys', 'Sports & Outdoors']",2
+Molly Foster,ashleygates@example.net,27,Female,West Michael,Washer,14-03-2024,Appliances,4,179.65,19-07-2023,4,Whirlpool,High,"['Electronics', 'Beauty', 'Furniture', 'Clothing', 'Home Improvement']",4
+Jennifer Harris,tpotter@example.com,56,Other,South Andrewbury,Tent,15-07-2024,Sports & Outdoors,4,202.38,25-07-2023,18,Ozark Trail,Medium,['Groceries'],2
+Johnny White,pgibbs@example.com,38,Female,Oliverchester,Fishing Rod,05-02-2024,Sports & Outdoors,2,282.17,13-02-2023,11,Abu Garcia,Medium,"['Sports & Outdoors', 'Electronics']",3
+Sharon Hernandez,owensrachel@example.com,30,Male,Lake Erichaven,Shirt,24-03-2024,Clothing,1,351.93,13-07-2023,11,Hanes,High,"['Health & Wellness', 'Furniture']",5
+Gregory Coleman,blake47@example.net,63,Female,Danielsborough,Microwave,27-05-2024,Appliances,1,384.89,07-02-2024,10,Panasonic,Medium,"['Beauty', 'Sports & Outdoors', 'Sports & Outdoors', 'Sports & Outdoors', 'Clothing']",4
+Tammy Johnson,shawn42@example.com,60,Female,Port Brandonhaven,Eggs,03-05-2024,Groceries,2,247.49,09-08-2023,19,Great Value,Medium,"['Furniture', 'Clothing', 'Furniture', 'Toys']",3
+Matthew Lowe,jessicabailey@example.org,26,Female,Freemanchester,Tool Set,27-04-2024,Home Improvement,3,186.71,04-06-2023,8,Husky,Medium,['Home Improvement'],3
+Jeremy Schroeder,jose82@example.com,27,Male,New Sharonberg,First Aid,06-04-2024,Health & Wellness,4,213.58,24-10-2023,18,Band-Aid,High,"['Furniture', 'Furniture', 'Electronics', 'Sports & Outdoors', 'Electronics']",5
+Denise Smith,tinaferguson@example.org,44,Male,Josephville,Lawn Mower,21-01-2024,Home Improvement,4,225.48,08-05-2023,16,Husqvarna,High,"['Health & Wellness', 'Groceries', 'Furniture', 'Furniture']",1
+Theresa Johnson,rhodesteresa@example.org,27,Female,East Teresa,Bike,23-01-2024,Sports & Outdoors,2,434.9,10-05-2023,2,Schwinn,Low,"['Clothing', 'Electronics', 'Toys', 'Home Improvement']",3
+Wendy Lopez PhD,dspence@example.com,61,Female,Edwardview,Lawn Mower,22-06-2024,Home Improvement,5,46.7,22-02-2024,15,Honda,Medium,"['Sports & Outdoors', 'Home Improvement', 'Toys', 'Toys']",2
+Andre King,jessicaandrews@example.org,36,Male,Christianland,Bike,28-07-2024,Sports & Outdoors,1,117.89,16-10-2023,9,Mongoose,Low,"['Beauty', 'Sports & Outdoors', 'Health & Wellness']",3
+Timothy Serrano,xcox@example.net,68,Other,North Bradleymouth,Fragrances,03-07-2024,Beauty,4,417.11,16-10-2023,5,Chanel,Medium,"['Appliances', 'Home Improvement', 'Health & Wellness']",2
+Kimberly Allen,steven81@example.org,49,Female,Lake Josephberg,Shoes,12-07-2024,Clothing,3,499.67,19-07-2023,9,Adidas,Medium,"['Appliances', 'Clothing', 'Home Improvement', 'Electronics']",4
+Heather White,smithtroy@example.org,49,Female,West Scott,Tool Set,27-04-2024,Home Improvement,3,120.39,01-09-2023,15,Kobalt,High,"['Toys', 'Electronics']",2
+Michelle Smith,omarconner@example.com,62,Other,New Melinda,Chair,25-02-2024,Furniture,3,319.46,26-12-2023,11,DHP,High,['Home Improvement'],5
+Erin Reyes,ashleypetersen@example.org,55,Other,East Sarah,Puzzle,13-05-2024,Toys,4,415.11,01-07-2023,16,Melissa & Doug,High,"['Health & Wellness', 'Clothing', 'Beauty']",4
+Nicole Santana,fmcgee@example.com,19,Other,Coryfurt,Car,29-05-2024,Toys,5,454.27,15-12-2023,3,Matchbox,Low,['Furniture'],3
+Melissa Li,kpatterson@example.net,31,Female,Richardland,Lawn Mower,30-07-2024,Home Improvement,4,211.74,16-01-2024,18,Honda,High,"['Clothing', 'Sports & Outdoors', 'Home Improvement', 'Appliances']",3
+John Powell,tdennis@example.net,70,Male,Diazmouth,Fishing Rod,08-06-2024,Sports & Outdoors,4,154.99,08-08-2023,20,Penn,Medium,"['Beauty', 'Beauty', 'Furniture', 'Beauty']",3
+Kenneth Patel,xbowman@example.com,42,Male,Yorktown,TV,30-04-2024,Electronics,4,257.74,04-11-2023,17,Vizio,Medium,"['Furniture', 'Electronics', 'Home Improvement', 'Health & Wellness', 'Sports & Outdoors']",3
+Mr. Kenneth Schneider,wrightpeter@example.org,49,Other,Walkerview,Tent,09-05-2024,Sports & Outdoors,4,199.55,30-09-2023,3,Wenzel,Low,"['Beauty', 'Furniture', 'Clothing', 'Appliances', 'Clothing']",3
+Richard Watson,ymorales@example.com,41,Female,Tracybury,Makeup,02-07-2024,Beauty,4,238.29,31-10-2023,10,CoverGirl,Medium,"['Beauty', 'Clothing', 'Electronics']",5
+Christopher Norton,nicole45@example.net,26,Male,New Gregoryland,Lawn Mower,07-06-2024,Home Improvement,4,394.18,18-02-2024,1,John Deere,Medium,['Toys'],2
+Anthony Glover,brownheather@example.org,70,Female,West Michaelchester,Milk,30-05-2024,Groceries,4,346.59,09-07-2023,3,Fairlife,Medium,"['Groceries', 'Electronics', 'Sports & Outdoors', 'Electronics']",4
+Casey Hood,emiller@example.net,33,Other,Riddleberg,Paint,31-07-2024,Home Improvement,5,420.17,30-08-2023,5,Sherwin-Williams,High,['Home Improvement'],5
+Raymond Hayes,bparker@example.org,62,Female,Wrightfort,First Aid,22-03-2024,Health & Wellness,1,47.02,09-02-2024,12,Band-Aid,High,"['Health & Wellness', 'Electronics']",2
+Danny Fields,ashleyrussell@example.com,30,Male,Schmidtport,Smartphone,19-02-2024,Electronics,3,363.79,27-12-2023,14,Apple,High,"['Beauty', 'Furniture', 'Clothing', 'Furniture', 'Beauty']",4
+Patricia Roberts,kennedyjessica@example.net,26,Other,Port Michelle,Lego,02-05-2024,Toys,3,436.93,31-07-2023,14,Lego,High,"['Sports & Outdoors', 'Appliances', 'Electronics']",4
+Larry Scott,ejohnson@example.net,38,Other,New Carolyn,Car,04-03-2024,Toys,4,83.81,17-05-2023,14,Matchbox,High,['Toys'],5
+Jason Mayer,kbrown@example.net,36,Other,Chambersfurt,Jeans,06-03-2024,Clothing,5,491.44,09-03-2023,12,Wrangler,High,"['Beauty', 'Toys', 'Clothing']",4
+Alexandria Lawson,lisa84@example.net,37,Female,North Charles,Washer,01-02-2024,Appliances,4,226.32,03-07-2023,6,LG,Medium,"['Health & Wellness', 'Appliances']",1
+Lauren Vaughn,jennifer64@example.net,39,Male,Crystalland,Lego,29-06-2024,Toys,4,374.78,07-07-2023,13,Lego,Medium,"['Electronics', 'Appliances']",3
+Jay Kennedy,mercadoevan@example.org,42,Female,Ryanbury,Butter,25-03-2024,Groceries,4,400.21,02-09-2023,11,Great Value,Medium,"['Sports & Outdoors', 'Electronics', 'Furniture']",2
+Christopher Phillips,cscott@example.net,29,Male,Tiffanyton,Pain Relief,21-07-2024,Health & Wellness,5,150.17,21-03-2024,11,Aleve,High,['Toys'],1
+Jose Freeman,sdavenport@example.com,63,Male,Andersonton,Pain Relief,07-05-2024,Health & Wellness,4,98.32,25-03-2024,17,Tylenol,High,"['Toys', 'Appliances']",2
+Donna Torres,terryryan@example.net,26,Female,Alisonfort,Pain Relief,30-06-2024,Health & Wellness,1,329.92,24-11-2023,9,Tylenol,High,"['Clothing', 'Home Improvement', 'Toys', 'Clothing']",3
+John Hill,dmorales@example.com,53,Male,East Matthew,Bread,15-03-2024,Groceries,2,431.34,04-11-2023,12,Wonder,High,"['Health & Wellness', 'Beauty', 'Sports & Outdoors']",1
+Matthew Simpson,sheila72@example.com,46,Male,Kevinfort,Fragrances,19-04-2024,Beauty,3,207.89,03-02-2024,11,Chanel,Low,['Groceries'],4
+Kyle Aguilar,gclark@example.com,26,Other,Lorihaven,Dryer,07-06-2024,Appliances,4,101.65,12-12-2023,14,Whirlpool,High,"['Groceries', 'Electronics', 'Clothing', 'Home Improvement']",1
+Yesenia Jacobson,tonya16@example.com,24,Male,Port Nancy,Vitamins,08-06-2024,Health & Wellness,2,66.02,25-01-2024,3,Nature's Bounty,Low,"['Clothing', 'Furniture', 'Electronics', 'Health & Wellness']",4
+Shelby Bates,margaret95@example.org,27,Other,South Travistown,Makeup,10-03-2024,Beauty,1,100.33,04-03-2024,3,L'Oreal,Low,"['Groceries', 'Toys', 'Electronics']",5
+Michelle Moran,kaitlinmorales@example.org,58,Female,East Jeremy,TV,25-05-2024,Electronics,2,454.29,27-03-2024,6,Vizio,Medium,"['Electronics', 'Groceries', 'Furniture']",3
+Tammy Lopez,fkelly@example.org,44,Female,North George,Doll,08-03-2024,Toys,4,46.87,13-11-2023,3,American Girl,Medium,"['Beauty', 'Toys', 'Sports & Outdoors', 'Sports & Outdoors']",3
+Misty Fleming,rklein@example.org,44,Other,Christinaport,Skincare,20-06-2024,Beauty,3,368.54,27-02-2024,14,Neutrogena,High,"['Beauty', 'Health & Wellness']",2
+Michael Clark,elizabeth42@example.com,63,Male,Port Thomasfurt,Washer,02-08-2024,Appliances,2,328.01,12-07-2024,8,LG,High,"['Furniture', 'Beauty']",3
+Brooke Thompson,esingh@example.org,39,Male,Lake Christinaton,Supplements,01-04-2024,Health & Wellness,1,356.99,29-08-2023,16,Garden of Life,High,"['Home Improvement', 'Beauty', 'Toys']",1
+Jacqueline Conner,ecarney@example.net,59,Other,North Michaelburgh,Doll,19-02-2024,Toys,2,286.57,05-04-2023,3,Barbie,High,"['Furniture', 'Furniture', 'Clothing', 'Furniture']",2
+Clayton Lyons,christinesmith@example.net,62,Other,Sherrystad,Skincare,22-04-2024,Beauty,3,380.19,23-03-2024,8,Olay,Low,['Appliances'],2
+Edwin Sandoval,butlerdaniel@example.org,53,Other,Lisafurt,Tool Set,20-03-2024,Home Improvement,3,11.01,04-11-2023,20,Stanley,Low,"['Furniture', 'Health & Wellness', 'Home Improvement', 'Appliances']",3
+Diane Smith,salazarwillie@example.org,52,Other,Melissaburgh,Table,13-04-2024,Furniture,1,134.08,14-08-2023,13,Better Homes & Gardens,Medium,"['Appliances', 'Toys']",1
+Tammy Nichols,joyhunt@example.org,49,Male,South Rodneybury,Washer,23-02-2024,Appliances,4,196.24,20-07-2023,19,GE,Medium,"['Clothing', 'Appliances', 'Furniture']",4
+Angel Oliver,cunninghamamanda@example.org,49,Other,Ramirezton,Milk,30-01-2024,Groceries,4,264.83,14-06-2023,18,Horizon,High,['Beauty'],3
+Charles Tate,kaiseraustin@example.com,65,Female,North Anthony,Fishing Rod,12-07-2024,Sports & Outdoors,1,129.57,22-04-2024,18,Shakespeare,High,['Health & Wellness'],3
+Wanda Burke,taylorsara@example.org,57,Other,West Charles,Bed,28-01-2024,Furniture,3,342.49,31-10-2023,19,Better Homes & Gardens,Medium,['Home Improvement'],2
+Larry Tucker,lawrence64@example.org,50,Male,Port Anthonyton,Smartphone,02-03-2024,Electronics,2,21.75,13-02-2024,4,Google,High,"['Clothing', 'Beauty', 'Furniture', 'Appliances']",5
+Sean Dunn,dgreen@example.net,44,Female,New Michaelland,Shoes,16-03-2024,Clothing,5,291.92,26-05-2023,14,Puma,Low,"['Sports & Outdoors', 'Sports & Outdoors', 'Home Improvement']",5
+Alicia Garcia,raymond70@example.net,63,Female,West Gregoryhaven,Smartphone,19-07-2024,Electronics,3,464.46,21-06-2024,11,Samsung,Medium,"['Groceries', 'Groceries', 'Groceries']",5
+Mrs. Karen Williams,ffoster@example.org,48,Female,East Angelica,Doll,14-04-2024,Toys,4,207.7,19-12-2023,6,Barbie,Low,"['Beauty', 'Groceries', 'Clothing', 'Sports & Outdoors', 'Sports & Outdoors']",3
+Jacob Li,daviddavis@example.com,30,Other,West Tylertown,Skincare,10-02-2024,Beauty,3,375.91,21-05-2023,12,Aveeno,Low,"['Appliances', 'Sports & Outdoors', 'Groceries', 'Sports & Outdoors', 'Toys']",1
+Rachel Thornton,evansvictor@example.org,60,Male,Lake Courtneyland,Hair Care,08-03-2024,Beauty,4,470.1,26-08-2023,14,Pantene,High,"['Sports & Outdoors', 'Furniture']",3
+John Brown,uflores@example.net,18,Male,Jacobberg,Fishing Rod,26-07-2024,Sports & Outdoors,3,489.15,19-08-2023,3,Penn,Medium,"['Electronics', 'Electronics', 'Health & Wellness', 'Toys', 'Furniture']",3
+Jamie Atkins,edaniels@example.com,24,Male,Smithchester,Table,04-08-2024,Furniture,5,246.26,24-11-2023,10,Mainstays,High,"['Toys', 'Furniture', 'Clothing', 'Health & Wellness', 'Sports & Outdoors']",2
+Craig Brady,cortezrichard@example.com,63,Other,West Joshuafort,Hair Care,12-02-2024,Beauty,3,208.48,03-08-2023,10,Herbal Essences,Medium,"['Electronics', 'Appliances', 'Clothing']",3
+Breanna Walters,zgarza@example.org,50,Other,Port Meganland,Dryer,02-03-2024,Appliances,2,178.93,03-01-2024,5,LG,Medium,"['Health & Wellness', 'Home Improvement', 'Clothing', 'Health & Wellness', 'Home Improvement']",2
+James Houston,unguyen@example.org,34,Male,Acostatown,Microwave,25-05-2024,Appliances,3,351.77,22-05-2024,2,LG,Medium,"['Health & Wellness', 'Electronics', 'Sports & Outdoors']",1
+Pamela Campbell,anthonydeborah@example.net,33,Other,East Alexis,Pain Relief,25-01-2024,Health & Wellness,2,80.38,01-04-2023,3,Advil,Medium,"['Home Improvement', 'Clothing', 'Furniture', 'Groceries']",3
+Jacqueline Dennis,maciasjennifer@example.org,63,Other,North Edwardburgh,Microwave,03-06-2024,Appliances,5,247.38,29-07-2023,12,Samsung,Low,"['Groceries', 'Beauty', 'Appliances']",3
+Peter Santos,toniscott@example.com,45,Other,North Jerry,Lawn Mower,05-05-2024,Home Improvement,3,274.41,24-03-2024,2,John Deere,Low,"['Sports & Outdoors', 'Sports & Outdoors']",2
+Ryan Jackson,jenniferwhite@example.com,20,Male,North Rhondabury,TV,21-04-2024,Electronics,4,189.34,19-05-2023,4,Vizio,High,"['Groceries', 'Electronics', 'Health & Wellness', 'Home Improvement']",1
+Ashley Summers,sharvey@example.com,53,Other,South John,Doll,25-03-2024,Toys,5,197.14,28-07-2023,9,Barbie,High,"['Electronics', 'Furniture', 'Groceries', 'Electronics', 'Furniture']",3
+Tyler Massey,michael54@example.net,32,Female,South Jerrystad,Tool Set,30-07-2024,Home Improvement,2,414.32,22-10-2023,7,Craftsman,Low,"['Toys', 'Appliances', 'Furniture', 'Electronics', 'Electronics']",4
+Kimberly Horton,xpayne@example.com,23,Other,Robertsport,Refrigerator,23-02-2024,Appliances,5,429.4,11-07-2023,12,GE,High,['Sports & Outdoors'],3
+Douglas Porter,knapplindsey@example.org,61,Other,Lake Bonnie,Refrigerator,04-02-2024,Appliances,5,155.78,25-05-2023,16,Whirlpool,Low,['Sports & Outdoors'],1
+Kyle Thompson,millerdaniel@example.com,46,Male,Ballardmouth,Pain Relief,12-04-2024,Health & Wellness,3,74.41,22-02-2024,13,Tylenol,High,"['Toys', 'Beauty']",2
+Jacob Jordan,halexander@example.org,38,Other,New Christopherhaven,Tool Set,06-07-2024,Home Improvement,4,259.15,30-05-2024,10,Husky,High,['Beauty'],5
+Michael Wilson,williamsjonathan@example.net,61,Female,West Mikayla,Shirt,04-05-2024,Clothing,2,169.58,05-06-2023,20,Wrangler,High,['Sports & Outdoors'],5
+Dana Howard,yharrison@example.net,61,Other,Port Mikaylashire,Makeup,20-01-2024,Beauty,2,464.41,09-06-2023,15,L'Oreal,Low,"['Health & Wellness', 'Sports & Outdoors']",4
+Anthony Thomas,palmeramy@example.org,57,Female,Walkerfurt,Supplements,12-03-2024,Health & Wellness,5,137.32,07-12-2023,10,NOW Foods,Low,"['Beauty', 'Groceries', 'Groceries', 'Groceries']",1
+Billy Perez,james28@example.org,43,Male,Johnsonland,First Aid,04-05-2024,Health & Wellness,4,126.37,11-05-2023,17,Neosporin,Medium,['Furniture'],4
+Katherine Jenkins,fischermartha@example.com,37,Female,Hollowayview,Bed,03-08-2024,Furniture,4,432.85,12-11-2023,18,Mainstays,Low,"['Home Improvement', 'Health & Wellness']",3
+Richard Cameron,morabrian@example.net,31,Other,Allenville,Tent,31-07-2024,Sports & Outdoors,4,102.75,21-02-2024,10,Coleman,High,['Electronics'],5
+Chad Martinez,mollygomez@example.com,68,Female,Dawnton,Paint,02-02-2024,Home Improvement,5,198.88,04-07-2023,18,Sherwin-Williams,High,['Groceries'],5
+Cheryl Jarvis,bryanbecker@example.net,49,Female,Briannamouth,Refrigerator,27-04-2024,Appliances,2,464.16,24-12-2023,18,Samsung,Low,['Toys'],4
+Dr. Blake Suarez,owenmelissa@example.com,38,Female,Angelside,Refrigerator,13-01-2024,Appliances,3,403.72,05-01-2024,16,Whirlpool,Low,['Health & Wellness'],5
+Randy Garcia,millergail@example.net,46,Male,Kingberg,Makeup,01-05-2024,Beauty,3,214.12,17-12-2023,17,Revlon,High,"['Groceries', 'Groceries', 'Clothing']",1
+Sandra Miller,jasonhensley@example.net,59,Male,Rebeccamouth,Bread,16-01-2024,Groceries,2,9.36,07-01-2024,15,Nature's Own,High,"['Groceries', 'Toys']",3
+Ariel Mcneil,pateljeffrey@example.net,26,Other,Lopezburgh,Skincare,29-06-2024,Beauty,4,19.64,25-09-2023,20,Aveeno,Medium,['Home Improvement'],1
+Christopher Hansen,qcastro@example.net,29,Female,South Eric,Butter,24-02-2024,Groceries,4,307.09,06-01-2024,10,Land O'Lakes,Low,"['Furniture', 'Sports & Outdoors', 'Beauty', 'Sports & Outdoors']",3
+Charles Blair,underwoodangela@example.com,38,Other,North Bradley,Lego,23-01-2024,Toys,5,378.59,23-03-2023,6,Lego,High,"['Furniture', 'Clothing', 'Clothing', 'Health & Wellness']",3
+Jack Moss,lisa85@example.org,50,Female,West Brittany,Shoes,22-05-2024,Clothing,5,322.75,16-09-2023,12,Nike,Low,"['Appliances', 'Home Improvement', 'Clothing']",1
+James Ewing,millermatthew@example.net,35,Male,Justinfurt,Lawn Mower,22-03-2024,Home Improvement,5,425.56,10-09-2023,4,Toro,High,['Home Improvement'],4
+Kyle Frey,joshuaroth@example.org,19,Other,Hernandezland,Kayak,11-07-2024,Sports & Outdoors,5,171.15,24-03-2024,1,Intex,Medium,['Home Improvement'],3
+Erik Strong,kimberlyhayden@example.net,41,Other,North Katie,Shirt,28-02-2024,Clothing,1,464.2,13-09-2023,16,Fruit of the Loom,Low,"['Clothing', 'Appliances', 'Clothing', 'Beauty', 'Beauty']",5
+David Smith,sally07@example.org,69,Male,Richardsonstad,Bed,08-05-2024,Furniture,4,455.26,27-12-2023,5,Mainstays,High,"['Clothing', 'Clothing', 'Sports & Outdoors', 'Home Improvement']",4
+Michael Mullen,jasminenelson@example.com,29,Other,Matthewville,Kayak,06-07-2024,Sports & Outdoors,1,262.74,21-12-2023,7,Pelican,Low,"['Groceries', 'Clothing', 'Electronics', 'Sports & Outdoors']",5
+Jeremy Bennett,hollowaystephen@example.net,61,Male,Micheleton,Dryer,17-05-2024,Appliances,3,401.67,08-05-2024,18,Samsung,High,['Home Improvement'],5
+Wesley Anderson,williamchaney@example.com,39,Female,New John,Vitamins,26-05-2024,Health & Wellness,3,457.84,25-04-2024,19,Vitafusion,Medium,"['Appliances', 'Appliances', 'Home Improvement', 'Beauty', 'Furniture']",2
+Dan Garner,wallannette@example.net,50,Other,North Johnborough,Laptop,27-05-2024,Electronics,4,253.48,24-04-2024,14,Dell,Low,"['Furniture', 'Furniture', 'Clothing', 'Sports & Outdoors']",2
+Robert Henderson,clarksarah@example.com,58,Male,New Rogerside,Shoes,17-02-2024,Clothing,3,57.66,18-09-2023,7,Nike,High,['Furniture'],5
+Mr. Cody Lopez PhD,qcastaneda@example.org,45,Male,South Jameschester,Microwave,08-05-2024,Appliances,1,449.73,29-11-2023,19,GE,Low,"['Clothing', 'Clothing']",3
+Melinda Mullen,rebeccawilliams@example.net,28,Other,East Kyle,Paint,06-03-2024,Home Improvement,2,91.86,07-10-2023,1,Valspar,High,['Clothing'],2
+Jaime Rodriguez,dreynolds@example.com,59,Other,Austinmouth,Bed,27-02-2024,Furniture,5,74.23,02-05-2023,3,Better Homes & Gardens,Medium,['Health & Wellness'],3
+Stephanie Farley,shelbyschultz@example.net,30,Female,Lake Mary,Bed,28-02-2024,Furniture,3,236.13,10-10-2023,13,DHP,Medium,"['Sports & Outdoors', 'Groceries', 'Clothing', 'Home Improvement', 'Toys']",3
+Douglas Peterson,mistyyoung@example.org,49,Other,Stevenville,Bike,07-02-2024,Sports & Outdoors,1,436.3,31-05-2023,10,Mongoose,High,['Electronics'],2
+William Santiago,hendersonvictoria@example.com,41,Male,Paynefort,Tool Set,03-08-2024,Home Improvement,4,45.74,14-10-2023,7,Stanley,High,"['Furniture', 'Toys']",5
+Cody Espinoza,poncezachary@example.com,58,Female,West William,Kayak,19-02-2024,Sports & Outdoors,5,135.31,25-04-2023,6,Pelican,Medium,"['Furniture', 'Sports & Outdoors', 'Groceries', 'Furniture']",5
+Abigail Patel,alanpeters@example.org,57,Female,Michelleburgh,Sofa,18-03-2024,Furniture,4,428.99,12-09-2023,5,DHP,High,"['Toys', 'Beauty', 'Electronics', 'Appliances']",1
+Amanda James,hesskathleen@example.org,42,Other,South Joshua,Kayak,09-02-2024,Sports & Outdoors,1,152.11,03-08-2023,5,Lifetime,Low,"['Appliances', 'Sports & Outdoors']",3
+Jennifer Vasquez,wheelerthomas@example.net,35,Male,Fosterside,Jeans,06-02-2024,Clothing,5,362.34,07-05-2023,2,Dickies,Low,"['Home Improvement', 'Beauty', 'Electronics', 'Toys']",3
+Susan Foster,mary92@example.com,30,Other,East Amy,Hair Care,13-07-2024,Beauty,3,490.99,23-05-2024,17,Herbal Essences,Low,"['Health & Wellness', 'Appliances', 'Furniture']",4
+Sylvia Bishop,krausedawn@example.net,45,Female,Lake Johnside,Kayak,17-01-2024,Sports & Outdoors,4,55.71,14-10-2023,5,Intex,High,"['Appliances', 'Groceries', 'Sports & Outdoors']",2
+Suzanne Obrien,victoria85@example.com,43,Other,Petersport,Dryer,12-04-2024,Appliances,4,53.77,09-08-2023,14,GE,Medium,"['Sports & Outdoors', 'Health & Wellness']",5
+Heather Morris,henry65@example.net,31,Male,Robertchester,Supplements,11-03-2024,Health & Wellness,4,441.84,18-10-2023,16,Garden of Life,Low,"['Electronics', 'Toys']",5
+Curtis Diaz,savannah23@example.org,26,Female,Taylormouth,Smartphone,02-03-2024,Electronics,4,101.38,22-03-2023,3,Google,High,"['Appliances', 'Health & Wellness', 'Home Improvement']",5
+Monica Goodwin,jeffery07@example.net,27,Other,East Williamside,Hair Care,13-06-2024,Beauty,1,310.52,27-07-2023,6,Pantene,Low,"['Clothing', 'Beauty', 'Appliances', 'Furniture', 'Sports & Outdoors']",3
+Dawn Fuller,christinapadilla@example.net,31,Other,Williambury,Table,18-05-2024,Furniture,5,410.14,10-03-2024,6,Sauder,Low,['Sports & Outdoors'],1
+Daniel Wilkins,wbrown@example.net,44,Female,Hillburgh,Doll,11-06-2024,Toys,5,76.64,20-04-2024,9,Disney,High,"['Toys', 'Furniture']",1
+Kyle French,olivianguyen@example.net,35,Male,Kathrynmouth,Supplements,30-07-2024,Health & Wellness,5,363.63,02-04-2024,15,Nature Made,Low,"['Groceries', 'Furniture', 'Sports & Outdoors']",1
+Christina Jensen,jtaylor@example.net,37,Other,West Travis,Kayak,05-07-2024,Sports & Outdoors,4,445.76,27-06-2024,16,Old Town,High,['Appliances'],2
+Rachel Gardner,cartervirginia@example.com,49,Male,North Jennifer,Sofa,29-02-2024,Furniture,5,93.05,19-03-2023,18,Better Homes & Gardens,Low,"['Clothing', 'Appliances', 'Clothing', 'Electronics']",2
+Mrs. Madison Black,whitelori@example.net,67,Other,Blackmouth,Fragrances,14-06-2024,Beauty,5,149,13-12-2023,18,Versace,Medium,"['Electronics', 'Electronics', 'Beauty']",1
+Jill Weeks,ppowell@example.net,46,Male,Estradamouth,First Aid,10-04-2024,Health & Wellness,5,250.57,10-06-2023,6,Curad,Low,"['Home Improvement', 'Furniture']",4
+Natasha Little,robert37@example.net,65,Male,Jamiemouth,Tool Set,18-04-2024,Home Improvement,1,434,18-02-2024,7,Craftsman,Low,"['Furniture', 'Sports & Outdoors', 'Toys', 'Electronics', 'Home Improvement']",4
+Mr. William Parrish,eroberts@example.com,67,Female,Alexandraview,Fragrances,06-07-2024,Beauty,2,433.81,12-03-2024,5,Calvin Klein,Low,['Beauty'],2
+John Larson,hensleyrita@example.org,46,Female,Katherineview,Drill,28-05-2024,Home Improvement,4,176.71,02-08-2023,16,Black+Decker,Medium,"['Electronics', 'Clothing', 'Clothing', 'Home Improvement', 'Home Improvement']",5
+Marc Foster,heather39@example.com,49,Other,Lake Tommyhaven,Sofa,01-01-2024,Furniture,1,65.93,01-02-2023,7,Mainstays,High,"['Clothing', 'Sports & Outdoors', 'Home Improvement']",2
+Daniel Brown PhD,jonesrobert@example.org,68,Female,North Jennyton,Tool Set,27-02-2024,Home Improvement,1,54.76,25-02-2024,15,Craftsman,High,"['Clothing', 'Electronics', 'Toys']",3
+Jeremy Mcdonald,kgillespie@example.net,67,Other,Lake Kevin,Makeup,29-05-2024,Beauty,1,120.68,22-05-2024,18,Revlon,High,"['Furniture', 'Appliances', 'Sports & Outdoors', 'Sports & Outdoors', 'Sports & Outdoors']",1
+Julie Price,henrypamela@example.net,51,Female,Angelaland,Tent,04-04-2024,Sports & Outdoors,2,440.77,03-05-2023,3,Ozark Trail,High,"['Clothing', 'Clothing', 'Beauty', 'Clothing']",5
+Michelle Watts,itran@example.com,40,Other,Andersonland,Pain Relief,31-07-2024,Health & Wellness,1,453.95,16-02-2024,9,Tylenol,Medium,"['Home Improvement', 'Toys', 'Appliances']",5
+Dennis West,bethandersen@example.org,55,Female,Robertsshire,Makeup,20-03-2024,Beauty,3,226.03,30-07-2023,7,Revlon,Medium,"['Home Improvement', 'Sports & Outdoors', 'Clothing', 'Electronics']",1
+Kim Delgado,bdawson@example.net,49,Other,East Glennport,Jacket,08-06-2024,Clothing,5,309.67,26-12-2023,10,Columbia,High,"['Appliances', 'Groceries', 'Health & Wellness', 'Beauty']",2
+Jeffrey Ward,melissadalton@example.org,40,Female,Owenmouth,Tent,17-07-2024,Sports & Outdoors,3,198.94,05-06-2024,20,Ozark Trail,Low,"['Home Improvement', 'Toys', 'Furniture', 'Health & Wellness']",4
+Daniel Jenkins,lisa74@example.com,41,Male,Munozfort,Chair,05-06-2024,Furniture,1,485.61,16-04-2024,11,Mainstays,Medium,['Health & Wellness'],3
+Danielle Smith,cmiller@example.net,59,Male,South Kathryn,Lawn Mower,22-01-2024,Home Improvement,5,313.97,17-04-2023,5,John Deere,High,['Appliances'],1
+Jose Andrews,shirleyward@example.net,34,Other,Avilaview,Pain Relief,15-04-2024,Health & Wellness,3,383.24,12-01-2024,20,Tylenol,High,['Electronics'],1
+Zachary Russo,jeremy43@example.net,65,Male,Port Carolhaven,Tent,12-02-2024,Sports & Outdoors,5,427.9,02-09-2023,2,ALPS Mountaineering,Medium,"['Health & Wellness', 'Health & Wellness', 'Appliances']",4
+Elizabeth Harris,smithsteven@example.com,33,Other,Maddenville,Skincare,04-06-2024,Beauty,5,187.4,11-09-2023,4,Olay,Medium,"['Beauty', 'Groceries', 'Toys', 'Furniture']",3
+Jill Williamson,jamesmorton@example.org,64,Female,South Brianamouth,Dryer,12-04-2024,Appliances,4,220.93,16-07-2023,8,LG,High,"['Appliances', 'Clothing', 'Appliances', 'Toys']",2
+Diane Garcia,penningtonbenjamin@example.com,65,Other,Berryberg,Bed,18-05-2024,Furniture,3,390.32,23-12-2023,7,DHP,High,"['Health & Wellness', 'Health & Wellness', 'Furniture', 'Electronics', 'Appliances']",4
+Mary Stuart,stacey54@example.org,38,Male,South Troychester,Chair,28-04-2024,Furniture,5,129.23,20-02-2024,5,Better Homes & Gardens,Low,"['Clothing', 'Health & Wellness']",3
+Diane Stewart,goldenangela@example.org,32,Other,Port Jenniferhaven,Tool Set,10-05-2024,Home Improvement,2,485.36,23-07-2023,8,Kobalt,High,['Groceries'],5
+Kevin Reed,maria84@example.net,49,Other,Michellechester,Supplements,17-03-2024,Health & Wellness,4,411.11,26-01-2024,9,Optimum Nutrition,Medium,"['Health & Wellness', 'Groceries', 'Toys', 'Electronics', 'Home Improvement']",5
+Benjamin Villa,laura54@example.com,31,Other,South Jamie,Kayak,05-08-2024,Sports & Outdoors,4,230.68,21-02-2024,4,Old Town,Medium,['Toys'],1
+Greg Hall,danielkelly@example.org,58,Other,New Michael,Doll,21-01-2024,Toys,2,171.36,08-05-2023,4,Barbie,Medium,"['Beauty', 'Sports & Outdoors', 'Clothing', 'Home Improvement', 'Health & Wellness']",2
+Nicolas Carter,larry97@example.net,47,Female,Port Christine,First Aid,11-06-2024,Health & Wellness,2,448.41,10-07-2023,12,Curad,Low,"['Beauty', 'Beauty', 'Groceries', 'Electronics']",2
+Harold Thornton,meltonterri@example.com,62,Female,East Phillip,Paint,17-03-2024,Home Improvement,1,387.9,23-04-2023,2,Behr,Low,"['Furniture', 'Appliances', 'Health & Wellness', 'Home Improvement']",3
+Erika Dennis,brett72@example.com,21,Female,Jonesmouth,Drill,02-08-2024,Home Improvement,2,200.51,10-11-2023,1,DeWalt,Low,['Home Improvement'],3
+John Flores,kthompson@example.net,69,Female,Jasminview,Jacket,21-01-2024,Clothing,5,467.13,19-10-2023,13,Carhartt,High,"['Beauty', 'Toys', 'Electronics', 'Furniture']",2
+Chris Vaughn,xmiller@example.net,37,Male,North Lauren,Shoes,01-06-2024,Clothing,4,272.06,23-10-2023,15,Adidas,High,['Appliances'],4
+Timothy Lewis,stevengraham@example.com,47,Other,Ericfurt,Bed,04-01-2024,Furniture,5,137.06,08-03-2023,10,Better Homes & Gardens,Medium,"['Electronics', 'Groceries', 'Groceries']",4
+Carlos Howell,orichardson@example.org,70,Female,New Tara,Paint,03-03-2024,Home Improvement,4,74.86,19-11-2023,6,Sherwin-Williams,Low,"['Electronics', 'Groceries', 'Appliances']",2
+Mrs. Jacqueline Taylor,william30@example.org,20,Male,Gilesstad,Tool Set,14-04-2024,Home Improvement,5,371.74,04-06-2023,12,Craftsman,High,"['Health & Wellness', 'Appliances', 'Beauty']",2
+Matthew Walters,chadbecker@example.net,20,Female,Lake Eriktown,TV,05-04-2024,Electronics,5,410.18,16-11-2023,15,Samsung,High,"['Toys', 'Beauty', 'Appliances', 'Furniture']",2
+Dawn Conley,nguyenmark@example.net,35,Other,Larryport,Refrigerator,04-04-2024,Appliances,5,138.02,20-01-2024,11,Samsung,High,"['Groceries', 'Sports & Outdoors', 'Electronics']",3
+Eric Bradshaw,scottjohnson@example.com,59,Other,Richardsonport,Microwave,05-03-2024,Appliances,1,224.29,18-12-2023,6,Samsung,Medium,"['Groceries', 'Sports & Outdoors', 'Groceries', 'Electronics', 'Electronics']",4
+Christopher Clay,adavis@example.com,39,Male,West Nicoleside,Jeans,05-01-2024,Clothing,2,51.3,03-06-2023,17,Wrangler,High,"['Sports & Outdoors', 'Appliances']",5
+Carolyn Morales,gnelson@example.com,22,Female,West Maryhaven,Tool Set,03-02-2024,Home Improvement,3,146.82,26-10-2023,7,Craftsman,High,"['Beauty', 'Furniture', 'Beauty']",4
+David Shea,iwade@example.com,36,Male,West Jeremiahshire,Tool Set,31-03-2024,Home Improvement,5,103.72,03-03-2024,7,Stanley,Low,"['Groceries', 'Home Improvement', 'Toys']",4
+Tiffany Williams,james69@example.net,18,Other,North Charleshaven,Milk,11-02-2024,Groceries,4,204.56,12-11-2023,14,Horizon,Low,"['Appliances', 'Groceries', 'Toys']",4
+Toni Robinson,zsantos@example.com,32,Male,Amytown,Hair Care,23-07-2024,Beauty,2,123.33,27-06-2024,16,Herbal Essences,Medium,"['Clothing', 'Beauty']",2
+Jessica Rios,teresa45@example.com,55,Female,East Michael,Bread,26-02-2024,Groceries,1,67.12,30-08-2023,4,Wonder,Medium,"['Toys', 'Electronics', 'Beauty']",3
+Anthony Woods,slong@example.com,41,Other,Taylorchester,Fragrances,08-04-2024,Beauty,5,351.32,30-10-2023,6,Versace,High,"['Beauty', 'Appliances', 'Beauty', 'Clothing']",4
+Rachel Garza,scarpenter@example.org,60,Other,West Katherinetown,Fragrances,30-07-2024,Beauty,3,403.44,26-06-2024,15,Dolce & Gabbana,High,"['Furniture', 'Toys', 'Groceries', 'Health & Wellness']",3
+John Shepard,brian61@example.net,66,Female,Lake Kenneth,Supplements,21-04-2024,Health & Wellness,3,209.74,20-05-2023,1,Nature Made,High,"['Health & Wellness', 'Clothing']",5
+Angie Lewis,dgray@example.net,38,Male,East Timothychester,Lawn Mower,09-07-2024,Home Improvement,4,111.51,09-09-2023,4,Toro,Medium,"['Health & Wellness', 'Clothing', 'Beauty', 'Clothing', 'Home Improvement']",2
+Jason Jackson,janice99@example.org,39,Male,Hansonville,Drill,22-01-2024,Home Improvement,1,402.34,18-09-2023,13,Black+Decker,High,"['Electronics', 'Sports & Outdoors', 'Appliances']",4
+Gail Hernandez,kayla81@example.org,49,Female,Floresview,Shoes,28-05-2024,Clothing,2,30.5,03-10-2023,13,Puma,High,"['Furniture', 'Electronics', 'Beauty']",5
+Douglas Moore,jacob47@example.net,69,Female,Johnfurt,Refrigerator,08-02-2024,Appliances,5,77.69,31-07-2023,19,Samsung,Medium,"['Electronics', 'Toys', 'Toys']",2
+Joseph Campbell,barbaramcdaniel@example.com,62,Female,West Danielle,Vitamins,06-05-2024,Health & Wellness,4,77.2,26-08-2023,18,Nature's Bounty,Medium,"['Sports & Outdoors', 'Sports & Outdoors', 'Groceries', 'Electronics', 'Toys']",2
+Donna Lawrence,lfigueroa@example.net,18,Other,Lake Kim,Milk,08-03-2024,Groceries,4,170.52,07-09-2023,7,Great Value,High,"['Electronics', 'Groceries', 'Beauty', 'Electronics']",5
+Alicia Frazier,emendoza@example.net,23,Female,Frazierchester,Milk,04-07-2024,Groceries,3,402.85,17-03-2024,4,Fairlife,Low,"['Home Improvement', 'Sports & Outdoors', 'Beauty', 'Home Improvement']",2
+Jason Barrett,david26@example.org,50,Female,Port Douglas,Jacket,08-01-2024,Clothing,1,144.09,23-12-2023,20,Carhartt,High,"['Beauty', 'Clothing', 'Home Improvement']",5
+Allen Oliver,pbrown@example.org,19,Male,Port Davidside,Headphones,29-04-2024,Electronics,3,175.55,14-03-2024,14,JBL,Medium,"['Electronics', 'Beauty']",4
+Shelley Zavala,elizabeth06@example.org,59,Female,South Robin,Lawn Mower,13-01-2024,Home Improvement,2,440.3,05-08-2023,19,Toro,Medium,"['Beauty', 'Sports & Outdoors']",1
+Karen Garcia,hoffmansteven@example.com,49,Male,Bushchester,Table,29-02-2024,Furniture,1,475.4,30-12-2023,14,Better Homes & Gardens,Low,"['Toys', 'Electronics']",3
+Diana Choi,smithkarina@example.com,67,Other,Jenniferberg,Butter,10-02-2024,Groceries,3,339.65,13-02-2023,4,Great Value,Low,"['Health & Wellness', 'Toys', 'Electronics', 'Electronics']",5
+William Fowler,michealedwards@example.com,40,Female,East Heather,Table,17-05-2024,Furniture,1,168.33,12-06-2023,6,Better Homes & Gardens,Medium,"['Groceries', 'Clothing']",2
+Jonathan Thomas,xpruitt@example.com,45,Male,Lake Brittney,Paint,20-05-2024,Home Improvement,1,122.89,07-04-2024,12,Valspar,Low,"['Toys', 'Sports & Outdoors', 'Home Improvement', 'Groceries']",1
+Michelle Downs,wking@example.org,38,Male,Michaelstad,Makeup,31-05-2024,Beauty,5,469.96,25-09-2023,2,L'Oreal,Medium,['Toys'],5
+Vickie Anderson,tjordan@example.net,52,Female,Cisneroshaven,Shoes,03-03-2024,Clothing,1,218.68,06-02-2024,2,Nike,Low,"['Beauty', 'Groceries', 'Home Improvement']",3
+Janice Valenzuela,wsilva@example.net,50,Female,Lake Rhonda,Headphones,26-01-2024,Electronics,4,22.21,29-05-2023,7,Beats,High,"['Sports & Outdoors', 'Beauty', 'Beauty']",1
+Carla Hess,tburnett@example.org,61,Female,North Brittany,Car,05-04-2024,Toys,5,269.37,21-08-2023,8,Disney,High,"['Clothing', 'Clothing']",3
+Susan Williams,julie13@example.net,51,Other,Robertland,Supplements,31-07-2024,Health & Wellness,2,190.46,21-04-2024,19,Optimum Nutrition,High,"['Clothing', 'Appliances']",3
+Thomas Ho,markavila@example.org,49,Female,New Edgarberg,Supplements,13-06-2024,Health & Wellness,3,368.13,24-06-2023,12,Garden of Life,High,['Groceries'],2
+Kenneth Harris,mark60@example.org,69,Male,North Chelsea,Fishing Rod,26-05-2024,Sports & Outdoors,2,77.05,02-07-2023,6,Abu Garcia,High,"['Health & Wellness', 'Groceries', 'Toys', 'Health & Wellness']",2
+Michelle Martinez,craignatalie@example.com,19,Female,New Olivia,Shoes,16-01-2024,Clothing,5,292.4,10-03-2023,1,Nike,Low,"['Sports & Outdoors', 'Home Improvement', 'Electronics', 'Furniture']",3
+Cheryl Scott,debraharrison@example.com,30,Female,West Reneeland,Paint,14-05-2024,Home Improvement,2,86.04,02-02-2024,10,Rust-Oleum,Medium,"['Groceries', 'Groceries', 'Clothing', 'Sports & Outdoors', 'Groceries']",3
+Andrew Scott,gbarber@example.org,60,Female,Cooperborough,Shirt,28-07-2024,Clothing,1,161.42,10-03-2024,20,Hanes,High,"['Home Improvement', 'Toys', 'Toys', 'Groceries', 'Groceries']",2
+Darrell Walton,kim32@example.org,19,Female,Michaelbury,Drill,29-05-2024,Home Improvement,2,38.88,17-04-2024,9,Bosch,High,['Toys'],5
+Rachel Harris,icamacho@example.org,52,Male,Stephenmouth,Chair,02-02-2024,Furniture,2,197.92,27-06-2023,1,Mainstays,High,"['Health & Wellness', 'Beauty', 'Health & Wellness', 'Home Improvement']",4
+Samuel Wells,donald94@example.com,65,Other,West Sandra,Car,09-02-2024,Toys,3,426.27,11-02-2023,9,Matchbox,Low,['Sports & Outdoors'],2
+Diana Banks,wilsonshane@example.com,19,Other,Stacyport,Supplements,12-02-2024,Health & Wellness,3,438,27-12-2023,5,Garden of Life,Low,['Sports & Outdoors'],2
+Hannah Smith,guzmanderrick@example.net,65,Male,Terryton,Jeans,28-04-2024,Clothing,3,486.26,19-03-2024,20,Dickies,Medium,['Furniture'],4
+Christopher Fuentes,hramirez@example.com,39,Other,Lake Michele,Lego,05-03-2024,Toys,4,64.17,15-06-2023,5,Lego,Low,"['Health & Wellness', 'Sports & Outdoors', 'Home Improvement', 'Sports & Outdoors']",3
+Cody Morrison,lisajefferson@example.net,31,Other,Alexandriahaven,Washer,17-05-2024,Appliances,3,376.76,29-03-2024,11,Samsung,Medium,"['Appliances', 'Furniture', 'Clothing', 'Appliances', 'Home Improvement']",4
+Dominique Roth,davidbarrett@example.org,32,Female,New Daniel,Chair,08-04-2024,Furniture,5,110.03,20-02-2024,8,Mainstays,Medium,"['Sports & Outdoors', 'Groceries', 'Toys', 'Toys']",4
+Kelly Yates,myersthomas@example.net,56,Female,Port Amyton,Car,01-07-2024,Toys,1,478.34,19-02-2024,1,Disney,High,"['Electronics', 'Groceries', 'Sports & Outdoors']",3
+Wayne Meadows,danielgross@example.org,18,Other,Port John,Jeans,05-03-2024,Clothing,3,38.51,23-04-2023,8,Wrangler,High,['Health & Wellness'],4
+Dwayne Bridges,rlane@example.com,25,Other,Lake Sara,Drill,01-08-2024,Home Improvement,4,275.46,03-03-2024,10,Bosch,High,"['Toys', 'Appliances', 'Toys']",5
+Lisa Kirk,jacquelinehardy@example.net,38,Other,New Rachelview,Supplements,24-04-2024,Health & Wellness,1,337.6,21-03-2024,2,Garden of Life,High,"['Appliances', 'Beauty']",5
+Sean Mckee,angelicamoore@example.org,25,Female,Barbaraport,TV,02-03-2024,Electronics,1,43.04,07-08-2023,15,LG,Medium,"['Groceries', 'Home Improvement', 'Home Improvement']",3
+James Chen,rnelson@example.org,61,Female,Josephshire,Chair,05-02-2024,Furniture,1,464.79,02-05-2023,4,DHP,Low,"['Health & Wellness', 'Furniture', 'Electronics', 'Furniture', 'Health & Wellness']",5
+Jennifer White,matthew43@example.org,49,Other,Mcknightborough,Fragrances,20-01-2024,Beauty,2,412.21,22-08-2023,14,Versace,High,['Furniture'],4
+Janet Strickland,christina54@example.org,19,Other,Port Alexandriachester,Doll,03-04-2024,Toys,3,400.28,28-04-2023,16,American Girl,High,['Furniture'],4
+Jennifer Pierce,sanchezkaren@example.org,49,Female,Brianshire,Puzzle,12-07-2024,Toys,5,436.82,11-01-2024,1,Buffalo Games,Medium,"['Clothing', 'Electronics', 'Appliances', 'Home Improvement']",3
+Adam Wu,floreskelly@example.com,37,Female,Aliciaton,Fishing Rod,28-02-2024,Sports & Outdoors,1,105.52,27-08-2023,20,Abu Garcia,High,['Sports & Outdoors'],1
+Jessica Miller,deleonchristine@example.org,59,Male,New Mark,Jacket,15-01-2024,Clothing,5,210.97,16-02-2023,18,Patagonia,Medium,"['Electronics', 'Furniture', 'Beauty', 'Toys', 'Toys']",3
+Samuel Newman,kimberly78@example.net,63,Male,Nicoleland,Lawn Mower,02-08-2024,Home Improvement,3,448.73,19-01-2024,6,John Deere,High,['Toys'],4
+Megan Weber,sara96@example.com,20,Female,Jaredstad,Sofa,05-07-2024,Furniture,4,8.44,15-10-2023,5,Serta,High,"['Beauty', 'Clothing', 'Health & Wellness']",3
+Carol Reyes,hawkinskatie@example.com,40,Other,North Jessica,Bed,21-02-2024,Furniture,4,115.7,23-08-2023,9,Serta,Medium,"['Appliances', 'Electronics']",3
+Morgan Bell,anthony57@example.org,28,Male,New Barbaraview,Pain Relief,08-07-2024,Health & Wellness,4,169.38,09-01-2024,4,Bayer,Low,"['Appliances', 'Health & Wellness', 'Electronics', 'Beauty', 'Home Improvement']",4
+Brian Mcdowell,jon81@example.net,62,Other,Toddberg,Kayak,28-04-2024,Sports & Outdoors,5,15.76,06-12-2023,5,Pelican,High,"['Beauty', 'Electronics', 'Electronics']",5
+Chelsea Morris,medinasean@example.org,29,Male,Wilsonfurt,Kayak,02-05-2024,Sports & Outdoors,3,339.05,12-09-2023,14,Lifetime,Low,['Toys'],4
+Carmen Murray,murraynoah@example.org,37,Other,Brownbury,Bed,09-03-2024,Furniture,1,354.01,12-05-2023,13,Better Homes & Gardens,Low,"['Home Improvement', 'Beauty', 'Furniture', 'Groceries']",3
+Kathleen Harris DDS,zavila@example.net,30,Female,Murphyfort,Paint,28-07-2024,Home Improvement,3,455.95,17-07-2024,2,Behr,High,['Groceries'],5
+Samuel Ramsey,margaretgill@example.com,46,Female,West Scott,Vitamins,07-02-2024,Health & Wellness,2,73.25,31-08-2023,17,Nature Made,Low,"['Groceries', 'Sports & Outdoors', 'Furniture', 'Sports & Outdoors']",3
+Sarah Perez,ashley80@example.org,66,Female,Deanland,Doll,31-07-2024,Toys,3,188.4,04-09-2023,5,American Girl,High,"['Groceries', 'Electronics']",2
+Olivia Randall,amywaters@example.org,39,Other,Smallshire,Skincare,09-05-2024,Beauty,4,425.53,02-04-2024,5,CeraVe,High,"['Groceries', 'Beauty']",2
+Gary Bryant,anne52@example.net,52,Female,New Mark,Table,05-08-2024,Furniture,4,272.02,14-11-2023,17,Mainstays,High,['Beauty'],3
+Justin Fritz,ehodges@example.org,49,Other,Ellisville,Shirt,19-04-2024,Clothing,4,167.39,28-09-2023,20,Hanes,High,"['Clothing', 'Appliances', 'Appliances', 'Sports & Outdoors']",5
+Kayla Gomez,qpatterson@example.net,49,Male,Mccormickmouth,Chair,24-01-2024,Furniture,4,35.8,19-06-2023,14,DHP,High,"['Health & Wellness', 'Beauty', 'Health & Wellness']",2
+Kim Allen,ijohnson@example.org,49,Other,South Johnathan,First Aid,19-06-2024,Health & Wellness,2,131.94,09-09-2023,3,Neosporin,Medium,"['Home Improvement', 'Appliances']",3
+Amanda Brown,cassandrastone@example.net,31,Male,New Jonathantown,Vitamins,29-03-2024,Health & Wellness,1,360.78,23-03-2024,5,Nature Made,Low,"['Toys', 'Furniture', 'Clothing', 'Home Improvement']",4
+Jenna Young,jonathanblack@example.org,68,Male,Murphyside,Dryer,02-07-2024,Appliances,3,280.55,14-09-2023,4,Samsung,High,"['Appliances', 'Groceries']",1
+Gail Silva,joseph89@example.net,49,Other,West Danielle,TV,12-02-2024,Electronics,4,28.02,04-04-2023,12,Vizio,High,"['Toys', 'Sports & Outdoors']",2
+Thomas Miller,gonzalespamela@example.org,49,Other,Zavalashire,Chair,17-07-2024,Furniture,4,471.92,01-02-2024,15,Serta,Medium,"['Clothing', 'Sports & Outdoors']",1
+Stacy Shaw,morenonicole@example.org,66,Male,West Davidshire,Pain Relief,13-06-2024,Health & Wellness,1,206.5,27-12-2023,4,Advil,Medium,"['Beauty', 'Clothing', 'Clothing', 'Groceries', 'Beauty']",4
+Brooke Willis,ygardner@example.net,51,Female,New Phillipfort,Car,27-05-2024,Toys,2,356.74,31-08-2023,20,Matchbox,Medium,"['Home Improvement', 'Groceries', 'Health & Wellness']",3
+Janet Austin,adamsdenise@example.com,53,Female,Burtonborough,Refrigerator,09-05-2024,Appliances,2,35.78,09-09-2023,2,Samsung,High,"['Groceries', 'Toys', 'Toys', 'Beauty', 'Health & Wellness']",2
+Tammy Sanchez,dyervernon@example.net,68,Female,Jimmymouth,Puzzle,07-07-2024,Toys,1,75.56,26-10-2023,10,Melissa & Doug,Medium,"['Electronics', 'Electronics', 'Appliances', 'Sports & Outdoors', 'Beauty']",3
+Michael Thompson,jshaw@example.net,52,Male,South Jacobborough,Pain Relief,06-04-2024,Health & Wellness,3,440.43,14-05-2023,4,Aleve,Low,"['Beauty', 'Electronics', 'Electronics']",4
+Rachel Mccoy,jacob19@example.net,67,Male,West Christopher,Bed,04-01-2024,Furniture,2,341,21-03-2023,13,Serta,Medium,['Sports & Outdoors'],5
+Gloria Carlson,billy76@example.org,49,Male,Lake Benjamin,Lego,10-05-2024,Toys,4,51.59,31-03-2024,7,Lego,Medium,"['Clothing', 'Beauty']",1
+Nathaniel Sawyer,hweaver@example.org,32,Female,Aaronberg,Bed,14-04-2024,Furniture,3,357.04,08-06-2023,13,Better Homes & Gardens,High,"['Sports & Outdoors', 'Groceries']",4
+Carl Padilla,smithdonna@example.com,34,Other,Dennisland,Butter,12-03-2024,Groceries,5,211.99,08-07-2023,16,Great Value,High,"['Electronics', 'Sports & Outdoors']",2
+Tina Daugherty,smithcynthia@example.org,44,Male,Loganfort,Bread,11-01-2024,Groceries,1,353.52,30-06-2023,4,Wonder,High,"['Appliances', 'Clothing', 'Sports & Outdoors', 'Toys']",2
+Kevin Fox,matthewflores@example.org,39,Male,Lake Pamelaborough,Refrigerator,31-01-2024,Appliances,3,297.6,08-09-2023,15,GE,Medium,['Furniture'],2
+Thomas Wiley,rdaugherty@example.com,49,Male,Lake Timothyside,Supplements,16-04-2024,Health & Wellness,2,436.96,04-10-2023,16,Garden of Life,High,"['Beauty', 'Toys', 'Home Improvement', 'Clothing', 'Sports & Outdoors']",3
+Justin Mcdaniel,triciasnyder@example.com,62,Male,Anneberg,Car,04-05-2024,Toys,1,322.39,23-10-2023,18,Disney,High,"['Furniture', 'Beauty', 'Clothing', 'Appliances', 'Home Improvement']",3
+George Murphy,jacobharvey@example.org,26,Other,Billyberg,Shoes,09-07-2024,Clothing,4,270.37,16-11-2023,20,Nike,High,"['Furniture', 'Sports & Outdoors', 'Home Improvement']",3
+Shannon Roberts,smithsharon@example.com,58,Male,Campbellville,Bread,10-01-2024,Groceries,1,138.88,24-04-2023,10,Nature's Own,Low,"['Furniture', 'Groceries']",5
+Jennifer Smith,mollyanderson@example.org,57,Other,Shannonland,Pain Relief,21-03-2024,Health & Wellness,4,229.82,27-10-2023,15,Bayer,Medium,['Groceries'],1
+Shelly Castillo,zachary31@example.org,51,Other,Davidview,Makeup,11-03-2024,Beauty,4,471.6,29-04-2023,16,L'Oreal,Medium,"['Appliances', 'Clothing', 'Beauty']",4
+Jerry Lopez,marciawiley@example.com,35,Male,Gregorymouth,Laptop,06-08-2024,Electronics,3,134.86,14-12-2023,12,Apple,Medium,"['Furniture', 'Home Improvement', 'Appliances']",1
+Cynthia Baird,gjones@example.org,49,Other,Jenniferfurt,Table,03-05-2024,Furniture,4,149.68,16-06-2023,2,Sauder,Low,"['Beauty', 'Furniture', 'Groceries', 'Appliances', 'Beauty']",2
+Charles Johnson,kimberly94@example.com,30,Female,Michaelmouth,Bike,20-04-2024,Sports & Outdoors,4,470.01,02-08-2023,9,Mongoose,Medium,"['Clothing', 'Toys']",1
+Karen Smith,danielruiz@example.org,25,Other,Evanstown,Bike,20-02-2024,Sports & Outdoors,4,142.2,24-07-2023,1,Trek,Medium,"['Sports & Outdoors', 'Toys', 'Electronics', 'Furniture']",3
+Brian Clark,joseph73@example.com,49,Other,Dixonberg,Makeup,07-02-2024,Beauty,3,123.27,27-04-2023,15,Revlon,Medium,"['Toys', 'Sports & Outdoors', 'Beauty', 'Furniture', 'Home Improvement']",3
+Amber Jackson,fisherashley@example.com,49,Male,North Marcusstad,Jacket,22-07-2024,Clothing,5,94.77,06-05-2024,3,Patagonia,Medium,"['Electronics', 'Sports & Outdoors', 'Home Improvement']",1
+Logan Pierce,qshepard@example.com,49,Male,Williambury,Lego,13-05-2024,Toys,4,57.11,08-03-2024,10,Lego,High,['Sports & Outdoors'],4
+Jeremy Perry,fellison@example.org,32,Male,Susanchester,Paint,30-05-2024,Home Improvement,4,456.86,20-05-2024,11,Rust-Oleum,Low,"['Appliances', 'Electronics', 'Electronics', 'Sports & Outdoors', 'Electronics']",1
+Megan Shepherd,jennifer45@example.org,56,Male,Tammychester,Hair Care,02-05-2024,Beauty,2,318.39,09-06-2023,6,Pantene,Low,"['Electronics', 'Home Improvement', 'Clothing', 'Toys', 'Sports & Outdoors']",4
+Jennifer Allen,heatherkelley@example.net,25,Male,Jonesmouth,Chair,11-07-2024,Furniture,5,116.58,28-10-2023,3,DHP,Medium,"['Furniture', 'Toys', 'Home Improvement']",3
+Jennifer Guerrero,richardspeggy@example.net,51,Male,Port Ericaberg,Makeup,17-05-2024,Beauty,4,140.54,01-04-2024,10,Revlon,High,"['Electronics', 'Sports & Outdoors', 'Clothing', 'Health & Wellness', 'Health & Wellness']",2
+Joshua Day,clarkebobby@example.org,36,Other,New Juan,Refrigerator,29-01-2024,Appliances,5,466.41,02-03-2023,14,Whirlpool,High,['Furniture'],1
+Heather Duran,reyesmartin@example.com,46,Other,Patrickport,Drill,30-05-2024,Home Improvement,3,301.92,11-01-2024,8,Black+Decker,High,"['Beauty', 'Sports & Outdoors', 'Beauty', 'Home Improvement']",3
+Lisa Hardy,ericksontimothy@example.net,60,Male,Douglasborough,Makeup,18-06-2024,Beauty,1,21.53,03-11-2023,8,CoverGirl,Medium,"['Home Improvement', 'Sports & Outdoors']",1
+Jessica Ryan,daviskenneth@example.com,26,Female,West Joy,Lawn Mower,16-04-2024,Home Improvement,3,418.83,24-11-2023,11,Honda,Medium,"['Sports & Outdoors', 'Groceries', 'Clothing']",5
+Justin Hall,madeline93@example.net,59,Male,Christophermouth,Kayak,28-02-2024,Sports & Outdoors,2,105.83,15-12-2023,6,Old Town,Medium,['Beauty'],3
+Mrs. Stephanie Patterson,mcphersoncody@example.net,34,Female,West Maurice,Hair Care,19-02-2024,Beauty,1,420.63,02-01-2024,5,Tresemme,Medium,['Sports & Outdoors'],5
+Nichole Walker,zlowery@example.org,55,Female,North Brianbury,Supplements,05-06-2024,Health & Wellness,5,290.36,19-06-2023,20,Garden of Life,Medium,['Toys'],1
+Kristin Anderson,greenekevin@example.net,27,Other,Mcmahonburgh,Doll,18-04-2024,Toys,4,249.86,01-01-2024,1,Barbie,High,"['Clothing', 'Toys', 'Groceries']",3
+Travis Gomez,lanedavid@example.org,48,Male,Reedshire,Tent,20-01-2024,Sports & Outdoors,4,137.24,25-01-2023,8,Coleman,Medium,"['Groceries', 'Health & Wellness', 'Home Improvement', 'Toys', 'Appliances']",5
+Jonathan Kelly,sperez@example.net,66,Female,Michelefort,Sofa,01-02-2024,Furniture,2,179.09,17-07-2023,1,Mainstays,Medium,"['Groceries', 'Clothing', 'Furniture', 'Sports & Outdoors', 'Groceries']",2
+Victor Anderson,matthew45@example.net,36,Other,Lake Brooke,Laptop,05-04-2024,Electronics,2,263.95,03-06-2023,10,Lenovo,High,"['Toys', 'Beauty', 'Furniture']",4
+Juan Buck,iwarren@example.com,49,Male,Smithborough,Lego,02-04-2024,Toys,1,8.6,11-01-2024,19,Lego,Medium,"['Furniture', 'Sports & Outdoors', 'Clothing']",4
+Janice Moon,michelle10@example.net,49,Other,West Richardfurt,Tool Set,30-07-2024,Home Improvement,3,260.98,02-03-2024,9,Stanley,High,['Home Improvement'],1
+Caitlin Tucker,mcknightnoah@example.org,66,Other,Lake William,Pain Relief,10-02-2024,Health & Wellness,2,482.42,13-06-2023,7,Bayer,Low,"['Groceries', 'Toys', 'Groceries']",4
+Kelly Keith,vickivargas@example.com,65,Other,North Sydney,Headphones,18-05-2024,Electronics,3,166.1,11-11-2023,8,Beats,High,"['Clothing', 'Electronics', 'Appliances', 'Furniture', 'Beauty']",5
+Jennifer Andrews,cynthia17@example.com,21,Male,West Nicole,Microwave,01-06-2024,Appliances,2,107.31,23-10-2023,2,Samsung,High,"['Furniture', 'Sports & Outdoors', 'Clothing', 'Furniture']",1
+Amy Chapman,hli@example.org,52,Male,East Amanda,First Aid,28-01-2024,Health & Wellness,5,497.84,25-12-2023,9,Curad,Medium,"['Furniture', 'Furniture', 'Toys', 'Health & Wellness', 'Health & Wellness']",4
+Loretta Thompson,jennifer58@example.org,37,Female,Ronaldshire,Bike,12-06-2024,Sports & Outdoors,2,475.48,01-04-2024,9,Mongoose,High,['Groceries'],2
+Joseph Morgan,longcindy@example.net,46,Female,Williamstad,Tool Set,23-07-2024,Home Improvement,1,374.78,08-07-2024,4,Husky,High,"['Electronics', 'Sports & Outdoors', 'Appliances']",5
+Dwayne Lopez,lflynn@example.com,40,Female,Jessicaberg,Dryer,22-07-2024,Appliances,2,75.59,05-03-2024,1,Samsung,Medium,"['Home Improvement', 'Beauty', 'Health & Wellness', 'Electronics', 'Sports & Outdoors']",5
+Michelle Anderson,kimberly06@example.com,46,Female,West Frank,Smartphone,24-03-2024,Electronics,4,199.58,17-01-2024,20,OnePlus,High,"['Furniture', 'Toys', 'Furniture', 'Toys']",3
+Tammy Johnson,jbishop@example.com,67,Male,Timothychester,Headphones,16-03-2024,Electronics,3,279.16,14-06-2023,15,JBL,Low,"['Health & Wellness', 'Furniture', 'Appliances', 'Home Improvement']",2
+Tina Webb,tonyacampbell@example.com,49,Male,Curryberg,Lawn Mower,22-04-2024,Home Improvement,3,483.43,21-10-2023,14,Husqvarna,High,"['Clothing', 'Beauty', 'Clothing']",1
+Anthony Gonzalez,rodriguezstacey@example.net,49,Female,Mitchellton,Dryer,06-07-2024,Appliances,1,271.2,31-12-2023,15,GE,Medium,"['Beauty', 'Beauty', 'Electronics']",3
+Steven Diaz,anthonydyer@example.net,22,Female,West Markborough,Shirt,26-04-2024,Clothing,5,100.42,07-08-2023,1,Levi's,Medium,"['Home Improvement', 'Electronics', 'Groceries', 'Furniture', 'Health & Wellness']",2
+Robert Hansen,brandon65@example.com,49,Female,North Mary,Doll,18-07-2024,Toys,4,245.59,14-03-2024,8,Barbie,High,['Appliances'],4
+Briana Jordan,john78@example.net,62,Female,Russellberg,Lawn Mower,15-06-2024,Home Improvement,4,276.15,24-09-2023,6,John Deere,Medium,"['Toys', 'Toys', 'Home Improvement']",3
+Amy Bell,greenjohn@example.org,55,Male,Huntton,Washer,11-07-2024,Appliances,1,436.49,28-04-2024,20,Samsung,Medium,"['Furniture', 'Toys']",4
+Jacqueline Martin,briannabarnes@example.com,49,Other,North Meghan,Supplements,19-04-2024,Health & Wellness,3,132.93,21-12-2023,10,Garden of Life,Medium,['Furniture'],3
+Madison Sanders,stevejohnson@example.net,22,Female,Saramouth,Lego,29-04-2024,Toys,3,265.02,30-06-2023,3,Lego,High,"['Toys', 'Electronics', 'Groceries', 'Appliances']",4
+Janet Bradley,villarrealkatherine@example.com,48,Male,East Alanhaven,Car,06-08-2024,Toys,1,287.57,03-05-2024,11,Matchbox,High,"['Toys', 'Furniture', 'Groceries', 'Furniture']",5
+Melanie Walton,edward36@example.org,39,Male,North Jeffreytown,Milk,08-04-2024,Groceries,2,180.73,06-09-2023,10,Horizon,Medium,['Toys'],3
+Nichole Mcclure,justinbell@example.com,38,Other,West Craig,TV,28-07-2024,Electronics,1,334.12,10-05-2024,13,LG,High,"['Groceries', 'Groceries', 'Beauty']",4
+Laura Garcia,zsanford@example.com,59,Female,Jenniferville,Bread,14-01-2024,Groceries,4,49.31,01-11-2023,8,Nature's Own,Low,['Toys'],1
+Linda Cooper,lesteramy@example.org,49,Other,Port Joseside,Sofa,06-03-2024,Furniture,4,109.63,09-06-2023,4,Mainstays,High,"['Groceries', 'Sports & Outdoors', 'Clothing']",2
+William Mckenzie,matthewford@example.com,41,Female,Wisemouth,Skincare,04-02-2024,Beauty,5,50.16,05-11-2023,8,CeraVe,Medium,['Toys'],2
+Glenda Martin,aperry@example.org,49,Other,Sanchezstad,Vitamins,19-06-2024,Health & Wellness,1,457.63,23-01-2024,12,Nature Made,Medium,"['Toys', 'Health & Wellness', 'Home Improvement']",3
+Leonard Weiss,crystal52@example.org,37,Other,Harringtonberg,Washer,27-06-2024,Appliances,3,144.64,01-06-2024,14,GE,High,"['Health & Wellness', 'Sports & Outdoors', 'Health & Wellness', 'Groceries', 'Clothing']",4
+Joel Anderson,stanleyjessica@example.net,40,Other,Terrihaven,Jeans,01-02-2024,Clothing,5,362.01,14-06-2023,19,Lee,Low,"['Toys', 'Clothing', 'Groceries', 'Furniture', 'Health & Wellness']",5
+Chelsea Crawford DVM,hannah79@example.net,49,Female,Lake Kristy,Paint,23-05-2024,Home Improvement,1,371.32,24-03-2024,20,Valspar,Low,"['Groceries', 'Electronics']",4
+John Smith,courtneycampbell@example.com,54,Female,Haileyhaven,Paint,25-01-2024,Home Improvement,3,231.71,03-03-2023,12,Sherwin-Williams,Medium,"['Health & Wellness', 'Home Improvement', 'Toys', 'Clothing']",5
+Ann Meyers DDS,greenshelley@example.org,65,Female,South Patrickberg,Bread,05-02-2024,Groceries,5,459.13,24-09-2023,4,Wonder,High,['Electronics'],1
+Erin Estrada,jimmyhill@example.org,28,Male,West Marcusmouth,Bread,12-07-2024,Groceries,3,465.94,19-08-2023,11,Wonder,Low,"['Health & Wellness', 'Groceries', 'Electronics']",2
+Lauren Gross,boyerbrandon@example.org,30,Male,Tamistad,Bread,22-07-2024,Groceries,1,367.63,21-01-2024,9,Sara Lee,Low,"['Groceries', 'Health & Wellness', 'Electronics', 'Health & Wellness', 'Beauty']",5
+Tina Mullins,mrodriguez@example.net,56,Male,New Amystad,Skincare,12-02-2024,Beauty,5,309.26,30-06-2023,11,Olay,Medium,['Health & Wellness'],5
+Tammie Davis,poncejulie@example.org,49,Other,New Jamieport,Drill,22-01-2024,Home Improvement,1,439.3,06-09-2023,15,DeWalt,Medium,"['Health & Wellness', 'Beauty', 'Clothing', 'Home Improvement', 'Health & Wellness']",3
+Terri Davidson,kdavis@example.com,62,Male,East Amy,Bed,16-02-2024,Furniture,5,16.74,02-09-2023,4,DHP,Low,"['Electronics', 'Home Improvement']",1
+Michael Miller,karl29@example.net,24,Female,New Jason,Hair Care,02-04-2024,Beauty,4,429.92,10-08-2023,10,Garnier,High,"['Clothing', 'Home Improvement']",2
+Sherry Lopez,jasonparks@example.com,42,Other,Lake Travisborough,Tool Set,07-05-2024,Home Improvement,3,32.61,09-07-2023,17,Husky,Low,"['Home Improvement', 'Sports & Outdoors', 'Health & Wellness', 'Electronics']",4
+Kathy Scott,michael75@example.net,35,Male,Port Felicia,Smartphone,08-03-2024,Electronics,5,230.99,19-01-2024,12,Samsung,Low,"['Health & Wellness', 'Home Improvement', 'Sports & Outdoors', 'Home Improvement']",5
+Kathryn Moore,andrewmartin@example.org,24,Male,Michaelchester,TV,09-04-2024,Electronics,2,478.27,15-02-2024,16,Vizio,High,['Groceries'],2
+Mark Hernandez,april08@example.com,50,Female,Lake Angela,Smartphone,06-03-2024,Electronics,5,289.8,25-12-2023,2,Apple,Low,"['Beauty', 'Clothing']",4
+Kaitlyn Hill,patrick47@example.net,64,Male,West Brian,Lego,25-07-2024,Toys,3,431.74,13-09-2023,19,Lego,Medium,['Furniture'],4
+Timothy Chambers,nathansmith@example.com,46,Male,Aguirreshire,Supplements,16-05-2024,Health & Wellness,2,444,31-10-2023,6,Optimum Nutrition,Low,"['Electronics', 'Groceries', 'Clothing', 'Sports & Outdoors', 'Beauty']",3
+Keith Garcia,ccole@example.net,58,Other,Port Nicholasfurt,Paint,08-03-2024,Home Improvement,5,45.42,31-01-2024,11,Rust-Oleum,High,"['Sports & Outdoors', 'Clothing', 'Health & Wellness', 'Electronics', 'Toys']",5
+Andrew Lang,aedwards@example.net,46,Female,Jacobborough,Washer,26-04-2024,Appliances,2,342,15-01-2024,1,LG,High,"['Sports & Outdoors', 'Electronics', 'Home Improvement']",1
+Brian Garcia,ryanwall@example.org,49,Female,East Jameshaven,Dryer,04-07-2024,Appliances,4,81.68,20-09-2023,1,Whirlpool,High,"['Toys', 'Furniture', 'Beauty']",1
+Amy Blackwell,tina31@example.net,22,Female,Kentport,Smartphone,16-07-2024,Electronics,3,391.94,25-06-2024,1,OnePlus,High,['Groceries'],4
+Lisa Mercado,elizabethmiddleton@example.com,23,Other,Lake Lindsey,Bread,02-03-2024,Groceries,4,111.71,17-07-2023,18,Wonder,High,"['Groceries', 'Health & Wellness', 'Beauty', 'Groceries', 'Groceries']",4
+Frederick Galloway,samuelwhite@example.net,63,Female,North Martha,Headphones,11-04-2024,Electronics,3,253.61,18-04-2023,10,JBL,Medium,"['Home Improvement', 'Toys', 'Sports & Outdoors']",4
+William Griffin,gibsonchristian@example.net,33,Female,Scottfort,Sofa,25-06-2024,Furniture,4,489.21,14-01-2024,17,Mainstays,High,"['Sports & Outdoors', 'Electronics', 'Toys', 'Toys']",2
+Jason Gamble,osanchez@example.com,34,Male,West Kristyton,Jacket,30-06-2024,Clothing,3,177.5,07-06-2024,7,North Face,High,['Furniture'],3
+Mark Briggs,racheljackson@example.net,47,Male,Port Rachel,Doll,31-03-2024,Toys,5,466.41,22-12-2023,2,Disney,High,"['Beauty', 'Clothing']",5
+Kayla Schmidt,edwardswilliam@example.org,56,Male,Michaelchester,Refrigerator,04-07-2024,Appliances,2,491.07,30-05-2024,7,GE,High,"['Clothing', 'Electronics', 'Beauty']",4
+Mark Alvarez,mhoward@example.com,43,Other,Benjaminhaven,First Aid,24-05-2024,Health & Wellness,5,18.42,15-12-2023,11,Neosporin,High,['Sports & Outdoors'],5
+Kevin Hill,jonesjason@example.com,26,Other,West Evan,Headphones,04-03-2024,Electronics,1,125.35,12-05-2023,2,Beats,Low,"['Electronics', 'Appliances', 'Groceries']",4
+Samuel Chung,tyler06@example.org,22,Other,Edwardshire,Dryer,16-07-2024,Appliances,3,43.66,11-06-2024,11,GE,High,"['Clothing', 'Electronics', 'Appliances', 'Electronics']",5
+Alec Martin,danielbarr@example.org,58,Female,East Kristopherberg,First Aid,20-01-2024,Health & Wellness,3,267.32,25-06-2023,13,Neosporin,High,"['Clothing', 'Health & Wellness', 'Beauty']",1
+John Collins,terri70@example.net,26,Female,Port Davidhaven,Shirt,24-04-2024,Clothing,2,161.73,22-10-2023,7,Fruit of the Loom,Medium,"['Clothing', 'Health & Wellness', 'Electronics']",3
+Christopher Watts,laura25@example.net,54,Male,Hillville,Fragrances,22-03-2024,Beauty,4,282.53,28-10-2023,14,Calvin Klein,Medium,"['Health & Wellness', 'Toys', 'Electronics', 'Toys']",5
+Madeline Curtis,thompsonjason@example.com,30,Male,Lake Chelseastad,Eggs,23-07-2024,Groceries,1,31.1,19-09-2023,17,Vital Farms,High,"['Groceries', 'Health & Wellness', 'Clothing']",3
+Donna Collins,briannabrown@example.org,18,Male,East Erika,Vitamins,04-01-2024,Health & Wellness,1,412.4,23-08-2023,2,Nature Made,High,"['Sports & Outdoors', 'Sports & Outdoors', 'Furniture']",4
+Susan Mitchell,adriancoleman@example.org,67,Male,West Clinton,Car,15-06-2024,Toys,4,71.58,03-02-2024,7,Matchbox,Medium,"['Home Improvement', 'Furniture', 'Health & Wellness']",2
+Danielle Anderson,craig60@example.net,60,Other,Meyermouth,Headphones,16-04-2024,Electronics,1,97.41,12-09-2023,17,JBL,High,['Electronics'],2
+Scott Pennington,elijah50@example.com,28,Male,South Amandastad,Sofa,01-06-2024,Furniture,5,171.55,11-04-2024,14,DHP,High,['Home Improvement'],4
+Steven Zhang,efrench@example.com,18,Male,Georgeland,Eggs,22-03-2024,Groceries,2,199.22,11-04-2023,11,Great Value,Low,['Clothing'],2
+Robert Arellano,fthornton@example.org,69,Female,New Hollychester,Supplements,01-02-2024,Health & Wellness,4,470.17,20-08-2023,19,Optimum Nutrition,Low,['Furniture'],5
+Deanna West,brian46@example.net,50,Other,Brownberg,Chair,15-06-2024,Furniture,1,285.67,06-02-2024,3,Serta,Medium,"['Furniture', 'Groceries', 'Beauty', 'Appliances', 'Home Improvement']",2
+James Love,garciarodney@example.org,49,Male,Robertfurt,Lawn Mower,06-08-2024,Home Improvement,5,311.22,15-07-2024,13,John Deere,High,"['Furniture', 'Furniture', 'Furniture', 'Electronics']",3
+John Ware,hullmelvin@example.com,47,Female,Stephanieberg,First Aid,06-01-2024,Health & Wellness,1,398.14,24-10-2023,1,Neosporin,Medium,"['Furniture', 'Toys', 'Electronics', 'Beauty', 'Toys']",1
+Theresa Mcgee,christopher15@example.com,27,Other,Port Brandi,Fishing Rod,11-06-2024,Sports & Outdoors,1,48.23,12-11-2023,17,Penn,Medium,"['Furniture', 'Electronics', 'Sports & Outdoors', 'Furniture']",3
+Marcus Hughes,jonesnicole@example.org,55,Female,Lindseystad,Lawn Mower,17-07-2024,Home Improvement,2,477.45,07-01-2024,11,Husqvarna,Medium,"['Beauty', 'Furniture']",4
+Rebecca Morrison,marycampos@example.org,27,Female,Erikside,Laptop,02-05-2024,Electronics,1,271.55,07-09-2023,14,Dell,Low,"['Sports & Outdoors', 'Electronics', 'Clothing', 'Sports & Outdoors', 'Health & Wellness']",2
+Jacqueline Gross,gregory49@example.net,53,Female,Jonesberg,Tool Set,13-05-2024,Home Improvement,2,14.77,30-08-2023,16,Stanley,High,"['Health & Wellness', 'Furniture', 'Home Improvement', 'Beauty']",2
+Manuel Campbell,frios@example.net,70,Female,West Alanborough,Lawn Mower,29-06-2024,Home Improvement,3,15.27,01-04-2024,20,Toro,High,"['Groceries', 'Electronics']",2
+Tanner Gutierrez,chernandez@example.org,40,Male,Simmonsville,Skincare,13-04-2024,Beauty,1,439.04,25-02-2024,17,Olay,Medium,"['Home Improvement', 'Health & Wellness', 'Sports & Outdoors']",5
+Melissa Pugh,lewismaria@example.net,43,Other,New Alexandertown,Microwave,21-02-2024,Appliances,3,389.75,06-08-2023,15,Panasonic,Medium,"['Beauty', 'Furniture']",3
+Miss April Davis,andrea95@example.net,24,Other,Michaelville,Kayak,09-02-2024,Sports & Outdoors,1,139.69,06-05-2023,3,Lifetime,Medium,"['Sports & Outdoors', 'Clothing', 'Appliances', 'Furniture', 'Toys']",4
+Victoria Jackson,adriana78@example.org,68,Male,Lake Stephaniefort,Fishing Rod,16-02-2024,Sports & Outdoors,4,385.5,08-05-2023,7,Penn,High,"['Clothing', 'Sports & Outdoors', 'Furniture', 'Toys']",3
+Lisa Lopez,laurie12@example.com,26,Other,Shannonchester,First Aid,08-01-2024,Health & Wellness,2,64.88,17-06-2023,2,Band-Aid,Medium,"['Clothing', 'Electronics', 'Health & Wellness', 'Furniture', 'Beauty']",1
+Juan Allen,brian07@example.com,65,Male,New Jasmine,Supplements,22-05-2024,Health & Wellness,3,374.89,30-08-2023,19,Nature Made,High,"['Toys', 'Furniture', 'Health & Wellness', 'Appliances']",3
+Mary Logan,amanda89@example.net,38,Male,North Kaylamouth,First Aid,30-01-2024,Health & Wellness,4,90.23,14-04-2023,13,Curad,High,['Home Improvement'],2
+Meagan Bryant,nicolesteele@example.com,46,Other,Holmesland,Table,01-06-2024,Furniture,3,273.34,08-12-2023,17,Sauder,Low,['Beauty'],1
+Derrick Carlson,roger65@example.com,24,Male,South Colleenmouth,Milk,20-01-2024,Groceries,4,217.49,07-10-2023,5,Fairlife,Medium,"['Groceries', 'Appliances']",2
+Austin Young,marvinwheeler@example.net,64,Male,Edwardston,Paint,01-02-2024,Home Improvement,5,90.22,17-03-2023,13,Behr,High,"['Home Improvement', 'Health & Wellness', 'Groceries']",4
+Tammy Young,lutzholly@example.org,28,Male,West Dominique,Milk,01-07-2024,Groceries,4,100.83,27-01-2024,20,Fairlife,Medium,"['Sports & Outdoors', 'Appliances', 'Home Improvement', 'Appliances']",5
+Joshua Andrews,janethenry@example.org,36,Female,Crystalbury,Fishing Rod,14-02-2024,Sports & Outdoors,4,414.77,16-03-2023,8,Abu Garcia,High,['Groceries'],4
+Robert Rivas,christine64@example.net,31,Female,Lake Charlene,Tool Set,07-05-2024,Home Improvement,4,107.82,22-03-2024,8,Kobalt,High,['Beauty'],5
+Misty Roberson,michelejordan@example.com,35,Other,Frankfort,Laptop,01-03-2024,Electronics,5,349.61,26-06-2023,15,Apple,Medium,"['Appliances', 'Furniture', 'Groceries']",4
+Michael Wells,clinejames@example.org,39,Male,Garrettville,Vitamins,26-05-2024,Health & Wellness,4,64.38,02-11-2023,3,Centrum,High,"['Home Improvement', 'Toys', 'Electronics', 'Groceries', 'Clothing']",2
+John Torres,tiffanymonroe@example.net,23,Other,North Ryanland,Table,02-05-2024,Furniture,4,445.6,10-02-2024,2,Better Homes & Gardens,Medium,"['Toys', 'Beauty', 'Groceries', 'Health & Wellness']",4
+Jason Edwards,xwright@example.org,68,Male,South Davidbury,Pain Relief,26-07-2024,Health & Wellness,3,295.88,05-08-2023,14,Tylenol,High,"['Clothing', 'Home Improvement', 'Home Improvement', 'Groceries', 'Health & Wellness']",4
+Elizabeth Beck,romeroanthony@example.net,62,Other,Lake Sarahport,Shirt,19-04-2024,Clothing,5,258.53,23-01-2024,13,Wrangler,High,['Toys'],2
+Carol Barrett,perry25@example.com,56,Other,Mackberg,Refrigerator,19-04-2024,Appliances,1,374.45,21-09-2023,20,Whirlpool,Low,['Health & Wellness'],4
+Roberto Simpson,wmarshall@example.com,29,Other,Smithbury,Car,09-05-2024,Toys,1,434.53,11-12-2023,15,Disney,High,"['Electronics', 'Electronics', 'Appliances', 'Health & Wellness', 'Appliances']",2
+Frank Mcknight,jackiesanchez@example.org,31,Female,South Tammybury,Shirt,03-04-2024,Clothing,5,302.24,01-12-2023,16,Levi's,High,"['Beauty', 'Beauty', 'Sports & Outdoors', 'Clothing', 'Appliances']",3
+Brianna Cortez,sanderscolleen@example.com,51,Female,Karlmouth,Hair Care,07-02-2024,Beauty,1,40.14,08-05-2023,4,Pantene,High,"['Home Improvement', 'Appliances', 'Clothing', 'Home Improvement', 'Clothing']",3
+Debra Martinez,john40@example.net,50,Male,West Johnchester,Dryer,26-05-2024,Appliances,3,282.06,03-11-2023,10,Whirlpool,High,['Appliances'],2
+Megan Price,wayne41@example.net,25,Other,Lake Michael,Jeans,25-07-2024,Clothing,5,457.08,18-11-2023,11,Levi's,High,"['Groceries', 'Groceries', 'Appliances', 'Toys']",5
+Christine Smith,yangjoshua@example.org,36,Female,Jillbury,Milk,20-04-2024,Groceries,1,310.18,20-10-2023,18,Fairlife,High,"['Appliances', 'Sports & Outdoors']",2
+Justin Webb,zjackson@example.net,36,Other,Michaelberg,Tent,28-01-2024,Sports & Outdoors,4,408.56,08-05-2023,2,ALPS Mountaineering,High,['Toys'],2
+Anthony Gibson,henry74@example.net,57,Other,East Matthewland,Jeans,04-04-2024,Clothing,2,133.28,18-03-2024,18,Levi's,High,['Home Improvement'],3
+April Ross,alexandra62@example.net,34,Other,Cunninghamshire,Smartphone,14-02-2024,Electronics,1,123.36,07-02-2024,9,Samsung,Medium,['Sports & Outdoors'],1
+Alyssa Garrison,andrew68@example.net,23,Other,Jonesside,Vitamins,23-04-2024,Health & Wellness,4,251.45,22-04-2024,2,Nature Made,High,"['Clothing', 'Sports & Outdoors', 'Clothing', 'Sports & Outdoors']",4
+Michael Wilkerson,reyescarl@example.net,52,Female,East Kristiport,Jeans,06-03-2024,Clothing,5,478.28,08-09-2023,12,Lee,High,"['Electronics', 'Furniture', 'Toys', 'Toys']",2
+Charles Reed,jennifer28@example.net,49,Male,Carpentershire,Bed,15-04-2024,Furniture,2,253.56,12-01-2024,13,Serta,Low,"['Beauty', 'Beauty']",5
+Shannon Jackson,linda63@example.org,49,Other,Lake Emily,Dryer,04-03-2024,Appliances,4,297.92,30-08-2023,10,GE,Medium,['Sports & Outdoors'],3
+Tyler Wilson,smithkyle@example.net,25,Other,Nancybury,Eggs,17-06-2024,Groceries,2,24.75,29-12-2023,14,Vital Farms,High,"['Groceries', 'Sports & Outdoors', 'Appliances', 'Toys', 'Toys']",5
+John Reese,cassandra24@example.com,56,Other,South Sarah,Skincare,22-03-2024,Beauty,4,347.68,29-02-2024,17,Neutrogena,High,['Toys'],3
+Kaitlyn Walker,areyes@example.org,21,Male,Tinaton,Smartphone,23-02-2024,Electronics,2,368.16,13-02-2024,20,Samsung,High,"['Clothing', 'Toys', 'Furniture', 'Furniture', 'Sports & Outdoors']",2
+Amanda Dunn,amandabyrd@example.com,34,Male,Stanleystad,Butter,05-02-2024,Groceries,4,77.13,15-05-2023,8,Kerrygold,Low,"['Toys', 'Furniture', 'Groceries', 'Home Improvement', 'Furniture']",2
+Kelli Conrad,george10@example.net,27,Male,West Tiffanyborough,Drill,26-07-2024,Home Improvement,4,320.12,17-05-2024,10,Makita,Low,['Home Improvement'],4
+Brandon Hayes,craigrocha@example.net,56,Female,New Karen,Refrigerator,10-07-2024,Appliances,4,485.21,14-08-2023,6,GE,High,"['Health & Wellness', 'Sports & Outdoors', 'Electronics', 'Groceries']",4
+Andrew Jefferson,andrew34@example.org,42,Other,Port Thomas,Headphones,04-07-2024,Electronics,4,465.11,16-09-2023,14,Sony,Medium,"['Toys', 'Furniture', 'Groceries', 'Home Improvement']",2
+Phillip White,daniellesanders@example.com,40,Other,North Michele,Supplements,08-02-2024,Health & Wellness,3,190.23,20-06-2023,14,Optimum Nutrition,Medium,"['Appliances', 'Groceries', 'Clothing', 'Electronics']",3
+Michael Weber,dmiller@example.net,34,Other,North Molly,Chair,13-03-2024,Furniture,3,374.51,21-02-2024,1,DHP,Medium,"['Health & Wellness', 'Electronics', 'Home Improvement', 'Furniture']",2
+Rachel Alvarez,suzanne23@example.net,50,Other,Aaronborough,Skincare,21-07-2024,Beauty,2,286.98,09-07-2024,5,Olay,Medium,"['Home Improvement', 'Beauty', 'Furniture']",2
+Katherine Robles,michaelstout@example.net,45,Other,South Donald,Bike,08-03-2024,Sports & Outdoors,4,418.25,14-10-2023,14,Trek,Medium,"['Home Improvement', 'Appliances', 'Sports & Outdoors']",4
+Joy Hughes,ogreen@example.com,32,Female,North Timothy,Vitamins,12-04-2024,Health & Wellness,3,266.46,12-06-2023,20,Nature Made,High,"['Beauty', 'Furniture', 'Furniture', 'Beauty', 'Appliances']",2
+Kaylee Anderson,wagnerlinda@example.org,31,Female,Stevemouth,Table,26-04-2024,Furniture,4,399.6,01-05-2023,3,Mainstays,Low,['Toys'],1
+Miguel Johnson,mendezsara@example.com,45,Male,North Tami,Table,30-01-2024,Furniture,4,313.97,11-10-2023,1,Better Homes & Gardens,Medium,"['Toys', 'Beauty', 'Sports & Outdoors']",3
+Lindsay Fernandez,johnchandler@example.com,26,Male,Smithberg,Puzzle,07-06-2024,Toys,4,486.28,31-12-2023,4,Ravensburger,High,"['Beauty', 'Electronics']",3
+Jessica Adams,rford@example.net,28,Other,Port Brendabury,Lawn Mower,11-02-2024,Home Improvement,3,187.29,05-05-2023,2,John Deere,High,"['Appliances', 'Furniture', 'Sports & Outdoors']",4
+Ms. Megan Combs DVM,kelly43@example.org,60,Other,Amyfort,Vitamins,11-06-2024,Health & Wellness,3,52.31,25-09-2023,11,Vitafusion,High,"['Groceries', 'Electronics', 'Health & Wellness', 'Furniture']",3
+John Winters,ewhite@example.org,28,Other,Fletcherchester,Drill,26-04-2024,Home Improvement,2,373.63,24-06-2023,16,Makita,High,"['Beauty', 'Beauty', 'Sports & Outdoors', 'Furniture']",1
+Joseph Johnston,garrettheather@example.org,31,Female,New Brianmouth,Pain Relief,28-02-2024,Health & Wellness,3,63.02,13-12-2023,13,Tylenol,Medium,"['Furniture', 'Toys', 'Sports & Outdoors', 'Toys']",5
+Paul Elliott,ortizlisa@example.net,67,Female,North Staceyburgh,Jeans,31-01-2024,Clothing,5,100.29,11-10-2023,14,Levi's,High,"['Home Improvement', 'Sports & Outdoors']",1
+Terri Hebert,vwang@example.org,53,Female,North Olivia,Refrigerator,15-02-2024,Appliances,4,30.62,22-05-2023,16,GE,High,"['Toys', 'Clothing', 'Beauty', 'Health & Wellness']",3
+Andrea Owen,berrytina@example.net,67,Other,Carlachester,Kayak,29-06-2024,Sports & Outdoors,1,123.81,28-10-2023,19,Old Town,High,['Electronics'],1
+Bobby James,nguyenmichael@example.com,50,Male,Aaronfurt,Refrigerator,26-01-2024,Appliances,3,35,19-04-2023,11,Samsung,High,['Electronics'],3
+Patrick Novak,fosterwilliam@example.com,36,Female,Mendozaport,Milk,20-06-2024,Groceries,5,52.65,24-04-2024,6,Horizon,Medium,['Health & Wellness'],3
+Brandon Mccormick,josephsmith@example.net,24,Other,Jennifermouth,Skincare,20-07-2024,Beauty,3,406.63,16-07-2024,18,Aveeno,Medium,"['Beauty', 'Home Improvement', 'Appliances', 'Health & Wellness']",2
+Corey Baxter,buckdale@example.com,49,Female,East Tylerchester,Bed,06-03-2024,Furniture,5,128.14,26-10-2023,10,DHP,High,"['Sports & Outdoors', 'Appliances', 'Toys']",4
+Devin Winters,gdavis@example.net,30,Female,Bradleyton,Shirt,07-02-2024,Clothing,5,147.01,18-12-2023,1,Fruit of the Loom,Low,"['Electronics', 'Electronics', 'Health & Wellness', 'Electronics']",4
+Desiree Rogers,dorothylam@example.net,49,Female,South Rogerview,Milk,14-05-2024,Groceries,1,366.04,03-02-2024,14,Great Value,High,"['Furniture', 'Toys', 'Electronics']",3
+Patricia Silva,adriennehale@example.org,50,Female,Sheilachester,Bed,07-05-2024,Furniture,5,136.87,09-06-2023,1,Better Homes & Gardens,Medium,"['Beauty', 'Sports & Outdoors', 'Appliances', 'Clothing']",2
+Adam Becker,michelewillis@example.net,43,Male,Stevenville,Paint,27-04-2024,Home Improvement,4,67.92,16-01-2024,15,Rust-Oleum,Low,"['Appliances', 'Sports & Outdoors', 'Home Improvement']",5
+Zachary Cameron,lambertmaxwell@example.net,38,Other,North Sarahport,Washer,16-05-2024,Appliances,4,277.96,26-09-2023,13,Samsung,Medium,"['Clothing', 'Appliances', 'Electronics']",1
+Mr. Barry Alvarez,kellyrussell@example.org,40,Other,South Mary,Doll,02-03-2024,Toys,2,269.62,18-06-2023,18,American Girl,Medium,"['Sports & Outdoors', 'Home Improvement']",3
+Dr. Samuel Washington,joshuamorrison@example.net,36,Other,North Monicafurt,Jacket,05-04-2024,Clothing,1,450.63,09-12-2023,6,Patagonia,High,"['Clothing', 'Furniture', 'Clothing', 'Electronics']",3
+Kevin Combs,danielhall@example.com,29,Other,North Matthew,Tool Set,07-03-2024,Home Improvement,3,203.38,05-08-2023,15,Husky,High,"['Toys', 'Home Improvement']",3
+Nancy Copeland,phamoscar@example.com,49,Female,Lake Brycestad,Dryer,07-02-2024,Appliances,5,122.8,14-11-2023,20,Samsung,Low,"['Beauty', 'Electronics', 'Clothing', 'Groceries']",5
+Sarah Simmons,johnsonshari@example.org,40,Female,Walshton,Shoes,04-01-2024,Clothing,3,65.02,27-02-2023,16,Adidas,High,"['Appliances', 'Electronics', 'Electronics', 'Sports & Outdoors', 'Groceries']",3
+Christian Lee,cheyennegriffin@example.net,41,Male,West Alexander,Skincare,23-06-2024,Beauty,4,195.25,15-04-2024,20,Olay,Low,"['Health & Wellness', 'Groceries']",3
+Christina King,ofernandez@example.com,43,Male,Port Patrickshire,Drill,26-01-2024,Home Improvement,1,412.12,12-07-2023,5,Bosch,High,"['Toys', 'Appliances', 'Clothing']",5
+Daniel Brown,dixonandrea@example.org,58,Other,New Abigail,Skincare,17-01-2024,Beauty,2,306.89,29-01-2023,7,CeraVe,High,"['Furniture', 'Sports & Outdoors']",2
+Kylie Alvarez,zhill@example.com,35,Female,Lake Christophertown,Dryer,28-07-2024,Appliances,3,471.12,17-11-2023,12,Whirlpool,High,"['Home Improvement', 'Clothing', 'Furniture']",2
+Michelle Bruce,eugeneruiz@example.org,44,Male,South Amandaborough,First Aid,19-01-2024,Health & Wellness,3,231.98,27-02-2023,13,Curad,High,"['Clothing', 'Electronics']",3
+Kathy Baird,coxlindsey@example.net,24,Female,Phillipsshire,Fragrances,21-04-2024,Beauty,3,496.11,24-01-2024,10,Versace,Medium,"['Appliances', 'Beauty', 'Electronics']",3
+Christopher Smith,jamesjohnson@example.net,48,Male,Tiffanyton,Table,05-01-2024,Furniture,2,464.17,11-02-2023,1,Better Homes & Gardens,Medium,"['Health & Wellness', 'Appliances']",2
+Jared Edwards,zbryant@example.com,38,Other,New Charlesburgh,Dryer,17-05-2024,Appliances,1,289.36,16-03-2024,5,GE,High,"['Appliances', 'Sports & Outdoors', 'Clothing', 'Electronics']",1
+Michael Powers,davisnicholas@example.net,36,Female,New Katherineborough,Car,21-07-2024,Toys,4,468.72,23-06-2024,5,Matchbox,High,"['Electronics', 'Clothing', 'Groceries', 'Groceries']",4
+Patricia Warren,harrelljennifer@example.org,49,Other,New Todd,Sofa,10-02-2024,Furniture,4,145.7,04-03-2023,20,Mainstays,Medium,"['Electronics', 'Appliances']",4
+Russell Castillo,adkinsvanessa@example.net,48,Other,Port Kimberly,Washer,12-01-2024,Appliances,3,165.38,22-08-2023,4,GE,Medium,"['Clothing', 'Groceries', 'Sports & Outdoors']",1
+John Dickson,charles28@example.com,35,Male,East Alicia,TV,04-01-2024,Electronics,3,198.46,23-02-2023,11,Sony,Low,"['Clothing', 'Home Improvement', 'Electronics', 'Groceries', 'Furniture']",3
+Anthony Hernandez,jamesharris@example.org,52,Female,Johnchester,Doll,09-03-2024,Toys,5,447.76,31-07-2023,3,Disney,High,['Sports & Outdoors'],3
+Cody Clark,ronaldwalker@example.com,48,Other,Gatesport,Shoes,29-04-2024,Clothing,3,264.91,12-04-2024,16,Nike,Low,"['Electronics', 'Clothing']",5
+Natalie Romero,adavenport@example.net,60,Female,Deborahbury,Lego,09-03-2024,Toys,4,389.82,24-10-2023,6,Lego,High,"['Toys', 'Electronics', 'Health & Wellness', 'Electronics', 'Sports & Outdoors']",2
+Lori Johnson,alexanderanthony@example.org,57,Male,Sullivanton,First Aid,07-04-2024,Health & Wellness,4,188.77,11-11-2023,9,Band-Aid,High,"['Beauty', 'Electronics', 'Home Improvement', 'Health & Wellness', 'Furniture']",1
+Manuel Brown,jeffersonnicole@example.net,63,Other,East Raymondville,Microwave,24-06-2024,Appliances,3,257.38,20-09-2023,4,Panasonic,High,"['Appliances', 'Appliances', 'Furniture']",2
+Michelle Young,whitekeith@example.com,27,Female,Susanmouth,Sofa,05-06-2024,Furniture,4,485.02,06-12-2023,14,DHP,Medium,"['Home Improvement', 'Electronics', 'Toys', 'Clothing']",1
+Amanda Romero,spacheco@example.net,45,Male,Port Annborough,Butter,15-05-2024,Groceries,5,216.83,12-03-2024,4,Great Value,Low,"['Groceries', 'Health & Wellness', 'Sports & Outdoors', 'Appliances']",2
+Elizabeth Durham,earl45@example.org,55,Female,North Jenniferside,Shoes,10-02-2024,Clothing,1,68.08,04-12-2023,17,Nike,High,"['Furniture', 'Sports & Outdoors']",5
+Miss Nancy Foster,henryerin@example.net,45,Male,East Eric,Tent,22-03-2024,Sports & Outdoors,4,437.18,17-11-2023,3,Wenzel,High,['Beauty'],4
+Brittany Watts,frankjohn@example.org,22,Female,North David,First Aid,27-01-2024,Health & Wellness,3,86.03,02-08-2023,14,Band-Aid,High,"['Electronics', 'Home Improvement', 'Electronics', 'Health & Wellness']",1
+Christian Michael,nicole25@example.org,60,Other,North Julia,Table,28-03-2024,Furniture,4,255.05,19-03-2024,2,Sauder,Low,"['Furniture', 'Toys', 'Beauty', 'Furniture', 'Toys']",4
+John Ramsey,tonya32@example.net,29,Male,East Laurenside,Kayak,03-08-2024,Sports & Outdoors,5,255.31,06-01-2024,17,Pelican,Medium,"['Electronics', 'Electronics', 'Electronics', 'Health & Wellness']",5
+Mary Sellers,lbrown@example.net,43,Male,Tanyaville,Shoes,02-08-2024,Clothing,3,385.4,04-01-2024,17,Puma,Medium,"['Beauty', 'Toys', 'Home Improvement']",4
+Daniel Mcgrath,bowenleonard@example.net,57,Male,Nicoleview,Table,25-02-2024,Furniture,4,479.17,25-07-2023,11,Sauder,Low,['Appliances'],2
+Jesse Huber,wwilliams@example.com,56,Male,Williammouth,Laptop,04-08-2024,Electronics,3,188.77,30-12-2023,11,Dell,Medium,"['Furniture', 'Appliances', 'Electronics']",3
+Elizabeth Moody,nthompson@example.com,49,Male,Crystalmouth,First Aid,06-02-2024,Health & Wellness,1,451.52,02-10-2023,18,Band-Aid,High,['Clothing'],5
+Jason Mclaughlin,clarkeaustin@example.org,29,Other,South Heidimouth,Bread,06-05-2024,Groceries,2,31.71,02-11-2023,11,Sara Lee,High,"['Toys', 'Toys', 'Furniture', 'Sports & Outdoors', 'Sports & Outdoors']",2
+Carl Moss,jonathanstephens@example.com,41,Male,East Chadland,Car,09-05-2024,Toys,1,276.78,25-08-2023,14,Hot Wheels,Low,"['Furniture', 'Beauty', 'Furniture']",1
+Frank Pineda,ryan27@example.net,52,Other,New Angela,Paint,30-05-2024,Home Improvement,1,111,12-11-2023,10,Behr,High,"['Electronics', 'Health & Wellness', 'Electronics']",5
+Alyssa Gallegos,henry94@example.com,60,Male,New Stephen,Shoes,20-01-2024,Clothing,4,376.06,08-11-2023,13,Puma,High,"['Appliances', 'Furniture']",2
+David Mcpherson,ann82@example.net,48,Other,Lake Jonathan,Tool Set,11-03-2024,Home Improvement,2,397.26,04-08-2023,17,Husky,High,"['Toys', 'Furniture', 'Furniture', 'Electronics']",2
+Cindy Blake,rkennedy@example.org,37,Female,Jacksonland,Paint,05-02-2024,Home Improvement,4,353.33,15-04-2023,18,Valspar,High,"['Health & Wellness', 'Groceries']",5
+Dana Stone,rparker@example.net,62,Female,Lake Tristanton,Jeans,17-04-2024,Clothing,4,459.92,11-02-2024,11,Lee,Low,"['Health & Wellness', 'Furniture']",2
+Randy Wood,nicolehunter@example.org,62,Male,West Michaelbury,Kayak,14-05-2024,Sports & Outdoors,1,456.41,26-06-2023,16,Pelican,Medium,"['Appliances', 'Home Improvement']",3
+Ashley Burgess,donaldsonrebecca@example.net,33,Other,Michaelhaven,Doll,05-01-2024,Toys,2,365.53,16-04-2023,12,American Girl,Low,"['Furniture', 'Sports & Outdoors', 'Sports & Outdoors']",2
+Jennifer Kelly,robinlee@example.org,68,Female,Christophermouth,Milk,28-04-2024,Groceries,5,136.43,29-12-2023,16,Fairlife,Medium,"['Clothing', 'Sports & Outdoors']",1
+Joseph Dominguez,davidpatel@example.com,51,Female,Christopherfurt,Puzzle,01-03-2024,Toys,5,473.01,25-01-2024,6,Buffalo Games,Medium,"['Electronics', 'Home Improvement', 'Clothing']",3
+Stephen Adams,christinahouston@example.com,32,Other,West Jimmy,Shoes,27-04-2024,Clothing,5,257.12,28-07-2023,12,Puma,High,"['Electronics', 'Groceries', 'Appliances', 'Toys']",5
+David Hill,anthonyramirez@example.com,69,Other,West Andreastad,Jacket,06-05-2024,Clothing,5,368.02,20-12-2023,18,Patagonia,High,"['Health & Wellness', 'Appliances', 'Toys', 'Home Improvement']",3
+Paul Robinson,reyeskaren@example.net,49,Male,South Sarahville,Bread,04-06-2024,Groceries,3,53.17,18-05-2024,1,Wonder,High,['Electronics'],2
+Sharon Bell,christineyu@example.com,64,Female,Brooksport,Hair Care,01-06-2024,Beauty,1,121.2,01-11-2023,5,Tresemme,High,"['Beauty', 'Appliances']",1
+Jessica Moore DDS,mnicholson@example.net,46,Other,Lake Garychester,Car,04-04-2024,Toys,3,491.65,08-02-2024,20,Disney,High,['Groceries'],3
+Joseph Park,dgreen@example.org,68,Female,Lake Heather,Drill,05-02-2024,Home Improvement,1,44.54,23-11-2023,10,DeWalt,High,"['Sports & Outdoors', 'Sports & Outdoors', 'Furniture']",2
+Mrs. Betty Ortiz DDS,rickytorres@example.com,56,Female,South Ryanmouth,Fishing Rod,05-02-2024,Sports & Outdoors,3,143.55,24-10-2023,8,Penn,High,"['Appliances', 'Toys', 'Appliances', 'Appliances', 'Appliances']",2
+Erin Le,sean31@example.net,44,Male,Lake Sabrinamouth,Drill,06-08-2024,Home Improvement,1,383.87,22-10-2023,18,DeWalt,Medium,"['Furniture', 'Toys', 'Beauty', 'Appliances', 'Appliances']",3
+Cristina Yates,joegarcia@example.com,29,Other,Lake Matthew,Jacket,04-02-2024,Clothing,3,354.81,23-12-2023,3,North Face,Medium,"['Groceries', 'Clothing', 'Appliances', 'Sports & Outdoors', 'Appliances']",2
+Todd Freeman,josephdavis@example.org,44,Female,Susanville,Paint,21-04-2024,Home Improvement,3,192.02,27-04-2023,18,Rust-Oleum,Medium,"['Sports & Outdoors', 'Groceries', 'Appliances', 'Beauty']",3
+Jean Edwards,kennetharmstrong@example.net,58,Female,Frederickton,Makeup,25-02-2024,Beauty,1,363.17,30-09-2023,14,Maybelline,High,"['Home Improvement', 'Home Improvement', 'Health & Wellness']",1
+Brittany Ho,shannon65@example.com,60,Male,Flowersville,Pain Relief,05-07-2024,Health & Wellness,4,304.51,18-12-2023,11,Bayer,Medium,"['Furniture', 'Appliances', 'Electronics', 'Furniture']",4
+Jose White,tjohnson@example.net,44,Other,Port Sheilaton,Puzzle,20-02-2024,Toys,3,274.57,03-05-2023,18,Ravensburger,Medium,"['Toys', 'Beauty', 'Electronics']",1
+Tanya Charles,amy92@example.org,33,Male,Lucasport,Microwave,10-06-2024,Appliances,4,454.02,04-08-2023,18,LG,High,"['Furniture', 'Sports & Outdoors', 'Beauty', 'Beauty']",2
+Nicholas Sellers,gregaustin@example.org,62,Female,Lake Bobbyview,Skincare,14-07-2024,Beauty,3,88.26,08-02-2024,5,Olay,High,['Groceries'],4
+Linda Flynn,gdelgado@example.org,53,Female,Traciview,Smartphone,03-01-2024,Electronics,2,75.44,05-01-2023,19,OnePlus,High,"['Health & Wellness', 'Clothing', 'Electronics', 'Groceries']",2
+Barbara Boyer,yolandaguzman@example.com,49,Other,East Pamelahaven,Vitamins,17-06-2024,Health & Wellness,1,236.69,26-11-2023,6,Centrum,Medium,"['Health & Wellness', 'Electronics']",1
+Mary Villarreal,vazquezjames@example.net,57,Other,Joshuaberg,Vitamins,18-04-2024,Health & Wellness,3,223.57,02-01-2024,8,Vitafusion,Medium,"['Electronics', 'Beauty']",5
+Melissa Bernard,kimberlyroberts@example.com,54,Female,Johnfort,Refrigerator,12-05-2024,Appliances,5,136.87,02-11-2023,10,Samsung,Medium,['Home Improvement'],1
+Deborah Jackson,mshea@example.net,56,Female,New Ambershire,TV,03-04-2024,Electronics,3,81.29,21-01-2024,17,Sony,High,"['Clothing', 'Health & Wellness']",2
+Christopher Bass,jorge32@example.net,56,Female,Walkerton,Doll,19-05-2024,Toys,1,294.74,24-02-2024,17,American Girl,Medium,"['Home Improvement', 'Toys', 'Beauty']",2
+Harold Barnes,keithbarnes@example.com,47,Female,West Sandra,TV,23-02-2024,Electronics,1,446.28,07-04-2023,13,Vizio,Medium,"['Health & Wellness', 'Electronics', 'Clothing', 'Groceries']",3
+Gary Johnson,tapiarachel@example.org,59,Other,North Tiffany,Laptop,18-06-2024,Electronics,3,426.53,11-05-2024,14,Dell,Medium,"['Appliances', 'Groceries']",3
+Joel Buck,scott68@example.org,48,Male,Buchananfurt,Table,17-01-2024,Furniture,3,278.08,16-08-2023,11,Better Homes & Gardens,Medium,"['Clothing', 'Groceries', 'Groceries', 'Electronics']",2
+Rachel Doyle,wagnerdaniel@example.org,57,Female,Ruthstad,Bread,13-04-2024,Groceries,2,329.07,11-04-2024,9,Wonder,High,"['Sports & Outdoors', 'Clothing', 'Beauty', 'Furniture', 'Groceries']",4
+Sydney Reyes,ysmith@example.net,24,Male,Sheltonborough,First Aid,20-07-2024,Health & Wellness,3,129.47,10-12-2023,20,Johnson & Johnson,High,"['Groceries', 'Furniture', 'Health & Wellness']",2
+Veronica Mcdonald,meganbest@example.com,36,Other,East Stephanieborough,Shirt,06-05-2024,Clothing,2,47.54,16-05-2023,3,Hanes,High,['Clothing'],3
+James Reynolds,brianrichard@example.org,41,Male,East Stephanie,Jacket,08-01-2024,Clothing,4,419.86,21-03-2023,4,North Face,High,"['Furniture', 'Toys']",3
+Nicholas Ramirez,kcain@example.net,69,Male,North Jose,Eggs,14-02-2024,Groceries,5,80.24,20-05-2023,19,Eggland's Best,Low,"['Beauty', 'Furniture', 'Appliances']",3
+Alexander Wu,lindsay76@example.net,57,Male,Port Philip,Shirt,09-04-2024,Clothing,2,105.34,17-12-2023,5,Hanes,High,"['Electronics', 'Appliances', 'Electronics']",1
+Jade Espinoza,paulvaldez@example.com,60,Other,Ryanville,Microwave,21-05-2024,Appliances,5,294.77,26-04-2024,5,LG,High,"['Toys', 'Groceries', 'Electronics', 'Beauty', 'Toys']",2
+Sydney Price,harrismelinda@example.net,32,Other,Chelseaside,Paint,17-06-2024,Home Improvement,5,406.03,30-08-2023,20,Sherwin-Williams,High,"['Health & Wellness', 'Beauty', 'Sports & Outdoors', 'Electronics', 'Groceries']",4
+Gregory James,kathryn02@example.net,22,Female,East Shannonhaven,Vitamins,08-04-2024,Health & Wellness,1,307.99,11-04-2023,7,Nature Made,Medium,"['Electronics', 'Home Improvement', 'Appliances', 'Toys']",2
+Bradley Kerr,thompsontodd@example.net,49,Female,Taylorview,Vitamins,19-01-2024,Health & Wellness,5,12.32,17-08-2023,5,Vitafusion,High,['Clothing'],2
+Aaron Larson,brittany04@example.net,20,Female,Danielport,Washer,07-03-2024,Appliances,2,421.01,16-05-2023,17,Whirlpool,High,['Electronics'],3
+Shannon Graham,mcconnellmario@example.net,49,Other,New Robert,Laptop,30-01-2024,Electronics,2,334.32,26-04-2023,16,HP,High,"['Appliances', 'Appliances', 'Health & Wellness', 'Sports & Outdoors']",2
